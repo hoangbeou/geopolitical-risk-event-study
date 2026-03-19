@@ -1,0 +1,11 @@
+date,Event_Name,Detected_Locations,OIL_CAR,BTC_CAR,GOLD_CAR,Event_Type
+2020-05-18,Second Libyan Civil War,"Afghanistan, Libya",0.678475,0.138087,0.003204,ACT
+2022-12-27,Russo-Ukrainian War,Ukraine,0.235074,0.051377,0.043298,THREAT
+2025-05-26,Gaza war,"Gaza, Gaza Strip, Germany, Russia, Ukraine",0.147283,0.060485,-0.004219,THREAT
+2024-09-26,Israel–Hezbollah conflict,"Australia, Donetsk, Gaza, Israel, Lebanon, Pakistan, Syria, Ukraine, United States",0.146142,0.083797,0.022662,THREAT
+2017-07-05,Mexican Drug War,,0.120653,-0.342748,-0.010471,THREAT
+2021-10-05,Insurgency in Jammu and Kashmir,"Afghanistan, Kabul, Kashmir",0.116123,0.445344,-0.000238,THREAT
+2024-06-24,Israel–Hamas war,"Dagestan, Donetsk, Gaza, Gaza Strip, Israel, Kyiv, Russia, Ukraine",0.110654,-0.284853,-0.031637,ACT
+2016-03-23,2016 Brussels bombings,"Poland, Yemen",0.101577,-0.082681,-0.040672,ACT
+2015-03-27,2015 military intervention in Yemen,"Saudi Arabia, Somalia, Yemen",0.091724,-0.195555,0.033716,ACT
+2025-06-23,Middle Eastern crisis,"Canada, France, Gaza, Gaza Strip, Iran, Iraq, Israel, Kyiv, Qatar, Somalia, Tehran, Ukraine",0.086942,0.029583,-0.037984,THREAT

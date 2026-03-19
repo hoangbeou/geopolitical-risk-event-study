@@ -1,0 +1,36 @@
+================================================================================
+TỔNG HỢP INSIGHTS VỀ HỘI TỤ/PHÂN KỲ THEO VỊ TRÍ ĐỊA LÝ
+================================================================================
+
+1. LOCATIONS VỚI NHIỀU EVENTS NHƯNG PHÂN KỲ CAO:
+               Event_Count  Diverge_Rate  BTC_GOLD_Converge_Rate
+location                                                        
+Iraq                    10      0.900000                0.400000
+Yemen                    8      0.875000                0.625000
+Kyiv                     5      0.800000                0.800000
+Syria                   10      0.800000                0.500000
+Gaza                    17      0.764706                0.529412
+Afghanistan             11      0.727273                0.545455
+Gaza Strip              11      0.727273                0.636364
+Donetsk                  7      0.714286                0.571429
+United States            7      0.714286                0.571429
+Iran                     7      0.714286                0.857143
+
+2. LOCATIONS VỚI BTC-GOLD HỘI TỤ CAO:
+            Event_Count  BTC_GOLD_Converge_Rate
+location                                       
+Israel               22                0.636364
+Ukraine              19                0.631579
+Gaza Strip           11                0.636364
+Lebanon               9                0.666667
+Yemen                 8                0.625000
+Iran                  7                0.857143
+Kyiv                  5                0.800000
+West Bank             5                0.800000
+
+3. INSIGHTS CHÍNH:
+  • Trung Đông: Phân kỳ cao
+  • Ukraine: BTC-GOLD hội tụ nhưng OIL phân kỳ
+  • Iran: BTC-GOLD hội tụ rất cao (85.7%)
+  • Lebanon: Hội tụ cao nhất trong Trung Đông
+  • Iraq: Phân kỳ cao nhất (90%)

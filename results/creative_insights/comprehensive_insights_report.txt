@@ -1,0 +1,14 @@
+================================================================================
+PHÂN TÍCH SÁNG TẠO - COMPREHENSIVE INSIGHTS
+================================================================================
+
+Tổng số events: 63
+Date range: 2015-03-27 00:00:00 to 2025-10-23 00:00:00
+
+--------------------------------------------------------------------------------
+TÓM TẮT INSIGHTS CHÍNH
+--------------------------------------------------------------------------------
+  • BTC có phản ứng BẤT ĐỐI XỨNG: Phản ứng âm mạnh hơn phản ứng dương
+  • VOLATILITY CLUSTERING: 16 events có biến động cao (top quartile)
+  • EVENT INTENSITY: 4 events có GPR cực cao (Extreme)
+    Mean OIL CAR: -3.57%

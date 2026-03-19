@@ -1,0 +1,1319 @@
+================================================================================
+EVENT STUDY ANALYSIS - SUMMARY
+================================================================================
+
+Event window: -10 to 10 days
+Estimation window: 120 days (gap 1)
+Expected return model: mean
+
+
+Event_1:
+  Date: 2015-03-27 00:00:00
+  Description: Event_2
+
+  BTC:
+    CAR (final): -0.195555 
+    T-statistic: -0.6245
+    -> Phan ung manh: 19.56% giam
+
+  GOLD:
+    CAR (final): 0.033716 
+    T-statistic: 0.7156
+    -> Phan ung manh: 3.37% tang
+
+  OIL:
+    CAR (final): 0.091724 
+    T-statistic: 0.5419
+    -> Phan ung manh: 9.17% tang
+
+
+Event_2:
+  Date: 2015-07-15 00:00:00
+  Description: Event_3
+
+  BTC:
+    CAR (final): 0.103196 
+    T-statistic: 0.4957
+    -> Phan ung manh: 10.32% tang
+
+  GOLD:
+    CAR (final): -0.077318 *
+    T-statistic: -1.7984
+    -> Phan ung manh: 7.73% giam
+
+  OIL:
+    CAR (final): -0.143483 
+    T-statistic: -1.0516
+    -> Phan ung manh: 14.35% giam
+
+
+Event_3:
+  Date: 2015-09-22 00:00:00
+  Description: Event_4
+
+  BTC:
+    CAR (final): 0.047988 
+    T-statistic: 0.3358
+    -> Phan ung manh: 4.80% tang
+
+  GOLD:
+    CAR (final): 0.026282 
+    T-statistic: 0.6708
+    -> Phan ung manh: 2.63% tang
+
+  OIL:
+    CAR (final): 0.038583 
+    T-statistic: 0.3052
+    -> Phan ung manh: 3.86% tang
+
+
+Event_4:
+  Date: 2015-11-16 00:00:00
+  Description: Event_5
+
+  BTC:
+    CAR (final): 0.090832 
+    T-statistic: 0.6677
+    -> Phan ung manh: 9.08% tang
+
+  GOLD:
+    CAR (final): -0.060709 
+    T-statistic: -1.5464
+    -> Phan ung manh: 6.07% giam
+
+  OIL:
+    CAR (final): -0.093176 
+    T-statistic: -0.7487
+    -> Phan ung manh: 9.32% giam
+
+
+Event_5:
+  Date: 2016-01-01 00:00:00
+  Description: Event_6
+
+  BTC:
+    CAR (final): -0.323439 *
+    T-statistic: -1.8278
+    -> Phan ung manh: 32.34% giam
+
+  GOLD:
+    CAR (final): 0.051154 
+    T-statistic: 1.3006
+    -> Phan ung manh: 5.12% tang
+
+  OIL:
+    CAR (final): -0.165285 
+    T-statistic: -1.2941
+    -> Phan ung manh: 16.53% giam
+
+
+Event_6:
+  Date: 2016-03-23 00:00:00
+  Description: Event_7
+
+  BTC:
+    CAR (final): -0.082681 
+    T-statistic: -0.4725
+    -> Phan ung manh: 8.27% giam
+
+  GOLD:
+    CAR (final): -0.040672 
+    T-statistic: -0.8265
+    -> Phan ung manh: 4.07% giam
+
+  OIL:
+    CAR (final): 0.101577 
+    T-statistic: 0.6311
+    -> Phan ung manh: 10.16% tang
+
+
+Event_7:
+  Date: 2016-09-19 00:00:00
+  Description: Event_8
+
+  BTC:
+    CAR (final): 0.007757 
+    T-statistic: 0.0489
+    -> Phan ung trung binh: 0.78% tang nhe
+
+  GOLD:
+    CAR (final): -0.022937 
+    T-statistic: -0.5145
+    -> Phan ung manh: 2.29% giam
+
+  OIL:
+    CAR (final): 0.034120 
+    T-statistic: 0.2964
+    -> Phan ung manh: 3.41% tang
+
+
+Event_8:
+  Date: 2016-12-30 00:00:00
+  Description: Event_9
+
+  BTC:
+    CAR (final): 0.022330 
+    T-statistic: 0.2290
+    -> Phan ung manh: 2.23% tang
+
+  GOLD:
+    CAR (final): 0.026027 
+    T-statistic: 0.6766
+    -> Phan ung manh: 2.60% tang
+
+  OIL:
+    CAR (final): -0.053023 
+    T-statistic: -0.4568
+    -> Phan ung manh: 5.30% giam
+
+
+Event_9:
+  Date: 2017-02-10 00:00:00
+  Description: Event_10
+
+  BTC:
+    CAR (final): 0.172579 
+    T-statistic: 1.2144
+    -> Phan ung manh: 17.26% tang
+
+  GOLD:
+    CAR (final): 0.071369 **
+    T-statistic: 2.0181
+    -> Phan ung manh: 7.14% tang
+
+  OIL:
+    CAR (final): -0.045605 
+    T-statistic: -0.4312
+    -> Phan ung manh: 4.56% giam
+
+
+Event_10:
+  Date: 2017-03-22 00:00:00
+  Description: Event_11
+
+  BTC:
+    CAR (final): -0.213102 
+    T-statistic: -1.4546
+    -> Phan ung manh: 21.31% giam
+
+  GOLD:
+    CAR (final): 0.039097 
+    T-statistic: 1.1016
+    -> Phan ung manh: 3.91% tang
+
+  OIL:
+    CAR (final): -0.064141 
+    T-statistic: -0.6592
+    -> Phan ung manh: 6.41% giam
+
+
+Event_11:
+  Date: 2017-06-05 00:00:00
+  Description: Event_12
+
+  BTC:
+    CAR (final): 0.104473 
+    T-statistic: 0.5484
+    -> Phan ung manh: 10.45% tang
+
+  GOLD:
+    CAR (final): -0.003586 
+    T-statistic: -0.1084
+    -> Phan ung yeu hoac khong co phan ung
+
+  OIL:
+    CAR (final): -0.127693 
+    T-statistic: -1.4724
+    -> Phan ung manh: 12.77% giam
+
+
+Event_12:
+  Date: 2017-07-05 00:00:00
+  Description: Event_13
+
+  BTC:
+    CAR (final): -0.342748 
+    T-statistic: -1.6462
+    -> Phan ung manh: 34.27% giam
+
+  GOLD:
+    CAR (final): -0.010471 
+    T-statistic: -0.3125
+    -> Phan ung manh: 1.05% giam
+
+  OIL:
+    CAR (final): 0.120653 
+    T-statistic: 1.6013
+    -> Phan ung manh: 12.07% tang
+
+
+Event_13:
+  Date: 2017-08-10 00:00:00
+  Description: Event_14
+
+  BTC:
+    CAR (final): 0.383442 *
+    T-statistic: 1.8408
+    -> Phan ung manh: 38.34% tang
+
+  GOLD:
+    CAR (final): 0.020722 
+    T-statistic: 0.6804
+    -> Phan ung manh: 2.07% tang
+
+  OIL:
+    CAR (final): -0.014612 
+    T-statistic: -0.1920
+    -> Phan ung manh: 1.46% giam
+
+
+Event_14:
+  Date: 2017-09-04 00:00:00
+  Description: Event_15
+
+  BTC:
+    CAR (final): -0.240552 
+    T-statistic: -1.0408
+    -> Phan ung manh: 24.06% giam
+
+  GOLD:
+    CAR (final): 0.001724 
+    T-statistic: 0.0564
+    -> Phan ung yeu hoac khong co phan ung
+
+  OIL:
+    CAR (final): 0.022878 
+    T-statistic: 0.2971
+    -> Phan ung manh: 2.29% tang
+
+
+Event_15:
+  Date: 2017-11-02 00:00:00
+  Description: Event_16
+
+  BTC:
+    CAR (final): 0.105877 
+    T-statistic: 0.4040
+    -> Phan ung manh: 10.59% tang
+
+  GOLD:
+    CAR (final): -0.001411 
+    T-statistic: -0.0469
+    -> Phan ung yeu hoac khong co phan ung
+
+  OIL:
+    CAR (final): 0.045827 
+    T-statistic: 0.5907
+    -> Phan ung manh: 4.58% tang
+
+
+Event_16:
+  Date: 2018-01-02 00:00:00
+  Description: Event_17
+
+  BTC:
+    CAR (final): -0.852848 ***
+    T-statistic: -2.9553
+    -> Phan ung manh: 85.28% giam
+
+  GOLD:
+    CAR (final): 0.055633 *
+    T-statistic: 1.9140
+    -> Phan ung manh: 5.56% tang
+
+  OIL:
+    CAR (final): 0.052862 
+    T-statistic: 0.7858
+    -> Phan ung manh: 5.29% tang
+
+
+Event_17:
+  Date: 2018-04-12 00:00:00
+  Description: Event_18
+
+  BTC:
+    CAR (final): 0.067928 
+    T-statistic: 0.2165
+    -> Phan ung manh: 6.79% tang
+
+  GOLD:
+    CAR (final): -0.051443 *
+    T-statistic: -1.6761
+    -> Phan ung manh: 5.14% giam
+
+  OIL:
+    CAR (final): 0.029819 
+    T-statistic: 0.4708
+    -> Phan ung manh: 2.98% tang
+
+
+Event_18:
+  Date: 2018-05-23 00:00:00
+  Description: Event_19
+
+  BTC:
+    CAR (final): -0.211139 
+    T-statistic: -0.6706
+    -> Phan ung manh: 21.11% giam
+
+  GOLD:
+    CAR (final): -0.014234 
+    T-statistic: -0.4614
+    -> Phan ung manh: 1.42% giam
+
+  OIL:
+    CAR (final): -0.076814 
+    T-statistic: -1.2123
+    -> Phan ung manh: 7.68% giam
+
+
+Event_19:
+  Date: 2018-07-23 00:00:00
+  Description: Event_20
+
+  BTC:
+    CAR (final): 0.136613 
+    T-statistic: 0.5773
+    -> Phan ung manh: 13.66% tang
+
+  GOLD:
+    CAR (final): -0.031757 
+    T-statistic: -1.0471
+    -> Phan ung manh: 3.18% giam
+
+  OIL:
+    CAR (final): -0.107578 
+    T-statistic: -1.5259
+    -> Phan ung manh: 10.76% giam
+
+
+Event_20:
+  Date: 2018-11-13 00:00:00
+  Description: Event_21
+
+  BTC:
+    CAR (final): -0.458858 ***
+    T-statistic: -3.0077
+    -> Phan ung manh: 45.89% giam
+
+  GOLD:
+    CAR (final): 0.013427 
+    T-statistic: 0.4634
+    -> Phan ung manh: 1.34% tang
+
+  OIL:
+    CAR (final): -0.187993 **
+    T-statistic: -2.4364
+    -> Phan ung manh: 18.80% giam
+
+
+Event_21:
+  Date: 2019-01-02 00:00:00
+  Description: Event_22
+
+  BTC:
+    CAR (final): 0.097932 
+    T-statistic: 0.5578
+    -> Phan ung manh: 9.79% tang
+
+  GOLD:
+    CAR (final): 0.037450 
+    T-statistic: 1.2858
+    -> Phan ung manh: 3.75% tang
+
+  OIL:
+    CAR (final): -0.098030 
+    T-statistic: -1.1262
+    -> Phan ung manh: 9.80% giam
+
+
+Event_22:
+  Date: 2019-05-02 00:00:00
+  Description: Event_23
+
+  BTC:
+    CAR (final): 0.439691 **
+    T-statistic: 2.3599
+    -> Phan ung manh: 43.97% tang
+
+  GOLD:
+    CAR (final): -0.014408 
+    T-statistic: -0.4832
+    -> Phan ung manh: 1.44% giam
+
+  OIL:
+    CAR (final): -0.014411 
+    T-statistic: -0.1469
+    -> Phan ung manh: 1.44% giam
+
+
+Event_23:
+  Date: 2019-06-14 00:00:00
+  Description: Event_24
+
+  BTC:
+    CAR (final): 0.240504 
+    T-statistic: 1.3474
+    -> Phan ung manh: 24.05% tang
+
+  GOLD:
+    CAR (final): 0.084244 ***
+    T-statistic: 3.1813
+    -> Phan ung manh: 8.42% tang
+
+  OIL:
+    CAR (final): 0.018461 
+    T-statistic: 0.2026
+    -> Phan ung manh: 1.85% tang
+
+
+Event_24:
+  Date: 2019-08-06 00:00:00
+  Description: Event_25
+
+  BTC:
+    CAR (final): -0.153557 
+    T-statistic: -0.6731
+    -> Phan ung manh: 15.36% giam
+
+  GOLD:
+    CAR (final): 0.035311 
+    T-statistic: 1.1096
+    -> Phan ung manh: 3.53% tang
+
+  OIL:
+    CAR (final): 0.000420 
+    T-statistic: 0.0049
+    -> Phan ung yeu hoac khong co phan ung
+
+
+Event_25:
+  Date: 2019-09-16 00:00:00
+  Description: Event_26
+
+  BTC:
+    CAR (final): -0.300959 
+    T-statistic: -1.2537
+    -> Phan ung manh: 30.10% giam
+
+  GOLD:
+    CAR (final): -0.100609 ***
+    T-statistic: -2.9722
+    -> Phan ung manh: 10.06% giam
+
+  OIL:
+    CAR (final): 0.001973 
+    T-statistic: 0.0206
+    -> Phan ung yeu hoac khong co phan ung
+
+
+Event_26:
+  Date: 2019-11-13 00:00:00
+  Description: Event_27
+
+  BTC:
+    CAR (final): -0.254154 
+    T-statistic: -1.0866
+    -> Phan ung manh: 25.42% giam
+
+  GOLD:
+    CAR (final): -0.049990 
+    T-statistic: -1.3485
+    -> Phan ung manh: 5.00% giam
+
+  OIL:
+    CAR (final): 0.061782 
+    T-statistic: 0.5237
+    -> Phan ung manh: 6.18% tang
+
+
+Event_27:
+  Date: 2020-01-09 00:00:00
+  Description: Event_28
+
+  BTC:
+    CAR (final): 0.239157 
+    T-statistic: 1.3384
+    -> Phan ung manh: 23.92% tang
+
+  GOLD:
+    CAR (final): 0.050964 
+    T-statistic: 1.4640
+    -> Phan ung manh: 5.10% tang
+
+  OIL:
+    CAR (final): -0.170799 
+    T-statistic: -1.5537
+    -> Phan ung manh: 17.08% giam
+
+
+Event_28:
+  Date: 2020-05-18 00:00:00
+  Description: Event_29
+
+  BTC:
+    CAR (final): 0.138087 
+    T-statistic: 0.5161
+    -> Phan ung manh: 13.81% tang
+
+  GOLD:
+    CAR (final): 0.003204 
+    T-statistic: 0.0473
+    -> Phan ung yeu hoac khong co phan ung
+
+  OIL:
+    CAR (final): 0.678475 *
+    T-statistic: 1.9091
+    -> Phan ung manh: 67.85% tang
+
+
+Event_29:
+  Date: 2020-06-22 00:00:00
+  Description: Event_30
+
+  BTC:
+    CAR (final): -0.084364 
+    T-statistic: -0.3070
+    -> Phan ung manh: 8.44% giam
+
+  GOLD:
+    CAR (final): 0.052139 
+    T-statistic: 0.7538
+    -> Phan ung manh: 5.21% tang
+
+  OIL:
+    CAR (final): 0.001101 
+    T-statistic: 0.0030
+    -> Phan ung yeu hoac khong co phan ung
+
+
+Event_30:
+  Date: 2020-08-06 00:00:00
+  Description: Event_31
+
+  BTC:
+    CAR (final): 0.217103 
+    T-statistic: 0.8061
+    -> Phan ung manh: 21.71% tang
+
+  GOLD:
+    CAR (final): 0.008282 
+    T-statistic: 0.1174
+    -> Phan ung trung binh: 0.83% tang nhe
+
+  OIL:
+    CAR (final): -0.028622 
+    T-statistic: -0.0761
+    -> Phan ung manh: 2.86% giam
+
+
+Event_31:
+  Date: 2020-09-10 00:00:00
+  Description: Event_32
+
+  BTC:
+    CAR (final): -0.128938 
+    T-statistic: -0.4841
+    -> Phan ung manh: 12.89% giam
+
+  GOLD:
+    CAR (final): -0.066655 
+    T-statistic: -0.8834
+    -> Phan ung manh: 6.67% giam
+
+  OIL:
+    CAR (final): -0.050666 
+    T-statistic: -0.1352
+    -> Phan ung manh: 5.07% giam
+
+
+Event_32:
+  Date: 2020-11-03 00:00:00
+  Description: Event_33
+
+  BTC:
+    CAR (final): 0.364482 **
+    T-statistic: 2.5245
+    -> Phan ung manh: 36.45% tang
+
+  GOLD:
+    CAR (final): -0.029463 
+    T-statistic: -0.5877
+    -> Phan ung manh: 2.95% giam
+
+  OIL:
+    CAR (final): -0.152349 
+    T-statistic: -0.6747
+    -> Phan ung manh: 15.23% giam
+
+
+Event_33:
+  Date: 2021-02-02 00:00:00
+  Description: Event_34
+
+  BTC:
+    CAR (final): 0.088642 
+    T-statistic: 0.4923
+    -> Phan ung manh: 8.86% tang
+
+  GOLD:
+    CAR (final): -0.035896 
+    T-statistic: -0.6182
+    -> Phan ung manh: 3.59% giam
+
+  OIL:
+    CAR (final): 0.034153 
+    T-statistic: 0.3334
+    -> Phan ung manh: 3.42% tang
+
+
+Event_34:
+  Date: 2021-04-14 00:00:00
+  Description: Event_35
+
+  BTC:
+    CAR (final): -0.353572 
+    T-statistic: -1.5771
+    -> Phan ung manh: 35.36% giam
+
+  GOLD:
+    CAR (final): 0.037825 
+    T-statistic: 0.7427
+    -> Phan ung manh: 3.78% tang
+
+  OIL:
+    CAR (final): 0.025157 
+    T-statistic: 0.2231
+    -> Phan ung manh: 2.52% tang
+
+
+Event_35:
+  Date: 2021-06-22 00:00:00
+  Description: Event_36
+
+  BTC:
+    CAR (final): -0.061754 
+    T-statistic: -0.2445
+    -> Phan ung manh: 6.18% giam
+
+  GOLD:
+    CAR (final): -0.061584 
+    T-statistic: -1.3816
+    -> Phan ung manh: 6.16% giam
+
+  OIL:
+    CAR (final): -0.005227 
+    T-statistic: -0.0560
+    -> Phan ung trung binh: 0.52% giam nhe
+
+
+Event_36:
+  Date: 2021-08-23 00:00:00
+  Description: Event_37
+
+  BTC:
+    CAR (final): 0.247499 
+    T-statistic: 1.0721
+    -> Phan ung manh: 24.75% tang
+
+  GOLD:
+    CAR (final): 0.037968 
+    T-statistic: 0.9374
+    -> Phan ung manh: 3.80% tang
+
+  OIL:
+    CAR (final): -0.009248 
+    T-statistic: -0.0919
+    -> Phan ung trung binh: 0.92% giam nhe
+
+
+Event_37:
+  Date: 2021-10-05 00:00:00
+  Description: Event_38
+
+  BTC:
+    CAR (final): 0.445344 *
+    T-statistic: 1.9376
+    -> Phan ung manh: 44.53% tang
+
+  GOLD:
+    CAR (final): -0.000238 
+    T-statistic: -0.0058
+    -> Phan ung yeu hoac khong co phan ung
+
+  OIL:
+    CAR (final): 0.116123 
+    T-statistic: 1.2608
+    -> Phan ung manh: 11.61% tang
+
+
+Event_38:
+  Date: 2021-12-30 00:00:00
+  Description: Event_39
+
+  BTC:
+    CAR (final): -0.183910 
+    T-statistic: -0.9811
+    -> Phan ung manh: 18.39% giam
+
+  GOLD:
+    CAR (final): 0.017973 
+    T-statistic: 0.4822
+    -> Phan ung manh: 1.80% tang
+
+  OIL:
+    CAR (final): 0.084938 
+    T-statistic: 0.9221
+    -> Phan ung manh: 8.49% tang
+
+
+Event_39:
+  Date: 2022-01-25 00:00:00
+  Description: Event_40
+
+  BTC:
+    CAR (final): 0.016179 
+    T-statistic: 0.0857
+    -> Phan ung manh: 1.62% tang
+
+  GOLD:
+    CAR (final): 0.018258 
+    T-statistic: 0.4685
+    -> Phan ung manh: 1.83% tang
+
+  OIL:
+    CAR (final): 0.069733 
+    T-statistic: 0.7345
+    -> Phan ung manh: 6.97% tang
+
+
+Event_40:
+  Date: 2022-03-16 00:00:00
+  Description: Event_41
+
+  BTC:
+    CAR (final): 0.066290 
+    T-statistic: 0.3620
+    -> Phan ung manh: 6.63% tang
+
+  GOLD:
+    CAR (final): -0.016401 
+    T-statistic: -0.4153
+    -> Phan ung manh: 1.64% giam
+
+  OIL:
+    CAR (final): -0.031932 
+    T-statistic: -0.3719
+    -> Phan ung manh: 3.19% giam
+
+
+Event_41:
+  Date: 2022-04-22 00:00:00
+  Description: Event_42
+
+  BTC:
+    CAR (final): -0.114073 
+    T-statistic: -0.6671
+    -> Phan ung manh: 11.41% giam
+
+  GOLD:
+    CAR (final): -0.043906 
+    T-statistic: -0.9774
+    -> Phan ung manh: 4.39% giam
+
+  OIL:
+    CAR (final): -0.002872 
+    T-statistic: -0.0208
+    -> Phan ung yeu hoac khong co phan ung
+
+
+Event_42:
+  Date: 2022-05-31 00:00:00
+  Description: Event_43
+
+  BTC:
+    CAR (final): -0.190524 
+    T-statistic: -1.0504
+    -> Phan ung manh: 19.05% giam
+
+  GOLD:
+    CAR (final): 0.013923 
+    T-statistic: 0.3027
+    -> Phan ung manh: 1.39% tang
+
+  OIL:
+    CAR (final): -0.012341 
+    T-statistic: -0.0811
+    -> Phan ung manh: 1.23% giam
+
+
+Event_43:
+  Date: 2022-09-01 00:00:00
+  Description: Event_44
+
+  BTC:
+    CAR (final): -0.060985 
+    T-statistic: -0.2943
+    -> Phan ung manh: 6.10% giam
+
+  GOLD:
+    CAR (final): -0.044357 
+    T-statistic: -0.9836
+    -> Phan ung manh: 4.44% giam
+
+  OIL:
+    CAR (final): -0.026064 
+    T-statistic: -0.1593
+    -> Phan ung manh: 2.61% giam
+
+
+Event_44:
+  Date: 2022-11-08 00:00:00
+  Description: Event_45
+
+  BTC:
+    CAR (final): -0.067628 
+    T-statistic: -0.3311
+    -> Phan ung manh: 6.76% giam
+
+  GOLD:
+    CAR (final): 0.072110 *
+    T-statistic: 1.7762
+    -> Phan ung manh: 7.21% tang
+
+  OIL:
+    CAR (final): -0.026476 
+    T-statistic: -0.2029
+    -> Phan ung manh: 2.65% giam
+
+
+Event_45:
+  Date: 2022-12-27 00:00:00
+  Description: Event_46
+
+  BTC:
+    CAR (final): 0.051377 
+    T-statistic: 0.3118
+    -> Phan ung manh: 5.14% tang
+
+  GOLD:
+    CAR (final): 0.043298 
+    T-statistic: 1.0166
+    -> Phan ung manh: 4.33% tang
+
+  OIL:
+    CAR (final): 0.235074 *
+    T-statistic: 1.8226
+    -> Phan ung manh: 23.51% tang
+
+
+Event_46:
+  Date: 2023-06-26 00:00:00
+  Description: Event_47
+
+  BTC:
+    CAR (final): 0.059017 
+    T-statistic: 0.3999
+    -> Phan ung manh: 5.90% tang
+
+  GOLD:
+    CAR (final): 0.005256 
+    T-statistic: 0.1206
+    -> Phan ung trung binh: 0.53% tang nhe
+
+  OIL:
+    CAR (final): 0.035009 
+    T-statistic: 0.3424
+    -> Phan ung manh: 3.50% tang
+
+
+Event_47:
+  Date: 2023-10-06 00:00:00
+  Description: Event_48
+
+  BTC:
+    CAR (final): 0.117499 
+    T-statistic: 1.0939
+    -> Phan ung manh: 11.75% tang
+
+  GOLD:
+    CAR (final): 0.028329 
+    T-statistic: 0.8507
+    -> Phan ung manh: 2.83% tang
+
+  OIL:
+    CAR (final): -0.058043 
+    T-statistic: -0.6447
+    -> Phan ung manh: 5.80% giam
+
+
+Event_48:
+  Date: 2023-10-27 00:00:00
+  Description: Event_49
+
+  BTC:
+    CAR (final): 0.342389 ***
+    T-statistic: 3.4205
+    -> Phan ung manh: 34.24% tang
+
+  GOLD:
+    CAR (final): 0.042760 
+    T-statistic: 1.4272
+    -> Phan ung manh: 4.28% tang
+
+  OIL:
+    CAR (final): -0.077584 
+    T-statistic: -0.8493
+    -> Phan ung manh: 7.76% giam
+
+
+Event_49:
+  Date: 2023-12-04 00:00:00
+  Description: Event_50
+
+  BTC:
+    CAR (final): 0.100183 
+    T-statistic: 0.8991
+    -> Phan ung manh: 10.02% tang
+
+  GOLD:
+    CAR (final): 0.025100 
+    T-statistic: 0.7979
+    -> Phan ung manh: 2.51% tang
+
+  OIL:
+    CAR (final): -0.054491 
+    T-statistic: -0.5967
+    -> Phan ung manh: 5.45% giam
+
+
+Event_50:
+  Date: 2024-01-09 00:00:00
+  Description: Event_51
+
+  BTC:
+    CAR (final): -0.155378 
+    T-statistic: -1.3634
+    -> Phan ung manh: 15.54% giam
+
+  GOLD:
+    CAR (final): -0.011930 
+    T-statistic: -0.3412
+    -> Phan ung manh: 1.19% giam
+
+  OIL:
+    CAR (final): 0.042290 
+    T-statistic: 0.4584
+    -> Phan ung manh: 4.23% tang
+
+
+Event_51:
+  Date: 2024-02-15 00:00:00
+  Description: Event_52
+
+  BTC:
+    CAR (final): 0.294960 **
+    T-statistic: 2.2806
+    -> Phan ung manh: 29.50% tang
+
+  GOLD:
+    CAR (final): 0.015546 
+    T-statistic: 0.4415
+    -> Phan ung manh: 1.55% tang
+
+  OIL:
+    CAR (final): 0.057688 
+    T-statistic: 0.6116
+    -> Phan ung manh: 5.77% tang
+
+
+Event_52:
+  Date: 2024-04-16 00:00:00
+  Description: Event_53
+
+  BTC:
+    CAR (final): -0.306670 *
+    T-statistic: -1.9360
+    -> Phan ung manh: 30.67% giam
+
+  GOLD:
+    CAR (final): -0.002474 
+    T-statistic: -0.0671
+    -> Phan ung yeu hoac khong co phan ung
+
+  OIL:
+    CAR (final): -0.001708 
+    T-statistic: -0.0179
+    -> Phan ung yeu hoac khong co phan ung
+
+
+Event_53:
+  Date: 2024-06-24 00:00:00
+  Description: Event_54
+
+  BTC:
+    CAR (final): -0.284853 *
+    T-statistic: -1.7837
+    -> Phan ung manh: 28.49% giam
+
+  GOLD:
+    CAR (final): -0.031637 
+    T-statistic: -0.7814
+    -> Phan ung manh: 3.16% giam
+
+  OIL:
+    CAR (final): 0.110654 
+    T-statistic: 1.4960
+    -> Phan ung manh: 11.07% tang
+
+
+Event_54:
+  Date: 2024-09-11 00:00:00
+  Description: Event_55
+
+  BTC:
+    CAR (final): 0.083359 
+    T-statistic: 0.5057
+    -> Phan ung manh: 8.34% tang
+
+  GOLD:
+    CAR (final): 0.031915 
+    T-statistic: 0.6950
+    -> Phan ung manh: 3.19% tang
+
+  OIL:
+    CAR (final): -0.010318 
+    T-statistic: -0.1427
+    -> Phan ung manh: 1.03% giam
+
+
+Event_55:
+  Date: 2024-09-26 00:00:00
+  Description: Event_56
+
+  BTC:
+    CAR (final): 0.083797 
+    T-statistic: 0.5442
+    -> Phan ung manh: 8.38% tang
+
+  GOLD:
+    CAR (final): 0.022662 
+    T-statistic: 0.4997
+    -> Phan ung manh: 2.27% tang
+
+  OIL:
+    CAR (final): 0.146142 *
+    T-statistic: 1.8621
+    -> Phan ung manh: 14.61% tang
+
+
+Event_56:
+  Date: 2024-11-18 00:00:00
+  Description: Event_57
+
+  BTC:
+    CAR (final): 0.308986 **
+    T-statistic: 2.1512
+    -> Phan ung manh: 30.90% tang
+
+  GOLD:
+    CAR (final): -0.061515 
+    T-statistic: -1.4073
+    -> Phan ung manh: 6.15% giam
+
+  OIL:
+    CAR (final): 0.015290 
+    T-statistic: 0.1633
+    -> Phan ung manh: 1.53% tang
+
+
+Event_57:
+  Date: 2025-01-22 00:00:00
+  Description: Event_58
+
+  BTC:
+    CAR (final): -0.075336 
+    T-statistic: -0.4778
+    -> Phan ung manh: 7.53% giam
+
+  GOLD:
+    CAR (final): 0.061155 
+    T-statistic: 1.3416
+    -> Phan ung manh: 6.12% tang
+
+  OIL:
+    CAR (final): -0.001249 
+    T-statistic: -0.0130
+    -> Phan ung yeu hoac khong co phan ung
+
+
+Event_58:
+  Date: 2025-03-04 00:00:00
+  Description: Event_59
+
+  BTC:
+    CAR (final): -0.234109 *
+    T-statistic: -1.7106
+    -> Phan ung manh: 23.41% giam
+
+  GOLD:
+    CAR (final): -0.005923 
+    T-statistic: -0.1360
+    -> Phan ung trung binh: 0.59% giam nhe
+
+  OIL:
+    CAR (final): -0.077862 
+    T-statistic: -0.8461
+    -> Phan ung manh: 7.79% giam
+
+
+Event_59:
+  Date: 2025-04-04 00:00:00
+  Description: Event_60
+
+  BTC:
+    CAR (final): -0.059530 
+    T-statistic: -0.4117
+    -> Phan ung manh: 5.95% giam
+
+  GOLD:
+    CAR (final): 0.061921 
+    T-statistic: 1.3933
+    -> Phan ung manh: 6.19% tang
+
+  OIL:
+    CAR (final): -0.026496 
+    T-statistic: -0.3089
+    -> Phan ung manh: 2.65% giam
+
+
+Event_60:
+  Date: 2025-05-26 00:00:00
+  Description: Event_61
+
+  BTC:
+    CAR (final): 0.060485 
+    T-statistic: 0.4508
+    -> Phan ung manh: 6.05% tang
+
+  GOLD:
+    CAR (final): -0.004219 
+    T-statistic: -0.0711
+    -> Phan ung yeu hoac khong co phan ung
+
+  OIL:
+    CAR (final): 0.147283 
+    T-statistic: 1.6252
+    -> Phan ung manh: 14.73% tang
+
+
+Event_61:
+  Date: 2025-06-23 00:00:00
+  Description: Event_62
+
+  BTC:
+    CAR (final): 0.029583 
+    T-statistic: 0.2349
+    -> Phan ung manh: 2.96% tang
+
+  GOLD:
+    CAR (final): -0.037984 
+    T-statistic: -0.6419
+    -> Phan ung manh: 3.80% giam
+
+  OIL:
+    CAR (final): 0.086942 
+    T-statistic: 0.9724
+    -> Phan ung manh: 8.69% tang
+
+
+Event_62:
+  Date: 2025-09-10 00:00:00
+  Description: Event_63
+
+  BTC:
+    CAR (final): -0.045612 
+    T-statistic: -0.4183
+    -> Phan ung manh: 4.56% giam
+
+  GOLD:
+    CAR (final): 0.056218 
+    T-statistic: 0.9491
+    -> Phan ung manh: 5.62% tang
+
+  OIL:
+    CAR (final): 0.003105 
+    T-statistic: 0.0290
+    -> Phan ung yeu hoac khong co phan ung
+
+
+Event_63:
+  Date: 2025-10-23 00:00:00
+  Description: Event_64
+
+  BTC:
+    CAR (final): -0.242847 ***
+    T-statistic: -2.7608
+    -> Phan ung manh: 24.28% giam
+
+  GOLD:
+    CAR (final): -0.051952 
+    T-statistic: -0.9459
+    -> Phan ung manh: 5.20% giam
+
+  OIL:
+    CAR (final): -0.058373 
+    T-statistic: -0.6068
+    -> Phan ung manh: 5.84% giam
+
+
+================================================================================
+AVERAGE CAR ACROSS ALL EVENTS
+================================================================================
+
+BTC:
+  Average CAR: -0.014351
+  Std Deviation: 0.234635
+  -> Phan ung manh trung binh: 1.44%
+
+GOLD:
+  Average CAR: 0.003449
+  Std Deviation: 0.041552
+  -> Phan ung yeu trung binh
+
+OIL:
+  Average CAR: 0.006909
+  Std Deviation: 0.118296
+  -> Phan ung trung binh: 0.69%
+
+
+================================================================================
+KET LUAN
+================================================================================
+
+✓ PHAN UNG MANH: BTC, GOLD, OIL
+  -> GPR co anh huong ro rang trong cac su kien lon
+
+
+================================================================================
+AAR/CAAR & PATELL TESTS
+================================================================================
+
+BTC:
+  CAAR (final): -0.014351
+  Patell CAAR Z: -0.717 
+  Events analyzed: 63
+
+GOLD:
+  CAAR (final): 0.003449
+  Patell CAAR Z: 4.857 ***
+  Events analyzed: 63
+
+OIL:
+  CAAR (final): 0.006909
+  Patell CAAR Z: 0.484 
+  Events analyzed: 63
+
+
+Ghi chu:
+- Event Study: Phan ung 5-15%% (ro rang)

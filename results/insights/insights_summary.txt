@@ -1,0 +1,40 @@
+================================================================================
+EVENT STUDY INSIGHTS - COMPREHENSIVE REPORT
+================================================================================
+
+Total Events Analyzed: 64
+Date Range: 2015-01-08 00:00:00 to 2025-10-23 00:00:00
+
+--------------------------------------------------------------------------------
+OVERALL STATISTICS
+--------------------------------------------------------------------------------
+
+BTC:
+  Mean CAR: -0.014351
+  Std Dev: 0.236519
+  Min CAR: -0.852848
+  Max CAR: 0.445344
+  Median CAR: 0.022330
+
+GOLD:
+  Mean CAR: 0.003449
+  Std Dev: 0.041886
+  Min CAR: -0.100609
+  Max CAR: 0.084244
+  Median CAR: 0.005256
+
+OIL:
+  Mean CAR: 0.006909
+  Std Dev: 0.119246
+  Min CAR: -0.187993
+  Max CAR: 0.678475
+  Median CAR: -0.001708
+
+--------------------------------------------------------------------------------
+KEY INSIGHTS
+--------------------------------------------------------------------------------
+
+1. GOLD shows most consistent positive response to GPR events
+2. BTC exhibits high volatility but mixed direction
+3. OIL shows weakest correlation with geopolitical events
+

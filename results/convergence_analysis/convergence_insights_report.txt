@@ -1,0 +1,47 @@
+================================================================================
+PHÂN TÍCH HỘI TỤ/PHÂN KỲ - INSIGHTS
+================================================================================
+
+Tổng số events: 63
+Date range: 2015-03-27 00:00:00 to 2025-10-23 00:00:00
+
+--------------------------------------------------------------------------------
+1. TỔNG QUAN HỘI TỤ/PHÂN KỲ
+--------------------------------------------------------------------------------
+  Hội tụ (All cùng hướng): 16/63 (25.4%)
+  Phân kỳ (Mixed): 47/63 (74.6%)
+
+--------------------------------------------------------------------------------
+2. CORRELATION GIỮA CÁC TÀI SẢN
+--------------------------------------------------------------------------------
+  BTC-GOLD: 0.0161
+  BTC-OIL: 0.0114
+  GOLD-OIL: 0.0009
+
+--------------------------------------------------------------------------------
+3. INSIGHTS CHÍNH
+--------------------------------------------------------------------------------
+  • Phần lớn events (74.6%) gây phản ứng PHÂN KỲ
+    → Các tài sản phản ứng độc lập với GPR events
+    → Diversification có giá trị trong portfolio
+  • BTC và GOLD có correlation rất thấp (0.0161)
+    → BTC KHÔNG phải là 'Digital Gold'
+    → Hai tài sản này có cơ chế phản ứng khác nhau
+  • GOLD và OIL có correlation thấp (0.0009)
+    → Mặc dù cả hai đều là hàng hóa, nhưng phản ứng khác nhau với GPR
+
+--------------------------------------------------------------------------------
+4. PHÂN TÍCH THEO VỊ TRÍ ĐỊA LÝ
+--------------------------------------------------------------------------------
+  Locations với tỷ lệ Hội tụ cao (>50%): 9
+    - Ethiopia: 100.0% hội tụ (2 events)
+    - Sudan: 100.0% hội tụ (2 events)
+    - Azerbaijan: 100.0% hội tụ (1 events)
+    - Baghdad: 100.0% hội tụ (1 events)
+    - Middle East: 100.0% hội tụ (1 events)
+  Locations với tỷ lệ Phân kỳ cao (>50%): 48
+    - Israel: 63.6% phân kỳ (22 events)
+    - Ukraine: 63.2% phân kỳ (19 events)
+    - Gaza: 76.5% phân kỳ (17 events)
+    - Afghanistan: 72.7% phân kỳ (11 events)
+    - Gaza Strip: 72.7% phân kỳ (11 events)

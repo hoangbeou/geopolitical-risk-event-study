@@ -1,0 +1,9 @@
+Criterion,Our_Study,Score
+Không có market proxy phù hợp,✓ Bitcoin không có market proxy chuẩn,1.0
+"Tài sản độc lập với market (commodities, crypto)",✓ Gold và Oil là commodities độc lập,1.0
+Daily returns (không phải monthly),✓ Sử dụng daily returns,1.0
+Event window ngắn (< 30 days),"✓ Event window: 21 days (-10, +10)",1.0
+Estimation window đủ dài (> 60 days),✓ Estimation window: 120 days,1.0
+Mean return ổn định trong estimation window,Cần kiểm tra (xem test trên),0.5
+Mục tiêu: Phân tích phản ứng ngắn hạn,✓ Mục tiêu: Phân tích phản ứng ngắn hạn,1.0
+Tránh endogeneity issues,✓ Mean Model tránh được endogeneity,1.0

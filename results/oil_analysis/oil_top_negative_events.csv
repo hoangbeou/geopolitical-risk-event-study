@@ -1,0 +1,11 @@
+date,Event_Name,Detected_Locations,OIL_CAR,BTC_CAR,GOLD_CAR,Event_Type
+2018-11-13,Gaza–Israel clashes (November 2018),"Gaza, Israel",-0.187993,-0.458858,0.013427,THREAT
+2020-01-09,Battle of Chinagodrar,"Iran, Iraq, Tehran, Ukraine",-0.170799,0.239157,0.050964,THREAT
+2016-01-01,Israeli–Palestinian conflict,Israel,-0.165285,-0.323439,0.051154,ACT
+2020-11-03,"2020 Vienna attack , Islamic terrorism in Europe","Austria, Iraq",-0.152349,0.364482,-0.029463,ACT
+2015-07-15,Boko Haram,Nigeria,-0.143483,0.103196,-0.077318,THREAT
+2017-06-05,2017 Orlando shooting,"Australia, Iraq, United States",-0.127693,0.104473,-0.003586,ACT
+2018-07-23,War in Afghanistan (2001–2021),"Afghanistan, Canada, Turkey",-0.107578,0.136613,-0.031757,THREAT
+2019-01-02,War in Afghanistan,"Afghanistan, Pakistan",-0.09803,0.097932,0.03745,THREAT
+2015-11-16,November 2015 Paris attacks,"Belgium, Egypt, Georgia, Iraq, Sinai, Syria, Yemen",-0.093176,0.090832,-0.060709,ACT
+2025-03-04,Hezbollah–Israel conflict,"Israel, Lebanon, Pakistan, Philippines, Russia, Ukraine",-0.077862,-0.234109,-0.005923,THREAT

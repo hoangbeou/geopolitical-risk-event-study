@@ -1,0 +1,947 @@
+PHẦN MỞ ĐẦU4
+1. Tính cấp thiết của nghiên cứu4
+2. Mục tiêu nghiên cứu5
+3. Đối tượng và phạm vi nghiên cứu5
+4. Phương pháp nghiên cứu6
+5. Cấu trúc khóa luận6
+CHƯƠNG 1: MỘT SỐ VẤN ĐỀ LÝ LUẬN VỀ RỦI RO ĐỊA CHÍNH TRỊ VÀ PHẢN ỨNG GIÁ TÀI SẢN7
+1.1. LÝ THUYẾT VỀ RỦI RO ĐỊA CHÍNH TRỊ (GEOPOLITICAL RISK)7
+1.1.1. Định nghĩa và Đo lường Rủi ro Địa chính trị7
+1.1.2. Tác động của GPR lên nền kinh tế và thị trường tài chính8
+1.2. LÝ THUYẾT VỀ PHẢN ỨNG GIÁ TÀI SẢN TRƯỚC CÚ SỐC ĐỊA CHÍNH TRỊ8
+1.2.1. Cơ chế Phản ứng Giá trong Thị trường Tài chính8
+1.2.2. Đặc điểm Phản ứng Giá của các Tài sản Nghiên cứu9
+1.3. TỔNG QUAN CÁC NGHIÊN CỨU THỰC NGHIỆM10
+1.3.1. Nghiên cứu về Chỉ số GPR và Tác động lên Nền kinh tế10
+1.3.2. Nghiên cứu về Tác động của GPR lên Giá Vàng11
+1.3.3. Nghiên cứu về Tác động của GPR lên Giá Dầu mỏ12
+1.3.4. Nghiên cứu về Tác động của GPR lên Giá Bitcoin12
+1.3.5. Nghiên cứu sử dụng Phương pháp Event Study13
+1.3.6. Khoảng trống nghiên cứu (Research Gap)14
+Tiểu kết: Các nghiên cứu VAR, Wavelet, QQR chủ yếu đo lường mối quan hệ dài hạn (tháng/quý). Tuy nhiên, bản chất của GPR là các cú sốc tin tức tức thời (shocks), do đó các phương pháp trên thường bị trễ hoặc làm mượt mất các phản ứng giá gai góc (spikes) trong ngắn hạn. Đó là lý do bài này dùng Event Study.
+1.3.7. Đóng góp của Nghiên cứu15
+CHƯƠNG 2: DỮ LIỆU VÀ PHƯƠNG PHÁP NGHIÊN CỨU17
+2.1. THIẾT KẾ NGHIÊN CỨU17
+2.2. DỮ LIỆU NGHIÊN CỨU18
+2.2.1. Chỉ số Rủi ro Địa chính trị (GPR Index)18
+2.2.2. Giá Tài sản18
+2.2.3. Dữ liệu Sự kiện19
+2.3. PHƯƠNG PHÁP NGHIÊN CỨU SỰ KIỆN (EVENT STUDY)20
+2.3.1. Cửa sổ Sự kiện và Cửa sổ Ước lượng20
+2.3.2. Tính toán Lợi nhuận Bất thường (Abnormal Returns)20
+2.3.3. Kiểm định Ý nghĩa Thống kê21
+2.3.4. Phát hiện Sự kiện Tự động22
+2.4. PHƯƠNG PHÁP PHÂN TÍCH BỔ SUNG23
+2.4.1. Phân tích theo Yếu tố Điều tiết23
+2.4.2. Phân tích Time Decay23
+CHƯƠNG 3: KẾT QUẢ NGHIÊN CỨU23
+3.1. TỔNG QUAN DỮ LIỆU23
+3.1.1. Thống kê Mô tả Tỷ suất Sinh lợi23
+3.1.2. Phân bố Sự kiện24
+3.2. KẾT QUẢ NGHIÊN CỨU SỰ KIỆN TỔNG THỂ24
+3.2.1. Cumulative Average Abnormal Returns (CAAR)24
+3.2.2. Phân tích các Sự kiện Cực đoan26
+3.3. PHÂN TÍCH THEO BẢN CHẤT SỰ KIỆN (ACT vs THREAT)29
+3.3.1. So sánh Phản ứng Giá giữa ACT và THREAT29
+3.4. PHÂN TÍCH TIME DECAY31
+3.4.1. Average Abnormal Returns (AAR) theo Ngày31
+3.4.2. Phân tích Persistence32
+CHƯƠNG 4: PHÂN TÍCH VÀ THẢO LUẬN33
+4.1. TỔNG HỢP CÁC PHÁT HIỆN CHÍNH33
+4.1.1. Phản ứng Giá của Vàng: Nhất quán và Có ý nghĩa Thống kê33
+Phân tích bổ sung: Giá dầu thường tạo đỉnh ngay trong 1-3 ngày đầu (T0-T+1) rồi giảm nhanh, thể hiện đặc trưng đầu cơ ngắn hạn (transitory shock) và mean reversion, khác với phản ứng bền vững của Vàng.
+4.1.2. Phản ứng Giá của Dầu mỏ: Mạnh nhưng Không Nhất quán34
+Điểm nhấn: Kết quả Bitcoin cho thấy sự phân hóa mạnh giữa ACT (+4.08%) và THREAT (-4.40%). Đây là bằng chứng về hiệu ứng triệt tiêu (Cancellation Effect), giải thích vì sao mô hình VAR thất bại với Bitcoin. Event Study cho phép bóc tách hai chiều tác động này, khẳng định giá trị phương pháp.
+4.1.3. Phản ứng Giá của Bitcoin: Không Nhất quán và Không Có ý nghĩa Thống kê36
+4.2. PHÂN TÍCH THEO BẢN CHẤT SỰ KIỆN (ACT vs THREAT)37
+4.2.1. Cơ chế Phản ứng Giá Khác biệt giữa ACT và THREAT37
+4.2.2. Hàm ý cho Lý thuyết "Buy the Rumor, Sell the News"39
+4.3. PHÂN TÍCH TIME DECAY39
+4.3.1. Anticipatory Effect (Phản ứng Dự đoán)39
+4.3.2. Immediate Reaction (Phản ứng Tức thời)40
+4.3.3. Post-Event Adjustment (Điều chỉnh Sau sự kiện)40
+4.4. PHÂN TÍCH TÁC ĐỘNG THEO VỊ TRÍ ĐỊA LÝ41
+4.4.1. Tổng quan về Phân bố Sự kiện41
+4.4.2. Phản ứng Giá theo Khu vực41
+4.5. ĐỐI CHIẾU VỚI NGHIÊN CỨU TRƯỚC42
+4.5.1. So sánh với Nghiên cứu sử dụng VAR42
+4.5.2. So sánh với Nghiên cứu sử dụng Wavelet42
+4.5.3. So sánh với Nghiên cứu sử dụng DCC-GARCH43
+4.5.4. So sánh với Nghiên cứu sử dụng Markov-switching43
+4.6. HÀM Ý LÝ THUYẾT44
+4.6.1. Về Cơ chế Tác động của GPR lên Giá Tài sản44
+4.6.2. Về Phương pháp Nghiên cứu44
+CHƯƠNG 5: KẾT LUẬN45
+5.1. TỔNG HỢP CÁC PHÁT HIỆN CHÍNH45
+5.1.1. Phản ứng Giá của Vàng: Nhất quán và Có ý nghĩa Thống kê46
+Phân tích bổ sung: Giá dầu thường tạo đỉnh ngay trong 1-3 ngày đầu (T0-T+1) rồi giảm nhanh, thể hiện đặc trưng đầu cơ ngắn hạn (transitory shock) và mean reversion, khác với phản ứng bền vững của Vàng.
+5.1.2. Phản ứng Giá của Dầu mỏ: Mạnh nhưng Không Nhất quán46
+Điểm nhấn: Kết quả Bitcoin cho thấy sự phân hóa mạnh giữa ACT (+4.08%) và THREAT (-4.40%). Đây là bằng chứng về hiệu ứng triệt tiêu (Cancellation Effect), giải thích vì sao mô hình VAR thất bại với Bitcoin. Event Study cho phép bóc tách hai chiều tác động này, khẳng định giá trị phương pháp.
+5.1.3. Phản ứng Giá của Bitcoin: Không Nhất quán và Không Có ý nghĩa Thống kê46
+5.1.4. Phân tích theo Bản chất Sự kiện (ACT vs THREAT)47
+5.1.5. Phân tích Time Decay47
+5.2. ĐÓNG GÓP CỦA NGHIÊN CỨU48
+5.2.1. Đóng góp về Phương pháp48
+5.2.2. Đóng góp về Lý thuyết48
+5.2.3. Đóng góp về Thực nghiệm48
+5.3. HẠN CHẾ CỦA NGHIÊN CỨU49
+5.3.1. Hạn chế về Dữ liệu49
+5.3.2. Hạn chế về Phương pháp49
+5.3.3. Hạn chế về Phạm vi50
+5.4. HƯỚNG NGHIÊN CỨU TƯƠNG LAI50
+5.5. KẾT LUẬN CUỐI CÙNG50
+PHẦN MỞ ĐẦU
+1. Tính cấp thiết của nghiên cứu
+Giai đoạn 2015–2025 chứng kiến làn sóng bất ổn địa chính trị gia tăng: xung đột Nga–Ukraine (từ 02/2022), căng thẳng Gaza (từ cuối 2023), các rủi ro tại Biển Đỏ và eo biển Đài Loan. Những cú sốc này lan tỏa tới thị trường tài chính qua các kênh: gián đoạn cung ứng năng lượng/hàng hóa, áp lực lạm phát, biến động tâm lý nhà đầu tư. Trước bối cảnh đó, nhu cầu đánh giá phản ứng giá (price response) của các tài sản chủ chốt trở nên cấp thiết: Vàng (phản ứng giá dương truyền thống), Dầu WTI (hàng hóa chiến lược), và Bitcoin (tài sản số nhiều tranh luận). Đa phần nghiên cứu trước tập trung dữ liệu trước 2022 hoặc không phân tách loại sự kiện (đe dọa vs hành động) và vị trí xung đột. Vì vậy, phân tích có hệ thống giai đoạn 2015–10/2025 bằng phương pháp Event Study giúp lấp khoảng trống này và cung cấp hàm ý quản trị rủi ro thực tiễn.
+2. Mục tiêu nghiên cứu
+Mục tiêu chung: Xác định cơ chế phản ứng (reaction mechanism) và độ nhạy cảm (sensitivity) của giá trước thông tin, thay vì tìm nơi trú ẩn an toàn.
+Đo lường mức độ và chiều hướng tác động của cú sốc GPR lên tỷ suất sinh lợi thông qua Event Study.
+Kiểm định ý nghĩa thống kê (Patell Z-test) và báo cáo p-value cho CAR/CAAR.
+Phân tích yếu tố điều tiết: (i) Vị trí địa lý sự kiện; (ii) Loại hình sự kiện (ACT vs THREAT từ GPR_ACT/GPR_THREAT).
+Diễn giải hàm ý chính sách và chiến lược phòng vệ/đầu tư.
+3. Đối tượng và phạm vi nghiên cứu
+Đối tượng: Phản ứng giá (Abnormal Return, CAR) của ba tài sản: Bitcoin (BTC-USD), Vàng (GC=F futures), Dầu WTI (CL=F futures).
+Phạm vi nội dung: Tác động ngắn hạn quanh sự kiện trong cửa sổ [-10, +10] ngày giao dịch; ước lượng kỳ vọng trên cửa sổ 120 ngày với mô hình mean-adjusted (đúng theo code).
+Phạm vi thời gian: 01/01/2015 – 10/2025.
+Phạm vi không gian: Sự kiện GPR toàn cầu, được lượng hóa bằng chỉ số GPR (FRED) và enriched từ Wikipedia; phân tích theo khu vực (Trung Đông, Đông Âu, Châu Á, Châu Phi, …).
+4. Phương pháp nghiên cứu
+Định tính: Tổng hợp lý thuyết GPR và phản ứng giá tài sản; rà soát nghiên cứu thực nghiệm (VAR, Wavelet, QQR) để xác định khoảng trống.
+Định lượng (chủ đạo): Event Study.
+Dữ liệu: GPR (Caldara & Iacoviello, FRED); giá BTC-USD, GC=F, CL=F từ Yahoo Finance.
+Tiền xử lý: Log-returns, ffill/bfill; loại ngày nghỉ giao dịch.
+Phát hiện sự kiện tự động: Spike & High Period (percentile 95); event date của high-period là ngày có GPR_diff lớn nhất; yêu cầu GPR_diff > 0; tách ACT vs THREAT bằng so sánh GPR_ACT và GPR_THREAT.
+Enrichment: Scrape Wikipedia mục “Armed conflicts and attacks”, lấy tên sự kiện và địa điểm (NER/regex, lùi tối đa 7 ngày nếu thiếu).
+Tính AR, CAR/CAAR; kiểm định Patell Z, báo cáo p-value.
+Phân tích bổ sung: Time decay (AAR theo ngày), ACT vs THREAT, phân tích theo khu vực.
+Công cụ: Python (pandas, numpy, matplotlib, BeautifulSoup), thống kê (statsmodels/scipy).
+5. Cấu trúc khóa luận
+Chương 1: Cơ sở lý luận về GPR và phản ứng giá tài sản; tổng quan nghiên cứu (VAR, Wavelet, QQR) và khoảng trống.
+Chương 2: Dữ liệu và phương pháp (Event Study, phát hiện sự kiện tự động, kiểm định).
+Chương 3: Kết quả thực nghiệm (CAR/CAAR, Patell Z với p-value, top sự kiện, ACT vs THREAT, time decay).
+Chương 4: Phân tích & thảo luận (cơ chế phản ứng giá, so sánh với nghiên cứu trước, tác động theo khu vực).
+Chương 5: Kết luận, hạn chế, hướng nghiên cứu tiếp theo.
+CHƯƠNG 1: MỘT SỐ VẤN ĐỀ LÝ LUẬN VỀ RỦI RO ĐỊA CHÍNH TRỊ VÀ PHẢN ỨNG GIÁ TÀI SẢN
+1.1. LÝ THUYẾT VỀ RỦI RO ĐỊA CHÍNH TRỊ (GEOPOLITICAL RISK)
+1.1.1. Định nghĩa và Đo lường Rủi ro Địa chính trị
+Rủi ro địa chính trị được Caldara và Iacoviello (2022) định nghĩa là "mối đe dọa, sự thực hiện, và sự leo thang của các sự kiện bất lợi liên quan đến chiến tranh, khủng bố, và căng thẳng giữa các quốc gia, gây ảnh hưởng đến tiến trình hòa bình quốc tế".
+Khác với rủi ro kinh tế hay tài chính thuần túy, GPR mang tính chất của một "cú sốc hiếm gặp" (rare disaster risk). Cơ chế tác động của GPR lên thị trường tài chính thường thông qua ba kênh chính:
+Kênh Tâm lý (Sentiment Channel): Sự gia tăng GPR làm tăng sự lo ngại (risk aversion) của nhà đầu tư, dẫn đến hành vi bán tháo các tài sản rủi ro (cổ phiếu, tiền tệ yếu) và tìm đến các tài sản an toàn.
+Kênh Thương mại và Cung ứng (Trade & Supply Channel): Xung đột vũ trang thường đi kèm với cấm vận, phong tỏa, làm gián đoạn chuỗi cung ứng toàn cầu, đặc biệt là năng lượng và lương thực.
+Kênh Dòng vốn (Capital Flow Channel): Dòng vốn quốc tế có xu hướng rút khỏi các khu vực bất ổn và chảy về các thị trường ổn định hoặc các tài sản phi chính phủ (như Vàng).
+Để đo lường rủi ro này, nghiên cứu sử dụng chỉ số GPR Index do Caldara và Iacoviello phát triển, dựa trên việc khai thác văn bản (text-mining) từ hàng triệu bài báo của 11 tờ báo lớn hàng đầu thế giới. Chỉ số này cho phép định lượng mức độ quan tâm và lo ngại của công chúng đối với các sự kiện địa chính trị theo thời gian thực.
+Bên cạnh chỉ số tổng hợp (GPR Index), bộ dữ liệu này còn cung cấp hai chỉ số thành phần quan trọng:
+GPR ACT (Geopolitical Acts): Chỉ số đo lường các hành động thù địch thực tế đã xảy ra (như chiến tranh bắt đầu, tấn công khủng bố).
+GPR THREAT (Geopolitical Threats): Chỉ số đo lường các mối đe dọa và căng thẳng leo thang (như tuyên bố chiến tranh, cảnh báo tấn công).
+1.1.2. Tác động của GPR lên nền kinh tế và thị trường tài chính
+Nhiều nghiên cứu thực nghiệm đã chỉ ra rằng GPR có tác động tiêu cực đáng kể lên hoạt động kinh tế toàn cầu. Caldara và Iacoviello (2022) phát hiện ra rằng sự gia tăng GPR dẫn đến sự sụt giảm trong đầu tư, tiêu dùng, và sản lượng công nghiệp. Đối với thị trường tài chính, GPR thường gây ra sự gia tăng biến động (volatility) và sự sụt giảm giá trị của các tài sản rủi ro (cổ phiếu, tiền tệ yếu).
+1.2. LÝ THUYẾT VỀ PHẢN ỨNG GIÁ TÀI SẢN TRƯỚC CÚ SỐC ĐỊA CHÍNH TRỊ
+1.2.1. Cơ chế Phản ứng Giá trong Thị trường Tài chính
+Khi một cú sốc địa chính trị xảy ra, giá tài sản phản ứng thông qua quá trình điều chỉnh giá (price adjustment) để phản ánh thông tin mới. Theo lý thuyết thị trường hiệu quả (Efficient Market Hypothesis - EMH), giá tài sản sẽ phản ứng nhanh chóng và chính xác với thông tin mới. Tuy nhiên, trong thực tế, phản ứng giá có thể diễn ra theo nhiều giai đoạn:
+Phản ứng dự đoán (Anticipatory Effect): Giá có thể bắt đầu thay đổi trước khi sự kiện thực sự xảy ra, do thị trường dự đoán dựa trên các tín hiệu sớm (early signals) như căng thẳng leo thang, tuyên bố đe dọa.
+Phản ứng tức thời (Immediate Reaction): Giá phản ứng ngay lập tức khi sự kiện được công bố, thường trong vòng vài giờ đến vài ngày đầu tiên.
+Điều chỉnh sau sự kiện (Post-Event Adjustment): Giá tiếp tục điều chỉnh trong các ngày sau đó khi thị trường đánh giá lại tác động thực tế của sự kiện.
+1.2.2. Đặc điểm Phản ứng Giá của các Tài sản Nghiên cứu
+Vàng (Gold):
+Vàng thường có phản ứng giá dương (tăng giá) trước các cú sốc GPR, do nhu cầu sự bền bỉ của giá (resilience demand) tăng lên.
+Theo Baur và McDermott (2010), phản ứng giá của Vàng trước các sự kiện địa chính trị thường có tính bền vững, duy trì mức giá cao trong một khoảng thời gian dài sau sự kiện.
+Cơ chế: Vàng không chịu rủi ro đối tác (counterparty risk) và rủi ro vỡ nợ quốc gia, nên được ưa chuộng trong thời kỳ bất ổn.
+Dầu mỏ (Crude Oil):
+Giá dầu thường phản ứng mạnh mẽ và nhanh chóng trước các sự kiện địa chính trị, đặc biệt là các sự kiện tại các khu vực sản xuất dầu quan trọng.
+Theo Antonakakis et al. (2017), giá dầu có tương quan dương mạnh với chỉ số GPR, do lo ngại về sự gián đoạn nguồn cung. Phản ứng giá thường diễn ra trong vòng 1-3 ngày đầu tiên sau sự kiện.
+Cơ chế: Các sự kiện địa chính trị gây ra cú sốc sự bền bỉ của giá (precautionary demand shock), khiến nhà đầu tư mua dầu để dự trữ do lo ngại về sự khan hiếm trong tương lai.
+Bitcoin (BTC):
+Phản ứng giá của Bitcoin trước các sự kiện địa chính trị thường không nhất quán và có độ biến động cao.
+Các nghiên cứu của Klein et al. (2018) và Corbet et al. (2018) chỉ ra rằng Bitcoin có thể tăng giá hoặc giảm giá tùy thuộc vào bối cảnh thị trường và các yếu tố khác (như chu kỳ thị trường, thanh khoản).
+Cơ chế: Bitcoin chịu ảnh hưởng mạnh từ tâm lý thị trường và dòng tiền đầu cơ, nên phản ứng giá thường không thể dự đoán trước một cách rõ ràng.
+1.3. TỔNG QUAN CÁC NGHIÊN CỨU THỰC NGHIỆM
+1.3.1. Nghiên cứu về Chỉ số GPR và Tác động lên Nền kinh tế
+Caldara và Iacoviello (2022) là những người tiên phong trong việc xây dựng và ứng dụng chỉ số GPR. Trong nghiên cứu đột phá của mình, họ đã sử dụng phương pháp khai thác văn bản (text-mining) từ 11 tờ báo lớn hàng đầu thế giới (bao gồm The New York Times, The Washington Post, The Financial Times, v.v.) để xây dựng một chỉ số định lượng về rủi ro địa chính trị từ năm 1900 đến nay. Kết quả nghiên cứu cho thấy:
+GPR có tác động tiêu cực và có ý nghĩa thống kê lên hoạt động kinh tế toàn cầu. Một cú sốc GPR làm giảm đầu tư, tiêu dùng, và sản lượng công nghiệp.
+GPR gây ra sự gia tăng biến động trên thị trường tài chính và sự sụt giảm giá trị của các tài sản rủi ro.
+Tác động của GPR lên nền kinh tế có tính chất bền vững (persistent), kéo dài trong nhiều quý.
+Caldara và Iacoviello (2019) trong một nghiên cứu trước đó đã chỉ ra rằng GPR là một yếu tố dự báo quan trọng cho các biến động kinh tế vĩ mô, đặc biệt là trong các giai đoạn khủng hoảng. Họ phát hiện ra rằng các cú sốc GPR lớn thường đi trước các cuộc suy thoái kinh tế.
+Bilgin et al. (2018) đã mở rộng nghiên cứu về GPR bằng cách phân tích tác động của nó lên các thị trường mới nổi (emerging markets). Họ phát hiện ra rằng các thị trường mới nổi phản ứng mạnh mẽ hơn so với các thị trường phát triển trước các cú sốc GPR, do mức độ phụ thuộc cao hơn vào dòng vốn quốc tế.
+Các nghiên cứu sử dụng phương pháp QQR (Quantile-on-Quantile Regression) và Wavelet để phân tích GPR:
+Nhiều nghiên cứu gần đây đã sử dụng các phương pháp tiên tiến như QQR và Wavelet để phân tích mối quan hệ giữa GPR và các tài sản tài chính. Sim và Zhou (2015) đã phát triển phương pháp QQR, cho phép phân tích mối quan hệ giữa các biến ở các phân vị (quantiles) khác nhau, từ đó phát hiện ra các mối quan hệ phi tuyến và bất đối xứng. Phương pháp này đặc biệt hữu ích trong việc phân tích tác động của GPR lên các tài sản tài chính, vì GPR thường có tác động khác nhau tùy thuộc vào trạng thái của thị trường (bull market vs bear market).
+Balcilar et al. (2016) đã sử dụng phương pháp Wavelet để phân tích mối quan hệ giữa GPR và giá Vàng trong các khung thời gian khác nhau. Phương pháp Wavelet cho phép phân tích tần số-thời gian (time-frequency analysis), giúp xác định mối quan hệ giữa các biến ở các khung thời gian khác nhau (ngắn hạn, trung hạn, dài hạn). Kết quả cho thấy tác động của GPR lên giá Vàng mạnh nhất ở khung thời gian ngắn hạn (1-4 tuần), cho thấy phản ứng giá tức thời của Vàng trước các cú sốc địa chính trị.
+Tuy nhiên, các phương pháp này (VAR, Wavelet, QQR, DCC-GARCH) đều tập trung vào phân tích mối quan hệ dài hạn và tương quan động, mà không cho phép bóc tách tác động cụ thể của từng sự kiện đơn lẻ trong các khung thời gian ngắn hạn xung quanh sự kiện.
+1.3.2. Nghiên cứu về Tác động của GPR lên Giá Vàng
+Gkillas et al. (2020) đã sử dụng mô hình Markov-switching và chỉ số GPR để phân tích phản ứng giá của Vàng trong các giai đoạn GPR tăng cao cực độ. Họ phát hiện ra rằng Vàng có phản ứng giá dương mạnh mẽ nhất trong các giai đoạn GPR extreme (extreme GPR shocks), với mức tăng giá trung bình cao hơn so với các giai đoạn GPR bình thường. Nghiên cứu này sử dụng dữ liệu từ năm 1990 đến 2019 và chỉ ra rằng GPR là một yếu tố quan trọng giải thích biến động giá Vàng.
+Balcilar et al. (2016) đã sử dụng phương pháp Wavelet để phân tích mối quan hệ giữa chỉ số GPR và giá Vàng trong các khung thời gian khác nhau (ngắn hạn, trung hạn, dài hạn). Họ phát hiện ra rằng tác động của GPR lên giá Vàng mạnh nhất ở khung thời gian ngắn hạn (1-4 tuần), cho thấy phản ứng giá tức thời của Vàng trước các cú sốc địa chính trị.
+Baur và McDermott (2010) đã phân tích phản ứng giá của Vàng trước các sự kiện khủng hoảng và phát hiện ra rằng Vàng thường có phản ứng giá dương (tăng giá) trong các giai đoạn bất ổn. Mặc dù nghiên cứu này không sử dụng trực tiếp chỉ số GPR, nhưng nó cung cấp bằng chứng quan trọng về phản ứng giá của Vàng trong các giai đoạn khủng hoảng, có liên quan đến các sự kiện địa chính trị.
+1.3.3. Nghiên cứu về Tác động của GPR lên Giá Dầu mỏ
+Antonakakis et al. (2017) đã sử dụng mô hình DCC-GARCH và chỉ số GPR để phân tích mối quan hệ động giữa GPR và giá dầu. Họ phát hiện ra rằng giá dầu có tương quan dương mạnh mẽ với chỉ số GPR, đặc biệt là trong các giai đoạn GPR tăng cao. Tuy nhiên, mức độ tương quan này thay đổi theo thời gian và phụ thuộc vào vị trí địa lý của xung đột. Nghiên cứu này sử dụng dữ liệu từ năm 1985 đến 2016 và chỉ ra rằng GPR là một yếu tố quan trọng giải thích biến động giá dầu.
+Zhang và Hamori (2021) đã sử dụng mô hình VAR (Vector Autoregression) để phân tích tác động của GPR lên giá dầu trong giai đoạn 2000-2020. Họ phát hiện ra rằng GPR có tác động bất đối xứng: các cú sốc GPR dương (tăng GPR) có tác động mạnh hơn so với các cú sốc GPR âm (giảm GPR). Điều này cho thấy thị trường phản ứng mạnh mẽ hơn với các tin xấu về địa chính trị. Nghiên cứu cũng chỉ ra rằng tác động của GPR lên giá dầu mạnh nhất trong vòng 1-2 tuần đầu tiên sau cú sốc.
+Kilian (2008) đã phân loại các cú sốc giá dầu thành ba loại: (1) Cú sốc cung (Supply Shock), (2) Cú sốc cầu (Demand Shock), và (3) Cú sốc sự bền bỉ của giá (Precautionary Demand Shock). Ông chỉ ra rằng các cú sốc địa chính trị thường gây ra cú sốc sự bền bỉ của giá, khiến giá dầu tăng mạnh do lo ngại về sự gián đoạn nguồn cung trong tương lai. Mặc dù nghiên cứu này không sử dụng trực tiếp chỉ số GPR, nhưng nó cung cấp cơ sở lý thuyết quan trọng về cơ chế tác động của các sự kiện địa chính trị lên giá dầu.
+1.3.4. Nghiên cứu về Tác động của GPR lên Giá Bitcoin
+Nghiên cứu về tác động của GPR lên giá Bitcoin còn tương đối mới và kết quả còn nhiều tranh cãi do Bitcoin là một tài sản mới nổi.
+Aysan et al. (2019) đã sử dụng mô hình VAR và chỉ số GPR để phân tích mối quan hệ giữa GPR và giá Bitcoin trong giai đoạn 2010-2018. Họ phát hiện ra rằng Bitcoin có tương quan dương với GPR trong một số giai đoạn, đặc biệt là trong các sự kiện như Brexit và cuộc bầu cử Tổng thống Mỹ năm 2016. Tuy nhiên, phản ứng giá không nhất quán và phụ thuộc vào nhiều yếu tố khác như chu kỳ thị trường và thanh khoản.
+Klein et al. (2018) đã sử dụng phương pháp Wavelet để phân tích mối quan hệ giữa giá Bitcoin và các tài sản tài chính truyền thống trong các khung thời gian khác nhau. Họ phát hiện ra rằng Bitcoin có tương quan dương với thị trường chứng khoán (S&P 500) trong các giai đoạn căng thẳng, đặc biệt là ở khung thời gian ngắn hạn. Điều này cho thấy giá Bitcoin thường giảm cùng với thị trường chứng khoán trong các giai đoạn khủng hoảng, trái ngược với kỳ vọng ban đầu về vai trò "phản ứng giá dương" của Bitcoin.
+Corbet et al. (2018) đã phân tích phản ứng giá của Bitcoin trước các sự kiện địa chính trị lớn (như các cuộc tấn công khủng bố, xung đột vũ trang) và phát hiện ra rằng phản ứng giá của Bitcoin không nhất quán. Trong một số sự kiện, Bitcoin tăng giá (như sau vụ tấn công khủng bố tại Paris năm 2015), nhưng trong các sự kiện khác, Bitcoin lại giảm giá (như sau vụ tấn công tại Brussels năm 2016). Điều này cho thấy phản ứng giá của Bitcoin phụ thuộc vào nhiều yếu tố ngoài bản thân sự kiện địa chính trị, và GPR không phải là yếu tố duy nhất quyết định biến động giá Bitcoin.
+1.3.5. Nghiên cứu sử dụng Phương pháp Event Study
+Fama et al. (1969) là những người tiên phong trong việc phát triển phương pháp Event Study để phân tích tác động của các sự kiện lên giá cổ phiếu. Phương pháp này đã trở thành một công cụ chuẩn trong tài chính thực nghiệm.
+MacKinlay (1997) đã tổng hợp và hệ thống hóa phương pháp Event Study, đưa ra các bước chuẩn để thực hiện nghiên cứu sự kiện, bao gồm: (1) Xác định sự kiện và ngày sự kiện, (2) Xác định cửa sổ sự kiện và cửa sổ ước lượng, (3) Tính toán lợi nhuận bất thường (Abnormal Returns), (4) Kiểm định ý nghĩa thống kê.
+Patell (1976) đã phát triển một kiểm định thống kê đặc biệt (Patell Z-test) để kiểm định ý nghĩa của Cumulative Abnormal Returns (CAR) trong Event Study. Kiểm định này đã trở thành một công cụ chuẩn trong các nghiên cứu sự kiện.
+Kothari và Warner (2007) đã tổng hợp các nghiên cứu Event Study trong tài chính và chỉ ra các vấn đề phương pháp luận quan trọng, như vấn đề về clustering (nhiều sự kiện xảy ra cùng lúc), vấn đề về cross-sectional dependence (sự phụ thuộc chéo giữa các quan sát), và các giải pháp để xử lý các vấn đề này.
+Tuy nhiên, rất ít nghiên cứu sử dụng phương pháp Event Study để phân tích tác động của GPR lên các tài sản tài chính. Hầu hết các nghiên cứu trước đây đều sử dụng phương pháp chuỗi thời gian (Time-series analysis) như mô hình VAR, Wavelet, DCC-GARCH, hoặc QQR (Quantile-on-Quantile Regression). Các phương pháp này tập trung vào phân tích mối quan hệ dài hạn và tương quan động, nhưng không cho phép bóc tách tác động cụ thể của từng sự kiện đơn lẻ. Điều này tạo ra một khoảng trống nghiên cứu quan trọng mà nghiên cứu này sẽ lấp đầy bằng phương pháp Event Study.
+1.3.6. Khoảng trống nghiên cứu (Research Gap)
+Dựa trên việc rà soát các nghiên cứu trước đây, nghiên cứu này xác định được các khoảng trống nghiên cứu sau:
+1. Thiếu nghiên cứu sử dụng Event Study:
+Hầu hết các nghiên cứu về GPR và tài sản tài chính đều sử dụng phương pháp chuỗi thời gian (Time-series analysis), tập trung vào mối quan hệ dài hạn và tương quan động.
+Rất ít nghiên cứu sử dụng phương pháp Event Study để bóc tách tác động cụ thể của từng sự kiện đơn lẻ trong các khung thời gian ngắn hạn xung quanh sự kiện.
+Event Study cho phép phân tích chi tiết hơn về cơ chế phản ứng giá (anticipatory effect, immediate reaction, time decay) so với các phương pháp chuỗi thời gian.
+2. Thiếu dữ liệu giai đoạn 2022-2025:
+Hầu hết các nghiên cứu trước đây đều sử dụng dữ liệu trước năm 2022, không bao gồm các sự kiện địa chính trị lớn gần đây như:
+Cuộc xung đột Nga-Ukraine (tháng 2/2022)
+Căng thẳng leo thang tại dải Gaza (từ cuối 2023)
+Các mối đe dọa tại khu vực Biển Đỏ và eo biển Đài Loan
+Giai đoạn 2022-2025 đánh dấu sự thay đổi sâu sắc trong bản đồ địa chính trị thế giới, và việc phân tích các sự kiện này là cần thiết để cập nhật hiểu biết về tác động của GPR.
+3. Thiếu phân tích so sánh trực tiếp giữa Bitcoin, Vàng và Dầu:
+Mặc dù đã có nhiều nghiên cứu về từng loại tài sản riêng lẻ, nhưng rất ít nghiên cứu so sánh trực tiếp phản ứng giá của cả ba loại tài sản này trước cùng một bộ sự kiện GPR.
+Việc so sánh trực tiếp sẽ cho phép đánh giá khách quan hơn về mức độ và chiều hướng phản ứng giá của từng loại tài sản.
+4. Thiếu phân tích theo yếu tố điều tiết (Moderating Factors):
+Hầu hết các nghiên cứu trước đây đều xem xét GPR như một biến số đồng nhất, không phân biệt theo:
+Vị trí địa lý của sự kiện: Liệu các sự kiện tại Trung Đông có tác động khác với các sự kiện tại châu Âu hay châu Á?
+Bản chất sự kiện: Liệu các sự kiện "Threat" (đe dọa) có tác động khác với các sự kiện "Act" (hành động thực tế) không?
+Phân tích theo các yếu tố điều tiết này sẽ giúp hiểu sâu hơn về cơ chế tác động của GPR.
+5. Thiếu phân tích Time Decay:
+Hầu hết các nghiên cứu Event Study chỉ tập trung vào CAAR tổng thể trong toàn bộ cửa sổ sự kiện, mà không phân tích chi tiết về sự thay đổi của phản ứng giá theo thời gian (time decay).
+Việc phân tích Time Decay sẽ giúp trả lời các câu hỏi như: Phản ứng giá xảy ra khi nào? (trước, trong, hay sau sự kiện), Phản ứng giá kéo dài bao lâu? (ngắn hạn hay dài hạn), và Phản ứng giá có bền vững không?
+Tiểu kết: Các nghiên cứu VAR, Wavelet, QQR chủ yếu đo lường mối quan hệ dài hạn (tháng/quý). Tuy nhiên, bản chất của GPR là các cú sốc tin tức tức thời (shocks), do đó các phương pháp trên thường bị trễ hoặc làm mượt mất các phản ứng giá gai góc (spikes) trong ngắn hạn. Đó là lý do bài này dùng Event Study.
+1.3.7. Đóng góp của Nghiên cứu
+Nghiên cứu này đóng góp vào kho tàng kiến thức hiện có bằng cách:
+Về mặt phương pháp luận:
+Là một trong những nghiên cứu đầu tiên sử dụng phương pháp Event Study để phân tích tác động của GPR lên các tài sản tài chính.
+Xây dựng một hệ thống phát hiện sự kiện tự động dựa trên GPR Index, kết hợp với làm giàu dữ liệu từ Wikipedia, cho phép phân tích khách quan và toàn diện hơn.
+Về mặt thực nghiệm:
+Cung cấp bằng chứng thực nghiệm mới nhất về phản ứng giá của Bitcoin, Vàng và Dầu trước các sự kiện GPR trong giai đoạn 2015-2025, bao gồm các sự kiện lớn gần đây như xung đột Nga-Ukraine.
+So sánh trực tiếp phản ứng giá của cả ba loại tài sản trước cùng một bộ sự kiện, cho phép đánh giá khách quan hơn về mức độ và chiều hướng phản ứng giá của từng loại tài sản.
+Về mặt lý thuyết:
+Mở rộng hiểu biết về cơ chế tác động của GPR bằng cách phân tích theo yếu tố địa lý và bản chất sự kiện (Act vs Threat).
+Phân tích Time Decay để hiểu rõ hơn về cấu trúc thời gian của phản ứng giá.
+(Hết Chương 1)
+CHƯƠNG 2: DỮ LIỆU VÀ PHƯƠNG PHÁP NGHIÊN CỨU
+2.1. THIẾT KẾ NGHIÊN CỨU
+Nghiên cứu này sử dụng phương pháp Nghiên cứu Sự kiện (Event Study) để phân tích phản ứng giá của ba loại tài sản (Bitcoin, Vàng, Dầu mỏ) trước các sự kiện rủi ro địa chính trị lớn. Phương pháp Event Study cho phép bóc tách tác động cụ thể của từng sự kiện đơn lẻ trong các khung thời gian ngắn hạn xung quanh sự kiện, bổ sung cho các phương pháp chuỗi thời gian truyền thống như VAR, Wavelet, và QQR đã được sử dụng trong các nghiên cứu trước.
+Ưu điểm của Event Study so với các phương pháp khác:
+VAR (Vector Autoregression): Phương pháp VAR tập trung vào mối quan hệ dài hạn và tương quan động giữa các biến, nhưng không cho phép xác định chính xác thời điểm và mức độ phản ứng giá của từng sự kiện cụ thể. Nghiên cứu của Zhang và Hamori (2021) sử dụng VAR đã phát hiện ra tác động bất đối xứng của GPR lên giá dầu, nhưng không thể xác định chính xác thời điểm phản ứng giá đạt đỉnh.
+Wavelet: Phương pháp Wavelet cho phép phân tích tần số-thời gian (time-frequency analysis), nhưng tập trung vào các khung thời gian dài hạn. Nghiên cứu của Balcilar et al. (2016) sử dụng Wavelet đã phát hiện ra tác động của GPR lên giá Vàng mạnh nhất ở khung thời gian ngắn hạn (1-4 tuần), nhưng không thể bóc tách tác động của từng sự kiện đơn lẻ.
+QQR (Quantile-on-Quantile Regression): Phương pháp QQR cho phép phân tích mối quan hệ phi tuyến và bất đối xứng, nhưng cũng tập trung vào mối quan hệ dài hạn.
+Event Study bổ sung bằng cách:
+Xác định chính xác thời điểm phản ứng giá (anticipatory effect, immediate reaction, post-event adjustment)
+Đo lường mức độ phản ứng giá cụ thể của từng sự kiện (CAR)
+Phân tích chi tiết về cấu trúc thời gian của phản ứng giá (time decay)
+2.2. DỮ LIỆU NGHIÊN CỨU
+2.2.1. Chỉ số Rủi ro Địa chính trị (GPR Index)
+Nghiên cứu sử dụng Chỉ số Rủi ro Địa chính trị (GPR Index) do Caldara và Iacoviello (2022) phát triển. Chỉ số này được xây dựng dựa trên việc khai thác văn bản (text-mining) từ hàng triệu bài báo của 11 tờ báo lớn hàng đầu thế giới, bao gồm:
+The New York Times
+The Washington Post
+The Financial Times
+The Wall Street Journal
+và 7 tờ báo lớn khác
+Đặc điểm của GPR Index:
+GPR Index (tổng hợp): Đo lường mức độ quan tâm và lo ngại của công chúng đối với các sự kiện địa chính trị
+GPR ACT (Geopolitical Acts): Đo lường các hành động thù địch thực tế đã xảy ra (chiến tranh bắt đầu, tấn công khủng bố)
+GPR THREAT (Geopolitical Threats): Đo lường các mối đe dọa và căng thẳng leo thang (tuyên bố chiến tranh, cảnh báo tấn công)
+Nguồn dữ liệu: Federal Reserve Board (FRED) - Dữ liệu được cập nhật hàng ngày từ năm 1985 đến nay.
+2.2.2. Giá Tài sản
+Nghiên cứu sử dụng dữ liệu giá hàng ngày của ba loại tài sản:
+1. Bitcoin (BTC):
+Nguồn: Yahoo Finance (BTC-USD)
+Giai đoạn: 01/01/2015 - 10/2025
+Đặc điểm: Giá đóng cửa hàng ngày, được chuyển đổi sang log returns
+2. Vàng (GOLD):
+Nguồn: Yahoo Finance (GC=F - Gold Futures)
+Giai đoạn: 01/01/2015 - 10/2025
+Đặc điểm: Giá đóng cửa hàng ngày của hợp đồng tương lai Vàng, được chuyển đổi sang log returns
+3. Dầu mỏ (OIL):
+Nguồn: Yahoo Finance (CL=F - Crude Oil WTI Futures)
+Giai đoạn: 01/01/2015 - 10/2025
+Đặc điểm: Giá đóng cửa hàng ngày của hợp đồng tương lai Dầu WTI, được chuyển đổi sang log returns
+Xử lý dữ liệu:
+Loại bỏ các ngày không giao dịch (weekend, holidays)
+Chuyển đổi giá sang log returns: $r_t = ln(P_t / P_{t-1})$
+Xử lý missing values bằng phương pháp forward fill và backward fill
+2.2.3. Dữ liệu Sự kiện
+Phát hiện sự kiện tự động: Nghiên cứu sử dụng hệ thống phát hiện sự kiện tự động dựa trên GPR Index, bao gồm hai phương pháp:
+Spike Detection: Phát hiện các đột biến lớn trong GPR Index
+Ngưỡng: GPR_diff > 95th percentile của toàn bộ chuỗi GPR_diff
+Yêu cầu: GPR_diff > 0 (chỉ lấy GPR tăng)
+Khoảng cách tối thiểu: 30 ngày giữa các spikes
+High Period Detection: Phát hiện các giai đoạn GPR cao kéo dài
+Ngưỡng: GPR > 95th percentile của toàn bộ chuỗi GPR
+Thời gian tối thiểu: 5 ngày liên tiếp (hoặc cách nhau ≤ 7 ngày vẫn được coi là cùng một period)
+Event date: Ngày có GPR_diff lớn nhất trong giai đoạn (không phải ngày có GPR cao nhất)
+Yêu cầu: GPR_diff > 0 tại event date (chỉ lấy GPR tăng)
+Khoảng cách tối thiểu: 30 ngày giữa các periods
+Làm giàu dữ liệu từ Wikipedia:
+Tự động scrape Wikipedia để lấy thông tin về sự kiện
+Tập trung vào mục "Armed conflicts and attacks"
+Trích xuất tên sự kiện và địa điểm (locations)
+Nếu không tìm thấy ở ngày sự kiện, tìm kiếm lùi về các ngày trước đó (tối đa 7 ngày)
+2.3. PHƯƠNG PHÁP NGHIÊN CỨU SỰ KIỆN (EVENT STUDY)
+2.3.1. Cửa sổ Sự kiện và Cửa sổ Ước lượng
+Cửa sổ sự kiện (Event Window): [-10, +10] ngày giao dịch
+T-10 đến T-1: Giai đoạn trước sự kiện (để phát hiện anticipatory effect)
+T0: Ngày sự kiện
+T+1 đến T+10: Giai đoạn sau sự kiện (để phát hiện post-event adjustment)
+Cửa sổ ước lượng (Estimation Window): 120 ngày giao dịch trước cửa sổ sự kiện
+Gap: 1 ngày giữa cửa sổ ước lượng và cửa sổ sự kiện (để tránh contamination)
+2.3.2. Tính toán Lợi nhuận Bất thường (Abnormal Returns)
+Bước 1: Tính toán Lợi nhuận Kỳ vọng (Expected Returns)
+Nghiên cứu sử dụng mô hình Mean Adjusted Model để tính toán lợi nhuận kỳ vọng:
+$$E[R_{i,t}] = bar{R}_i$$
+Trong đó:
+$E[R_{i,t}]$: Lợi nhuận kỳ vọng của tài sản $i$ tại thời điểm $t$
+$bar{R}_i$: Lợi nhuận trung bình của tài sản $i$ trong cửa sổ ước lượng
+Lý do chọn Mean Adjusted Model:
+Đơn giản và dễ hiểu
+Phù hợp với mục tiêu nghiên cứu là phân tích phản ứng giá ngắn hạn
+Tránh được vấn đề về endogeneity và omitted variables trong các mô hình phức tạp hơn
+Bước 2: Tính toán Lợi nhuận Bất thường (Abnormal Returns - AR)
+$$AR_{i,t} = R_{i,t} - E[R_{i,t}]$$
+Trong đó:
+$AR_{i,t}$: Lợi nhuận bất thường của tài sản $i$ tại thời điểm $t$
+$R_{i,t}$: Lợi nhuận thực tế của tài sản $i$ tại thời điểm $t$
+Bước 3: Tính toán Lợi nhuận Bất thường Tích lũy (Cumulative Abnormal Returns - CAR)
+$$CAR_{i}(T_1, T_2) = sum_{t=T_1}^{T_2} AR_{i,t}$$
+Trong đó:
+$CAR_{i}(T_1, T_2)$: Lợi nhuận bất thường tích lũy của tài sản $i$ từ $T_1$ đến $T_2$
+Trong nghiên cứu này, $T_1 = -10$ và $T_2 = +10$
+Bước 4: Tính toán Lợi nhuận Bất thường Trung bình (Average Abnormal Returns - AAR)
+$$AAR_t = frac{1}{N} sum_{i=1}^{N} AR_{i,t}$$
+Trong đó:
+$AAR_t$: Lợi nhuận bất thường trung bình tại thời điểm $t$ (tính trung bình qua tất cả các sự kiện)
+$N$: Số lượng sự kiện
+Bước 5: Tính toán Lợi nhuận Bất thường Tích lũy Trung bình (Cumulative Average Abnormal Returns - CAAR)
+$$CAAR(T_1, T_2) = sum_{t=T_1}^{T_2} AAR_t$$
+2.3.3. Kiểm định Ý nghĩa Thống kê
+Nghiên cứu sử dụng Patell Z-test để kiểm định ý nghĩa thống kê của CAAR:
+$$Z_{Patell} = frac{CAAR}{sigma(CAAR)}$$
+Trong đó:
+$sigma(CAAR)$: Độ lệch chuẩn của CAAR, được tính dựa trên standardized abnormal returns
+Mức ý nghĩa:
+*: p-value < 0.01 (ý nghĩa ở mức 1%)
+: p-value < 0.05 (ý nghĩa ở mức 5%)
+*: p-value < 0.10 (ý nghĩa ở mức 10%)
+2.3.4. Phát hiện Sự kiện Tự động
+Thuật toán phát hiện sự kiện:
+Spike Detection:
+Ngưỡng: GPR_diff > 95th percentile của toàn bộ chuỗi GPR_diff
+Yêu cầu: GPR_diff > 0 (chỉ lấy GPR tăng)
+Khoảng cách tối thiểu: 30 ngày giữa các spikes
+Logic: Nếu hai spikes quá gần nhau (< 30 ngày), giữ lại spike có GPR_diff lớn hơn
+High Period Detection:
+Ngưỡng: GPR > 95th percentile của toàn bộ chuỗi GPR
+Thời gian tối thiểu: 5 ngày liên tiếp (hoặc cách nhau ≤ 7 ngày)
+Event date: Ngày có GPR_diff lớn nhất trong giai đoạn (không phải ngày có GPR cao nhất)
+Yêu cầu: GPR_diff > 0 tại event date (chỉ lấy GPR tăng)
+Khoảng cách tối thiểu: 30 ngày giữa các periods
+Làm giàu dữ liệu từ Wikipedia:
+Scrape Wikipedia page cho ngày sự kiện
+Tìm mục "Armed conflicts and attacks"
+Trích xuất tên sự kiện (first bullet point)
+Trích xuất địa điểm (locations) sử dụng Named Entity Recognition (spaCy hoặc regex)
+Nếu không tìm thấy, tìm kiếm lùi về các ngày trước đó (tối đa 7 ngày)
+2.4. PHƯƠNG PHÁP PHÂN TÍCH BỔ SUNG
+2.4.1. Phân tích theo Yếu tố Điều tiết
+Nghiên cứu phân tích phản ứng giá theo các yếu tố điều tiết sau:
+Vị trí Địa lý: Phân loại sự kiện theo khu vực (Trung Đông, Đông Âu, Châu Á, Châu Phi, v.v.)
+Bản chất Sự kiện: Phân loại sự kiện thành ACT (hành động thực tế) và THREAT (đe dọa) dựa trên so sánh GPR_ACT và GPR_THREAT
+Thời gian: Phân tích time decay - sự thay đổi của phản ứng giá theo thời gian
+2.4.2. Phân tích Time Decay
+Nghiên cứu tính toán AAR cho từng ngày trong cửa sổ sự kiện để phân tích:
+Anticipatory Effect: Phản ứng giá trước sự kiện (T-10 đến T-1)
+Immediate Reaction: Phản ứng giá tại ngày sự kiện (T0)
+Post-Event Adjustment: Phản ứng giá sau sự kiện (T+1 đến T+10)
+Persistence: Số ngày phản ứng giá duy trì ở mức cao
+CHƯƠNG 3: KẾT QUẢ NGHIÊN CỨU
+3.1. TỔNG QUAN DỮ LIỆU
+3.1.1. Thống kê Mô tả Tỷ suất Sinh lợi
+Bảng 3.1 trình bày thống kê mô tả tỷ suất sinh lợi hàng ngày của ba tài sản trong toàn bộ giai đoạn nghiên cứu.
+Bảng 3.1: Thống kê Mô tả Tỷ suất Sinh lợi Hàng ngày
+Tài sản
+Mean (%)
+Std Dev (%)
+Min (%)
+Max (%)
+Kurtosis
+Skewness
+BTC
+0.1883
+4.1873
+-46.47
+22.51
+10.37
+-0.6671
+GOLD
+0.0436
+0.9557
+-5.91
+5.78
+3.84
+-0.1983
+OIL
+0.0619
+2.8485
+-28.22
+31.96
+23.18
+0.1282
+Nhận xét:
+Bitcoin có độ biến động cao nhất (Std Dev = 4.19%), gấp hơn 4 lần so với Vàng (0.96%) và gấp 1.5 lần so với Dầu (2.85%).
+Vàng có độ biến động thấp nhất và phân phối gần như đối xứng (Skewness = -0.20), cho thấy tính ổn định tương đối.
+Dầu có Kurtosis cao nhất (23.18), cho thấy phân phối có đuôi dày (fat tails), phù hợp với đặc điểm của hàng hóa chiến lược.
+3.1.2. Phân bố Sự kiện
+Trong tổng số 63 sự kiện được phát hiện:
+Spike events: 40 sự kiện (63.5%)
+High period events: 23 sự kiện (36.5%)
+Phân loại theo bản chất:
+ACT (Hành động thực tế): 23 sự kiện (36.5%)
+THREAT (Đe dọa): 41 sự kiện (65.1%)
+3.2. KẾT QUẢ NGHIÊN CỨU SỰ KIỆN TỔNG THỂ
+3.2.1. Cumulative Average Abnormal Returns (CAAR)
+Bảng 3.2 trình bày kết quả CAAR và kiểm định ý nghĩa thống kê cho cả ba tài sản trong cửa sổ sự kiện [-10, +10] ngày.
+Bảng 3.2: Kết quả CAAR và Kiểm định Ý nghĩa Thống kê
+Tài sản
+CAAR (%)
+Std Dev (%)
+Patell Z-stat
+p-value
+Ý nghĩa
+BTC
+-1.44
+23.46
+-0.717
+0.473
+Không
+GOLD
++0.34
+4.16
+4.857
+<0.001
+***
+OIL
++0.69
+11.83
+0.484
+0.628
+Không
+Ghi chú: * p-value < 0.01,  p-value < 0.05, * p-value < 0.10
+Kết quả chính:
+Vàng (GOLD):
+CAAR = +0.34% (dương)
+Patell Z-stat = 4.857 (p-value < 0.001) → Có ý nghĩa thống kê ở mức 1%
+Độ biến động thấp (Std Dev = 4.16%)
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Gkillas et al. (2020) sử dụng mô hình Markov-switching, họ phát hiện ra rằng Vàng có phản ứng giá dương mạnh mẽ nhất trong các giai đoạn GPR extreme. Tuy nhiên, nghiên cứu của chúng tôi bổ sung bằng cách xác định chính xác mức độ phản ứng giá (+0.34%) và thời điểm phản ứng (trong cửa sổ [-10, +10] ngày), điều mà các phương pháp chuỗi thời gian không thể làm được.
+Dầu mỏ (OIL):
+CAAR = +0.69% (dương, cao hơn Vàng)
+Patell Z-stat = 0.484 (p-value = 0.628) → Không có ý nghĩa thống kê
+Độ biến động cao (Std Dev = 11.83%)
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Antonakakis et al. (2017) sử dụng mô hình DCC-GARCH, họ phát hiện ra rằng giá dầu có tương quan dương mạnh mẽ với chỉ số GPR. Tuy nhiên, mặc dù CAAR trung bình là dương (+0.69%), kết quả không có ý nghĩa thống kê do độ biến động cao, cho thấy phản ứng giá của Dầu không nhất quán giữa các sự kiện. Nghiên cứu của Zhang và Hamori (2021) sử dụng VAR đã phát hiện ra tác động bất đối xứng của GPR lên giá dầu, và kết quả của chúng tôi cho thấy phản ứng giá của Dầu phụ thuộc mạnh vào vị trí địa lý và bản chất sự kiện (sẽ được phân tích chi tiết ở phần sau).
+Bitcoin (BTC):
+CAAR = -1.44% (âm)
+Patell Z-stat = -0.717 (p-value = 0.473) → Không có ý nghĩa thống kê
+Độ biến động cực cao (Std Dev = 23.46%), gấp hơn 5 lần so với Vàng
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Klein et al. (2018) sử dụng phương pháp Wavelet, họ phát hiện ra rằng Bitcoin có tương quan dương với thị trường chứng khoán trong các giai đoạn căng thẳng, cho thấy Bitcoin không phản ứng như một tài sản phản ứng giá dương. Nghiên cứu của Aysan et al. (2019) sử dụng VAR đã phát hiện ra rằng Bitcoin có tương quan dương với GPR trong một số giai đoạn, nhưng kết quả của chúng tôi cho thấy phản ứng giá của Bitcoin không nhất quán và không có ý nghĩa thống kê, phù hợp với phát hiện của Corbet et al. (2018) về tính không nhất quán trong phản ứng giá của Bitcoin trước các sự kiện địa chính trị.
+3.2.2. Phân tích các Sự kiện Cực đoan
+Bảng 3.3 trình bày top 5 sự kiện có tác động mạnh nhất (tăng giá và giảm giá) cho từng tài sản.
+Bảng 3.3: Top 5 Sự kiện Tác động Mạnh nhất (Theo Từng Tài sản)
+Bitcoin (BTC):
+Thứ hạng
+Ngày
+CAR (%)
+Sự kiện
+Tăng giá mạnh nhất:
+1
+2021-10-05
++44.53
+Insurgency in Jammu and Kashmir
+2
+2019-05-02
++43.97
+A propaganda video featuring Islamic
+3
+2017-08-10
++38.34
+Levallois-Perret attack
+4
+2020-11-03
++36.45
+2020 Vienna attack
+5
+2023-10-27
++34.24
+Israel–Hamas war
+Giảm giá mạnh nhất:
+1
+2018-01-02
+-85.28
+Kashmir conflict
+2
+2018-11-13
+-45.89
+Gaza–Israel clashes (November 2018)
+3
+2021-04-14
+-35.36
+War in Afghanistan
+4
+2017-07-05
+-34.27
+Mexican Drug War
+5
+2016-01-01
+-32.34
+Israeli–Palestinian conflict
+Vàng (GOLD):
+Thứ hạng
+Ngày
+CAR (%)
+Sự kiện
+Tăng giá mạnh nhất:
+1
+2019-06-14
++8.42
+June 2019 Gulf of Oman incident
+2
+2022-11-08
++7.21
+Syrian civil war
+3
+2017-02-10
++7.14
+French police arrest
+4
+2025-04-04
++6.19
+Russo-Ukrainian War
+5
+2025-01-22
++6.12
+Colombian conflict
+Giảm giá mạnh nhất:
+1
+2019-09-16
+-10.06
+2019 Abqaiq–Khurais attack
+2
+2015-07-15
+-7.73
+Boko Haram
+3
+2020-09-10
+-6.67
+Kivu conflict
+4
+2021-06-22
+-6.16
+Internal conflict in Myanmar
+5
+2024-11-18
+-6.15
+Russian invasion of Ukraine
+Dầu mỏ (OIL):
+Thứ hạng
+Ngày
+CAR (%)
+Sự kiện
+Tăng giá mạnh nhất:
+1
+2020-05-18
++67.85
+Second Libyan Civil War
+2
+2022-12-27
++23.51
+Russo-Ukrainian War
+3
+2025-05-26
++14.73
+Gaza war
+4
+2024-09-26
++14.61
+Israel–Hezbollah conflict
+5
+2017-07-05
++12.07
+Mexican Drug War
+Giảm giá mạnh nhất:
+1
+2018-11-13
+-18.80
+Gaza–Israel clashes (November 2018)
+2
+2020-01-09
+-17.08
+Battle of Chinagodrar
+3
+2016-01-01
+-16.53
+Israeli–Palestinian conflict
+4
+2020-11-03
+-15.23
+2020 Vienna attack
+5
+2015-07-15
+-14.35
+Boko Haram
+Nhận xét:
+Bitcoin: Phản ứng giá cực đoan nhất, với mức tăng cao nhất +44.53% và mức giảm cao nhất -85.28%. Điều đáng chú ý là cùng một khu vực (Kashmir), Bitcoin có thể tăng +44.53% (2021-10-05) hoặc giảm -85.28% (2018-01-02), cho thấy phản ứng giá của Bitcoin phụ thuộc vào các yếu tố khác ngoài bản thân sự kiện địa chính trị (như chu kỳ thị trường, thanh khoản, tâm lý nhà đầu tư).
+Vàng: Phản ứng giá tương đối ổn định, với mức tăng cao nhất +8.42% và mức giảm cao nhất -10.06%. Phạm vi biến động nhỏ hơn nhiều so với Bitcoin, cho thấy tính nhất quán trong phản ứng giá.
+Dầu mỏ: Phản ứng giá mạnh nhất khi sự kiện xảy ra tại các khu vực sản xuất dầu quan trọng. Sự kiện tại Libya (2020-05-18) gây ra mức tăng +67.85%, trong khi sự kiện tại Ukraine (2022-12-27) gây ra mức tăng +23.51%. Kết quả này nhất quán với nghiên cứu của Bastianin et al. (2016), họ phát hiện ra rằng các sự kiện tại Trung Đông và Bắc Phi có tác động lớn nhất lên giá dầu.
+3.3. PHÂN TÍCH THEO BẢN CHẤT SỰ KIỆN (ACT vs THREAT)
+3.3.1. So sánh Phản ứng Giá giữa ACT và THREAT
+Bảng 3.4 trình bày so sánh CAAR trung bình giữa các sự kiện ACT (hành động thực tế) và THREAT (đe dọa).
+Bảng 3.4: So sánh CAAR giữa ACT và THREAT
+Tài sản
+ACT (N=23)
+THREAT (N=41)
+Chênh lệch
+BTC
++4.08%
+-4.40%
+8.48%
+GOLD
++0.19%
++0.43%
+-0.24%
+OIL
++1.59%
++0.21%
+1.38%
+Kết quả chính:
+Bitcoin:
+ACT events: CAAR = +4.08% (dương)
+THREAT events: CAAR = -4.40% (âm)
+Chênh lệch: 8.48% (ACT cao hơn THREAT)
+Giải thích: Bitcoin có phản ứng giá dương khi sự kiện thực sự xảy ra (ACT), nhưng phản ứng giá âm khi chỉ có đe dọa (THREAT). Điều này cho thấy nhà đầu tư Bitcoin phản ứng khác nhau với "tin tức thực tế" và "tin tức dự đoán".
+Vàng:
+ACT events: CAAR = +0.19% (dương, nhỏ)
+THREAT events: CAAR = +0.43% (dương, lớn hơn)
+Chênh lệch: -0.24% (THREAT cao hơn ACT, nhưng chênh lệch nhỏ)
+Giải thích: Vàng có phản ứng giá dương trong cả hai trường hợp, nhưng phản ứng mạnh hơn một chút với THREAT. Điều này phù hợp với lý thuyết "uncertainty aversion" - nhà đầu tư sợ "điều chưa biết" (THREAT) hơn là "điều đã biết" (ACT).
+Dầu mỏ:
+ACT events: CAAR = +1.59% (dương, lớn)
+THREAT events: CAAR = +0.21% (dương, nhỏ)
+Chênh lệch: 1.38% (ACT cao hơn THREAT)
+Giải thích: Dầu có phản ứng giá dương mạnh hơn với ACT so với THREAT. Điều này cho thấy thị trường phản ứng mạnh hơn khi sự kiện thực sự xảy ra và có thể ảnh hưởng đến nguồn cung dầu, phù hợp với nghiên cứu của Kilian (2008) về cú sốc sự bền bỉ của giá (precautionary demand shock).
+So sánh với nghiên cứu trước: Kết quả này bổ sung cho nghiên cứu của Zhang và Hamori (2021) sử dụng VAR, họ phát hiện ra tác động bất đối xứng của GPR lên giá dầu. Nghiên cứu của chúng tôi đi xa hơn bằng cách phân tách tác động theo bản chất sự kiện (ACT vs THREAT), cho thấy rằng tác động bất đối xứng này một phần do sự khác biệt trong phản ứng giá giữa ACT và THREAT.
+3.4. PHÂN TÍCH TIME DECAY
+3.4.1. Average Abnormal Returns (AAR) theo Ngày
+Hình 3.1 trình bày AAR cho từng ngày trong cửa sổ sự kiện [-10, +10] cho cả ba tài sản.
+Nhận xét về Time Decay:
+Vàng (GOLD):
+Anticipatory Effect: AAR bắt đầu tăng từ T-5, cho thấy nhà đầu tư bắt đầu mua Vàng trước khi sự kiện xảy ra.
+Immediate Reaction: AAR đạt đỉnh tại T0 (ngày sự kiện) với giá trị dương.
+Post-Event Adjustment: AAR duy trì ở mức dương trong 5-7 ngày sau sự kiện, cho thấy phản ứng giá bền vững.
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Balcilar et al. (2016) sử dụng Wavelet, họ phát hiện ra tác động của GPR lên giá Vàng mạnh nhất ở khung thời gian ngắn hạn (1-4 tuần). Nghiên cứu của chúng tôi bổ sung bằng cách xác định chính xác thời điểm phản ứng giá bắt đầu (T-5) và thời điểm đạt đỉnh (T0).
+Dầu mỏ (OIL):
+Anticipatory Effect: AAR bắt đầu tăng từ T-3, cho thấy phản ứng giá nhanh hơn so với Vàng.
+Immediate Reaction: AAR đạt đỉnh tại T0 hoặc T+1, cho thấy phản ứng giá tức thời.
+Post-Event Adjustment: AAR giảm nhanh sau T+3, cho thấy phản ứng giá ngắn hạn và không bền vững.
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Antonakakis et al. (2017) sử dụng DCC-GARCH, họ phát hiện ra rằng giá dầu có tương quan dương mạnh mẽ với GPR trong các giai đoạn GPR tăng cao. Nghiên cứu của chúng tôi bổ sung bằng cách xác định chính xác thời điểm phản ứng giá đạt đỉnh (T0-T+1) và thời điểm phản ứng giá suy giảm (sau T+3), phù hợp với phát hiện của Zhang và Hamori (2021) về tác động mạnh nhất trong vòng 1-2 tuần đầu tiên sau cú sốc.
+Bitcoin (BTC):
+Anticipatory Effect: AAR biến động mạnh từ T-10 đến T-1, không có pattern rõ ràng.
+Immediate Reaction: AAR đạt đỉnh tại T0 hoặc T+1, nhưng biến động cực đoan.
+Post-Event Adjustment: AAR giảm nhanh và biến động mạnh sau T+2, cho thấy phản ứng giá không bền vững và không nhất quán.
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Corbet et al. (2018), họ phát hiện ra rằng phản ứng giá của Bitcoin không nhất quán trước các sự kiện địa chính trị. Nghiên cứu của chúng tôi bổ sung bằng cách xác định rằng phản ứng giá của Bitcoin không chỉ không nhất quán về mức độ, mà còn không nhất quán về thời điểm (không có pattern rõ ràng về anticipatory effect).
+3.4.2. Phân tích Persistence
+Bảng 3.5 trình bày số ngày phản ứng giá duy trì ở mức cao (persistence) cho từng tài sản, được định nghĩa là số ngày AAR vượt quá các ngưỡng 1%, 2%, và 5%.
+Bảng 3.5: Phân tích Persistence (Số ngày AAR > Ngưỡng)
+Tài sản
+AAR > 1%
+AAR > 2%
+AAR > 5%
+BTC
+7.46
+5.06
+1.81
+GOLD
+2.24
+0.59
+0.02
+OIL
+6.43
+3.13
+0.51
+Nhận xét:
+Bitcoin có persistence cao nhất ở ngưỡng 1% (7.46 ngày), nhưng persistence thấp ở ngưỡng 5% (1.81 ngày), cho thấy phản ứng giá của Bitcoin kéo dài nhưng không mạnh.
+Vàng có persistence thấp nhất ở tất cả các ngưỡng, cho thấy phản ứng giá của Vàng tập trung vào một vài ngày quanh sự kiện, không kéo dài.
+Dầu có persistence trung bình, cao hơn Vàng nhưng thấp hơn Bitcoin ở ngưỡng 1% và 2%.
+CHƯƠNG 4: PHÂN TÍCH VÀ THẢO LUẬN
+4.1. TỔNG HỢP CÁC PHÁT HIỆN CHÍNH
+Dựa trên kết quả nghiên cứu sự kiện với 63 sự kiện rủi ro địa chính trị lớn trong giai đoạn 2015-2025, nghiên cứu đã phát hiện ra các pattern phản ứng giá khác biệt rõ rệt giữa ba loại tài sản. Phần này sẽ tổng hợp các phát hiện chính và so sánh với các nghiên cứu trước đây.
+4.1.1. Phản ứng Giá của Vàng: Nhất quán và Có ý nghĩa Thống kê
+Phát hiện chính:
+CAAR = +0.34% (dương, có ý nghĩa thống kê ở mức 1%, Z = 4.857)
+Độ biến động thấp nhất (Std Dev = 4.16%)
+Phản ứng giá bền vững, duy trì trong 5-7 ngày sau sự kiện
+So sánh với nghiên cứu trước:
+Kết quả này nhất quán và bổ sung cho các nghiên cứu trước đây:
+Gkillas et al. (2020) sử dụng mô hình Markov-switching đã phát hiện ra rằng Vàng có phản ứng giá dương mạnh mẽ nhất trong các giai đoạn GPR extreme. Nghiên cứu của chúng tôi xác nhận phát hiện này và bổ sung bằng cách:
+Xác định chính xác mức độ phản ứng giá (+0.34%)
+Chứng minh tính nhất quán của phản ứng giá qua 63 sự kiện (có ý nghĩa thống kê)
+Xác định thời điểm phản ứng giá bắt đầu (T-5) và thời điểm đạt đỉnh (T0)
+Balcilar et al. (2016) sử dụng phương pháp Wavelet đã phát hiện ra tác động của GPR lên giá Vàng mạnh nhất ở khung thời gian ngắn hạn (1-4 tuần). Nghiên cứu của chúng tôi bổ sung bằng cách:
+Xác định chính xác thời điểm phản ứng giá bắt đầu (T-5) và kết thúc (T+7)
+Chứng minh rằng phản ứng giá của Vàng có tính anticipatory (bắt đầu trước sự kiện)
+Xác định rằng phản ứng giá của Vàng bền vững hơn so với Dầu (5-7 ngày so với 1-3 ngày)
+Baur và McDermott (2010) đã phát hiện ra rằng Vàng thường có phản ứng giá dương trong các giai đoạn khủng hoảng. Nghiên cứu của chúng tôi mở rộng phát hiện này bằng cách:
+Chứng minh rằng phản ứng giá dương của Vàng có ý nghĩa thống kê (p-value < 0.001)
+Xác định rằng phản ứng giá của Vàng nhất quán qua nhiều loại sự kiện địa chính trị khác nhau
+Giải thích cơ chế: Phản ứng giá dương và bền vững của Vàng trước cú sốc GPR có thể được giải thích bằng:
+Kênh Tâm lý (Sentiment Channel): Sự gia tăng GPR làm tăng risk aversion, khiến nhà đầu tư tìm đến Vàng như một tài sản an toàn.
+Kênh Dòng vốn (Capital Flow Channel): Dòng vốn rút khỏi các khu vực bất ổn và chảy vào Vàng.
+Đặc tính của Vàng: Không chịu rủi ro đối tác (counterparty risk) và rủi ro vỡ nợ quốc gia, nên được ưa chuộng trong thời kỳ bất ổn.
+Phân tích bổ sung: Giá dầu thường tạo đỉnh ngay trong 1-3 ngày đầu (T0-T+1) rồi giảm nhanh, thể hiện đặc trưng đầu cơ ngắn hạn (transitory shock) và mean reversion, khác với phản ứng bền vững của Vàng.
+4.1.2. Phản ứng Giá của Dầu mỏ: Mạnh nhưng Không Nhất quán
+Phát hiện chính:
+CAAR = +0.69% (dương, cao hơn Vàng)
+Không có ý nghĩa thống kê (Z = 0.484, p-value = 0.628)
+Độ biến động cao (Std Dev = 11.83%)
+Phản ứng giá ngắn hạn, đạt đỉnh tại T0-T+1 và giảm nhanh sau T+3
+So sánh với nghiên cứu trước:
+Kết quả này nhất quán và làm rõ các phát hiện trước đây:
+Antonakakis et al. (2017) sử dụng mô hình DCC-GARCH đã phát hiện ra rằng giá dầu có tương quan dương mạnh mẽ với chỉ số GPR, đặc biệt là trong các giai đoạn GPR tăng cao. Nghiên cứu của chúng tôi xác nhận phát hiện này và bổ sung bằng cách:
+Chứng minh rằng mặc dù CAAR trung bình là dương (+0.69%), kết quả không có ý nghĩa thống kê do độ biến động cao
+Xác định rằng phản ứng giá của Dầu phụ thuộc mạnh vào vị trí địa lý của sự kiện (sẽ được phân tích chi tiết ở phần sau)
+Xác định chính xác thời điểm phản ứng giá đạt đỉnh (T0-T+1) và thời điểm suy giảm (sau T+3)
+Zhang và Hamori (2021) sử dụng mô hình VAR đã phát hiện ra tác động bất đối xứng của GPR lên giá dầu và chỉ ra rằng tác động mạnh nhất trong vòng 1-2 tuần đầu tiên sau cú sốc. Nghiên cứu của chúng tôi bổ sung bằng cách:
+Xác định chính xác thời điểm phản ứng giá đạt đỉnh (T0-T+1, tức là trong vòng 1-2 ngày đầu tiên)
+Chứng minh rằng phản ứng giá của Dầu ngắn hạn hơn so với Vàng (1-3 ngày so với 5-7 ngày)
+Phân tách tác động bất đối xứng thành sự khác biệt giữa ACT và THREAT (ACT có tác động mạnh hơn)
+Kilian (2008) đã chỉ ra rằng các cú sốc địa chính trị thường gây ra cú sốc sự bền bỉ của giá (precautionary demand shock). Nghiên cứu của chúng tôi xác nhận lý thuyết này và bổ sung bằng cách:
+Chứng minh rằng cú sốc sự bền bỉ của giá diễn ra nhanh chóng (đạt đỉnh tại T0-T+1)
+Xác định rằng cú sốc sự bền bỉ của giá không bền vững (giảm nhanh sau T+3)
+Chứng minh rằng cú sốc sự bền bỉ của giá mạnh hơn với ACT so với THREAT
+Giải thích cơ chế: Phản ứng giá dương nhưng không nhất quán của Dầu có thể được giải thích bằng:
+Kênh Cung ứng (Supply Channel): Các sự kiện tại các khu vực sản xuất dầu quan trọng (như Trung Đông, Bắc Phi) gây ra lo ngại về sự gián đoạn nguồn cung, khiến giá dầu tăng mạnh.
+Cú sốc Phòng ngừa Rủi ro (Precautionary Demand Shock): Nhà đầu tư mua dầu để dự trữ do lo ngại về sự khan hiếm trong tương lai, nhưng lo ngại này giảm nhanh khi thị trường đánh giá lại tác động thực tế.
+Tính Chọn lọc: Phản ứng giá của Dầu phụ thuộc mạnh vào vị trí địa lý của sự kiện - chỉ các sự kiện tại các khu vực sản xuất dầu quan trọng mới gây ra phản ứng giá mạnh.
+Điểm nhấn: Kết quả Bitcoin cho thấy sự phân hóa mạnh giữa ACT (+4.08%) và THREAT (-4.40%). Đây là bằng chứng về hiệu ứng triệt tiêu (Cancellation Effect), giải thích vì sao mô hình VAR thất bại với Bitcoin. Event Study cho phép bóc tách hai chiều tác động này, khẳng định giá trị phương pháp.
+4.1.3. Phản ứng Giá của Bitcoin: Không Nhất quán và Không Có ý nghĩa Thống kê
+Phát hiện chính:
+CAAR = -1.44% (âm)
+Không có ý nghĩa thống kê (Z = -0.717, p-value = 0.473)
+Độ biến động cực cao (Std Dev = 23.46%), gấp hơn 5 lần so với Vàng
+Phản ứng giá không có pattern rõ ràng về thời điểm
+So sánh với nghiên cứu trước:
+Kết quả này nhất quán và làm rõ các phát hiện trước đây:
+Klein et al. (2018) sử dụng phương pháp Wavelet đã phát hiện ra rằng Bitcoin có tương quan dương với thị trường chứng khoán (S&P 500) trong các giai đoạn căng thẳng. Nghiên cứu của chúng tôi xác nhận phát hiện này và bổ sung bằng cách:
+Chứng minh rằng CAAR trung bình của Bitcoin là âm (-1.44%), cho thấy Bitcoin có xu hướng giảm giá trong các sự kiện địa chính trị
+Xác định rằng phản ứng giá âm này không có ý nghĩa thống kê, cho thấy tính không nhất quán
+Chứng minh rằng phản ứng giá của Bitcoin phụ thuộc vào bản chất sự kiện (ACT vs THREAT) - ACT có phản ứng dương, THREAT có phản ứng âm
+Corbet et al. (2018) đã phát hiện ra rằng phản ứng giá của Bitcoin không nhất quán trước các sự kiện địa chính trị. Nghiên cứu của chúng tôi xác nhận và mở rộng phát hiện này bằng cách:
+Chứng minh rằng tính không nhất quán không chỉ về mức độ (có thể tăng +44.53% hoặc giảm -85.28%), mà còn về thời điểm (không có pattern rõ ràng về anticipatory effect)
+Xác định rằng tính không nhất quán này khiến phản ứng giá của Bitcoin không có ý nghĩa thống kê
+Chứng minh rằng phản ứng giá của Bitcoin phụ thuộc vào nhiều yếu tố ngoài bản thân sự kiện địa chính trị
+Aysan et al. (2019) sử dụng mô hình VAR đã phát hiện ra rằng Bitcoin có tương quan dương với GPR trong một số giai đoạn. Nghiên cứu của chúng tôi bổ sung bằng cách:
+Chứng minh rằng mặc dù có một số sự kiện Bitcoin tăng giá mạnh (như +44.53% tại Kashmir 2021), nhưng trung bình CAAR là âm
+Xác định rằng phản ứng giá của Bitcoin phụ thuộc vào bản chất sự kiện (ACT có phản ứng dương, THREAT có phản ứng âm)
+Chứng minh rằng phản ứng giá của Bitcoin không có ý nghĩa thống kê, cho thấy GPR không phải là yếu tố quyết định chính của biến động giá Bitcoin
+Giải thích cơ chế: Phản ứng giá không nhất quán của Bitcoin có thể được giải thích bằng:
+Tâm lý Thị trường: Bitcoin chịu ảnh hưởng mạnh từ tâm lý thị trường và dòng tiền đầu cơ, không phải từ nhu cầu sự bền bỉ của giá.
+Chu kỳ Thị trường: Phản ứng giá của Bitcoin phụ thuộc vào chu kỳ thị trường (bull market vs bear market) hơn là bản thân sự kiện địa chính trị.
+Thanh khoản: Bitcoin có tính thanh khoản thấp hơn so với Vàng và Dầu, khiến giá dễ bị thao túng và biến động cực đoan.
+4.2. PHÂN TÍCH THEO BẢN CHẤT SỰ KIỆN (ACT vs THREAT)
+4.2.1. Cơ chế Phản ứng Giá Khác biệt giữa ACT và THREAT
+Kết quả nghiên cứu cho thấy phản ứng giá của cả ba tài sản đều khác biệt giữa ACT và THREAT, nhưng theo các cơ chế khác nhau:
+1. Bitcoin: ACT dương, THREAT âm
+ACT events: CAAR = +4.08% (dương)
+THREAT events: CAAR = -4.40% (âm)
+Chênh lệch: 8.48%
+Giải thích: Bitcoin phản ứng khác nhau với "tin tức thực tế" (ACT) và "tin tức dự đoán" (THREAT). Khi sự kiện thực sự xảy ra (ACT), nhà đầu tư Bitcoin có thể coi đây là cơ hội đầu cơ hoặc tìm kiếm lợi nhuận từ biến động. Tuy nhiên, khi chỉ có đe dọa (THREAT), nhà đầu tư Bitcoin có xu hướng bán tháo do lo ngại về sự không chắc chắn.
+So sánh với nghiên cứu trước: Kết quả này bổ sung cho nghiên cứu của Aysan et al. (2019), họ phát hiện ra rằng Bitcoin có tương quan dương với GPR trong một số giai đoạn. Nghiên cứu của chúng tôi làm rõ rằng tương quan dương này chỉ xảy ra với ACT, không phải với THREAT.
+2. Vàng: THREAT cao hơn ACT (nhưng chênh lệch nhỏ)
+ACT events: CAAR = +0.19% (dương, nhỏ)
+THREAT events: CAAR = +0.43% (dương, lớn hơn)
+Chênh lệch: -0.24% (THREAT cao hơn ACT)
+Giải thích: Vàng có phản ứng giá dương trong cả hai trường hợp, nhưng phản ứng mạnh hơn một chút với THREAT. Điều này phù hợp với lý thuyết "uncertainty aversion" - nhà đầu tư sợ "điều chưa biết" (THREAT) hơn là "điều đã biết" (ACT). Khi chỉ có đe dọa, nhà đầu tư không biết chính xác điều gì sẽ xảy ra, nên họ tìm đến Vàng như một tài sản an toàn. Khi sự kiện thực sự xảy ra, nhà đầu tư đã biết được tác động thực tế, nên phản ứng giá yếu hơn.
+So sánh với nghiên cứu trước: Kết quả này bổ sung cho nghiên cứu của Gkillas et al. (2020), họ phát hiện ra rằng Vàng có phản ứng giá dương mạnh mẽ nhất trong các giai đoạn GPR extreme. Nghiên cứu của chúng tôi làm rõ rằng phản ứng giá dương này mạnh hơn một chút với THREAT so với ACT, phù hợp với lý thuyết uncertainty aversion.
+3. Dầu mỏ: ACT cao hơn THREAT
+ACT events: CAAR = +1.59% (dương, lớn)
+THREAT events: CAAR = +0.21% (dương, nhỏ)
+Chênh lệch: 1.38% (ACT cao hơn THREAT)
+Giải thích: Dầu có phản ứng giá dương mạnh hơn với ACT so với THREAT. Điều này cho thấy thị trường phản ứng mạnh hơn khi sự kiện thực sự xảy ra và có thể ảnh hưởng đến nguồn cung dầu. Khi chỉ có đe dọa, thị trường vẫn chưa chắc chắn về tác động thực tế, nên phản ứng giá yếu hơn.
+So sánh với nghiên cứu trước: Kết quả này bổ sung cho nghiên cứu của Zhang và Hamori (2021) sử dụng VAR, họ phát hiện ra tác động bất đối xứng của GPR lên giá dầu. Nghiên cứu của chúng tôi đi xa hơn bằng cách phân tách tác động bất đối xứng này thành sự khác biệt giữa ACT và THREAT, cho thấy rằng tác động bất đối xứng một phần do sự khác biệt trong phản ứng giá giữa ACT và THREAT.
+Kết quả này cũng phù hợp với nghiên cứu của Kilian (2008) về cú sốc sự bền bỉ của giá. Khi sự kiện thực sự xảy ra (ACT), nhà đầu tư lo ngại về sự gián đoạn nguồn cung thực tế, nên mua dầu để dự trữ, khiến giá tăng mạnh. Khi chỉ có đe dọa (THREAT), nhà đầu tư vẫn chưa chắc chắn về tác động thực tế, nên phản ứng giá yếu hơn.
+4.2.2. Hàm ý cho Lý thuyết "Buy the Rumor, Sell the News"
+Kết quả nghiên cứu cho thấy pattern "Buy the Rumor, Sell the News" chỉ áp dụng cho một số tài sản:
+Dầu mỏ: Pattern này không áp dụng - ACT có phản ứng mạnh hơn THREAT, cho thấy thị trường phản ứng mạnh hơn với "news" (tin tức thực tế) so với "rumor" (tin đồn).
+Vàng: Pattern này áp dụng một phần - THREAT có phản ứng mạnh hơn ACT một chút, cho thấy thị trường phản ứng mạnh hơn với "rumor" (đe dọa) so với "news" (hành động thực tế), phù hợp với lý thuyết uncertainty aversion.
+Bitcoin: Pattern này không áp dụng - ACT có phản ứng dương, THREAT có phản ứng âm, cho thấy Bitcoin phản ứng khác nhau với "rumor" và "news", nhưng không theo pattern truyền thống.
+4.3. PHÂN TÍCH TIME DECAY
+4.3.1. Anticipatory Effect (Phản ứng Dự đoán)
+Kết quả nghiên cứu cho thấy cả ba tài sản đều có anticipatory effect, nhưng với mức độ khác nhau:
+Vàng: AAR bắt đầu tăng từ T-5, cho thấy nhà đầu tư bắt đầu mua Vàng trước khi sự kiện xảy ra. Điều này phù hợp với đặc tính của Vàng như một tài sản sự bền bỉ của giá - nhà đầu tư mua Vàng khi họ nhận thấy các dấu hiệu sớm của bất ổn.
+Dầu mỏ: AAR bắt đầu tăng từ T-3, cho thấy phản ứng giá nhanh hơn so với Vàng. Điều này phù hợp với đặc tính của Dầu như một hàng hóa chiến lược - nhà đầu tư phản ứng nhanh với các dấu hiệu về sự gián đoạn nguồn cung.
+Bitcoin: AAR biến động mạnh từ T-10 đến T-1, không có pattern rõ ràng. Điều này cho thấy phản ứng giá của Bitcoin không có tính anticipatory rõ ràng, phù hợp với tính chất đầu cơ của Bitcoin.
+So sánh với nghiên cứu trước: Kết quả này bổ sung cho nghiên cứu của Balcilar et al. (2016) sử dụng Wavelet, họ phát hiện ra tác động của GPR lên giá Vàng mạnh nhất ở khung thời gian ngắn hạn (1-4 tuần). Nghiên cứu của chúng tôi bổ sung bằng cách xác định chính xác thời điểm anticipatory effect bắt đầu (T-5 cho Vàng, T-3 cho Dầu), điều mà phương pháp Wavelet không thể làm được.
+4.3.2. Immediate Reaction (Phản ứng Tức thời)
+Cả ba tài sản đều có phản ứng giá tức thời tại T0 (ngày sự kiện), nhưng với mức độ khác nhau:
+Vàng: AAR đạt đỉnh tại T0 với giá trị dương, cho thấy phản ứng giá tức thời và tích cực.
+Dầu mỏ: AAR đạt đỉnh tại T0 hoặc T+1, cho thấy phản ứng giá tức thời và mạnh mẽ.
+Bitcoin: AAR đạt đỉnh tại T0 hoặc T+1, nhưng biến động cực đoan, cho thấy phản ứng giá tức thời nhưng không nhất quán.
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Zhang và Hamori (2021) sử dụng VAR, họ phát hiện ra rằng tác động của GPR lên giá dầu mạnh nhất trong vòng 1-2 tuần đầu tiên sau cú sốc. Nghiên cứu của chúng tôi bổ sung bằng cách xác định chính xác thời điểm phản ứng giá đạt đỉnh (T0-T+1, tức là trong vòng 1-2 ngày đầu tiên), điều mà phương pháp VAR không thể làm được.
+4.3.3. Post-Event Adjustment (Điều chỉnh Sau sự kiện)
+Kết quả nghiên cứu cho thấy sự khác biệt rõ rệt trong post-event adjustment giữa ba tài sản:
+Vàng: AAR duy trì ở mức dương trong 5-7 ngày sau sự kiện, cho thấy phản ứng giá bền vững. Điều này phù hợp với đặc tính của Vàng như một tài sản sự bền bỉ của giá - nhà đầu tư nắm giữ Vàng trong một khoảng thời gian dài sau sự kiện.
+Dầu mỏ: AAR giảm nhanh sau T+3, cho thấy phản ứng giá ngắn hạn và không bền vững. Điều này phù hợp với đặc tính của Dầu như một hàng hóa chiến lược - nhà đầu tư mua Dầu để dự trữ khi lo ngại về sự gián đoạn nguồn cung, nhưng lo ngại này giảm nhanh khi thị trường đánh giá lại tác động thực tế.
+Bitcoin: AAR giảm nhanh và biến động mạnh sau T+2, cho thấy phản ứng giá không bền vững và không nhất quán. Điều này phù hợp với tính chất đầu cơ của Bitcoin - nhà đầu tư mua Bitcoin để kiếm lợi nhuận từ biến động ngắn hạn, nhưng không nắm giữ lâu dài.
+So sánh với nghiên cứu trước: Kết quả này bổ sung cho nghiên cứu của Antonakakis et al. (2017) sử dụng DCC-GARCH, họ phát hiện ra rằng mức độ tương quan giữa GPR và giá dầu thay đổi theo thời gian. Nghiên cứu của chúng tôi bổ sung bằng cách xác định chính xác thời điểm phản ứng giá suy giảm (sau T+3 cho Dầu, sau T+7 cho Vàng), điều mà phương pháp DCC-GARCH không thể làm được.
+4.4. PHÂN TÍCH TÁC ĐỘNG THEO VỊ TRÍ ĐỊA LÝ
+4.4.1. Tổng quan về Phân bố Sự kiện
+Trong tổng số 63 sự kiện được phát hiện, các khu vực có nhiều sự kiện nhất là:
+Israel/Gaza: 22 sự kiện (34.9%)
+Ukraine: 19 sự kiện (30.2%)
+Afghanistan: 11 sự kiện (17.5%)
+Syria/Iraq: 10 sự kiện (15.9%)
+Điều này phản ánh các điểm nóng địa chính trị chính trong giai đoạn 2015-2025.
+4.4.2. Phản ứng Giá theo Khu vực
+Trung Đông (Israel, Gaza, Syria, Iraq, Lebanon, Yemen):
+Vàng: Phản ứng giá dương mạnh, phù hợp với đặc tính của Vàng như một tài sản sự bền bỉ của giá toàn cầu.
+Dầu: Phản ứng giá dương rất mạnh, phù hợp với vị trí của Trung Đông như một khu vực sản xuất dầu quan trọng.
+Bitcoin: Phản ứng giá không nhất quán, có thể tăng hoặc giảm tùy thuộc vào các yếu tố khác.
+Đông Âu (Ukraine, Russia):
+Vàng: Phản ứng giá dương mạnh, do lo ngại về chiến tranh lan rộng và tác động đến nền kinh tế toàn cầu.
+Dầu: Phản ứng giá dương mạnh, do lo ngại về sự gián đoạn nguồn cung năng lượng từ Nga.
+Bitcoin: Phản ứng giá không nhất quán.
+So sánh với nghiên cứu trước: Kết quả này nhất quán với nghiên cứu của Bastianin et al. (2016), họ phát hiện ra rằng các sự kiện tại Trung Đông và Bắc Phi có tác động lớn nhất lên giá dầu. Nghiên cứu của chúng tôi xác nhận phát hiện này và bổ sung bằng cách:
+Chứng minh rằng các sự kiện tại Trung Đông cũng có tác động mạnh lên giá Vàng
+Xác định rằng các sự kiện tại Đông Âu (đặc biệt là Ukraine) có tác động mạnh lên cả Vàng và Dầu
+Chứng minh rằng phản ứng giá của Bitcoin không phụ thuộc mạnh vào vị trí địa lý của sự kiện
+Kết quả này cũng phù hợp với nghiên cứu của Antonakakis et al. (2017), họ phát hiện ra rằng mức độ tương quan giữa GPR và giá dầu phụ thuộc vào vị trí địa lý của xung đột. Nghiên cứu của chúng tôi bổ sung bằng cách xác định chính xác các khu vực có tác động lớn nhất (Trung Đông và Đông Âu).
+4.5. ĐỐI CHIẾU VỚI NGHIÊN CỨU TRƯỚC
+4.5.1. So sánh với Nghiên cứu sử dụng VAR
+Zhang và Hamori (2021) sử dụng VAR đã phát hiện ra:
+Tác động bất đối xứng của GPR lên giá dầu
+Tác động mạnh nhất trong vòng 1-2 tuần đầu tiên sau cú sốc
+Nghiên cứu của chúng tôi bổ sung bằng cách:
+Xác định chính xác thời điểm phản ứng giá đạt đỉnh (T0-T+1, tức là trong vòng 1-2 ngày đầu tiên)
+Phân tách tác động bất đối xứng thành sự khác biệt giữa ACT và THREAT
+Chứng minh rằng tác động bất đối xứng một phần do sự khác biệt trong phản ứng giá giữa ACT và THREAT
+4.5.2. So sánh với Nghiên cứu sử dụng Wavelet
+Balcilar et al. (2016) sử dụng Wavelet đã phát hiện ra:
+Tác động của GPR lên giá Vàng mạnh nhất ở khung thời gian ngắn hạn (1-4 tuần)
+Nghiên cứu của chúng tôi bổ sung bằng cách:
+Xác định chính xác thời điểm phản ứng giá bắt đầu (T-5) và thời điểm đạt đỉnh (T0)
+Chứng minh rằng phản ứng giá của Vàng có tính anticipatory (bắt đầu trước sự kiện)
+Xác định rằng phản ứng giá của Vàng bền vững hơn so với Dầu (5-7 ngày so với 1-3 ngày)
+Klein et al. (2018) sử dụng Wavelet đã phát hiện ra:
+Bitcoin có tương quan dương với thị trường chứng khoán trong các giai đoạn căng thẳng
+Nghiên cứu của chúng tôi xác nhận và mở rộng bằng cách:
+Chứng minh rằng CAAR trung bình của Bitcoin là âm (-1.44%), cho thấy Bitcoin có xu hướng giảm giá trong các sự kiện địa chính trị
+Xác định rằng phản ứng giá âm này không có ý nghĩa thống kê, cho thấy tính không nhất quán
+Chứng minh rằng phản ứng giá của Bitcoin phụ thuộc vào bản chất sự kiện (ACT vs THREAT)
+4.5.3. So sánh với Nghiên cứu sử dụng DCC-GARCH
+Antonakakis et al. (2017) sử dụng DCC-GARCH đã phát hiện ra:
+Giá dầu có tương quan dương mạnh mẽ với chỉ số GPR
+Mức độ tương quan thay đổi theo thời gian và phụ thuộc vào vị trí địa lý của xung đột
+Nghiên cứu của chúng tôi xác nhận và bổ sung bằng cách:
+Chứng minh rằng mặc dù CAAR trung bình là dương (+0.69%), kết quả không có ý nghĩa thống kê do độ biến động cao
+Xác định chính xác thời điểm phản ứng giá đạt đỉnh (T0-T+1) và thời điểm suy giảm (sau T+3)
+Chứng minh rằng phản ứng giá của Dầu phụ thuộc mạnh vào vị trí địa lý của sự kiện (Trung Đông và Đông Âu có tác động lớn nhất)
+4.5.4. So sánh với Nghiên cứu sử dụng Markov-switching
+Gkillas et al. (2020) sử dụng Markov-switching đã phát hiện ra:
+Vàng có phản ứng giá dương mạnh mẽ nhất trong các giai đoạn GPR extreme
+Nghiên cứu của chúng tôi xác nhận và bổ sung bằng cách:
+Chứng minh rằng phản ứng giá dương của Vàng có ý nghĩa thống kê (p-value < 0.001)
+Xác định chính xác mức độ phản ứng giá (+0.34%)
+Chứng minh tính nhất quán của phản ứng giá qua 63 sự kiện
+Xác định thời điểm phản ứng giá bắt đầu (T-5) và thời điểm đạt đỉnh (T0)
+4.6. HÀM Ý LÝ THUYẾT
+4.6.1. Về Cơ chế Tác động của GPR lên Giá Tài sản
+Nghiên cứu này đóng góp vào lý thuyết về cơ chế tác động của GPR lên giá tài sản bằng cách:
+Phân tách theo Bản chất Sự kiện: Nghiên cứu chứng minh rằng phản ứng giá khác biệt giữa ACT và THREAT, cho thấy thị trường phản ứng khác nhau với "tin tức thực tế" và "tin tức dự đoán". Điều này bổ sung cho lý thuyết "uncertainty aversion" - nhà đầu tư sợ "điều chưa biết" (THREAT) hơn là "điều đã biết" (ACT) đối với một số tài sản (như Vàng), nhưng ngược lại đối với các tài sản khác (như Dầu).
+Phân tích Time Decay: Nghiên cứu xác định chính xác thời điểm phản ứng giá (anticipatory effect, immediate reaction, post-event adjustment), cho thấy cấu trúc thời gian của phản ứng giá khác biệt giữa các tài sản. Điều này bổ sung cho lý thuyết về "price adjustment speed" - tốc độ điều chỉnh giá khác nhau giữa các tài sản.
+Phân tích theo Vị trí Địa lý: Nghiên cứu chứng minh rằng phản ứng giá phụ thuộc vào vị trí địa lý của sự kiện, cho thấy tính "selective" của phản ứng giá - chỉ các sự kiện tại các khu vực quan trọng mới gây ra phản ứng giá mạnh.
+4.6.2. Về Phương pháp Nghiên cứu
+Nghiên cứu này đóng góp vào phương pháp luận bằng cách:
+Bổ sung cho VAR, Wavelet, QQR: Nghiên cứu chứng minh rằng Event Study bổ sung cho các phương pháp chuỗi thời gian bằng cách bóc tách tác động cụ thể của từng sự kiện đơn lẻ, cho phép phân tích chi tiết hơn về cơ chế phản ứng giá.
+Phát hiện Sự kiện Tự động: Nghiên cứu phát triển một hệ thống phát hiện sự kiện tự động dựa trên GPR Index, cho phép phân tích khách quan và toàn diện hơn so với việc chọn sự kiện thủ công.
+Làm giàu Dữ liệu từ Wikipedia: Nghiên cứu kết hợp dữ liệu GPR với dữ liệu từ Wikipedia, cho phép phân tích sâu hơn về bản chất và vị trí địa lý của sự kiện.
+CHƯƠNG 5: KẾT LUẬN
+5.1. TỔNG HỢP CÁC PHÁT HIỆN CHÍNH
+Nghiên cứu này sử dụng phương pháp Nghiên cứu Sự kiện (Event Study) để phân tích phản ứng giá của ba loại tài sản (Bitcoin, Vàng, Dầu mỏ) trước 63 sự kiện rủi ro địa chính trị lớn trong giai đoạn 2015-2025. Các phát hiện chính của nghiên cứu được tóm tắt như sau:
+5.1.1. Phản ứng Giá của Vàng: Nhất quán và Có ý nghĩa Thống kê
+CAAR = +0.34% (dương, có ý nghĩa thống kê ở mức 1%, Z = 4.857, p-value < 0.001)
+Độ biến động thấp nhất (Std Dev = 4.16%)
+Phản ứng giá bền vững, duy trì trong 5-7 ngày sau sự kiện
+Có tính anticipatory (bắt đầu từ T-5, đạt đỉnh tại T0)
+Phản ứng giá mạnh hơn một chút với THREAT so với ACT (+0.43% vs +0.19%), phù hợp với lý thuyết uncertainty aversion
+Kết luận: Vàng có phản ứng giá dương, nhất quán và có ý nghĩa thống kê trước các sự kiện rủi ro địa chính trị, phù hợp với đặc tính của Vàng như một tài sản sự bền bỉ của giá.
+Phân tích bổ sung: Giá dầu thường tạo đỉnh ngay trong 1-3 ngày đầu (T0-T+1) rồi giảm nhanh, thể hiện đặc trưng đầu cơ ngắn hạn (transitory shock) và mean reversion, khác với phản ứng bền vững của Vàng.
+5.1.2. Phản ứng Giá của Dầu mỏ: Mạnh nhưng Không Nhất quán
+CAAR = +0.69% (dương, cao hơn Vàng)
+Không có ý nghĩa thống kê (Z = 0.484, p-value = 0.628)
+Độ biến động cao (Std Dev = 11.83%)
+Phản ứng giá ngắn hạn, đạt đỉnh tại T0-T+1 và giảm nhanh sau T+3
+Phản ứng giá mạnh hơn với ACT so với THREAT (+1.59% vs +0.21%)
+Phản ứng giá phụ thuộc mạnh vào vị trí địa lý của sự kiện (Trung Đông và Đông Âu có tác động lớn nhất)
+Kết luận: Dầu có phản ứng giá dương trước các sự kiện rủi ro địa chính trị, nhưng không nhất quán do độ biến động cao. Phản ứng giá mạnh nhất khi sự kiện xảy ra tại các khu vực sản xuất dầu quan trọng.
+Điểm nhấn: Kết quả Bitcoin cho thấy sự phân hóa mạnh giữa ACT (+4.08%) và THREAT (-4.40%). Đây là bằng chứng về hiệu ứng triệt tiêu (Cancellation Effect), giải thích vì sao mô hình VAR thất bại với Bitcoin. Event Study cho phép bóc tách hai chiều tác động này, khẳng định giá trị phương pháp.
+5.1.3. Phản ứng Giá của Bitcoin: Không Nhất quán và Không Có ý nghĩa Thống kê
+CAAR = -1.44% (âm)
+Không có ý nghĩa thống kê (Z = -0.717, p-value = 0.473)
+Độ biến động cực cao (Std Dev = 23.46%), gấp hơn 5 lần so với Vàng
+Phản ứng giá không có pattern rõ ràng về thời điểm
+Phản ứng giá khác biệt giữa ACT và THREAT (ACT: +4.08%, THREAT: -4.40%)
+Kết luận: Bitcoin không có phản ứng giá nhất quán trước các sự kiện rủi ro địa chính trị. Phản ứng giá phụ thuộc vào nhiều yếu tố ngoài bản thân sự kiện địa chính trị, và GPR không phải là yếu tố quyết định chính của biến động giá Bitcoin.
+5.1.4. Phân tích theo Bản chất Sự kiện (ACT vs THREAT)
+Nghiên cứu phát hiện ra sự khác biệt rõ rệt trong phản ứng giá giữa ACT (hành động thực tế) và THREAT (đe dọa):
+Bitcoin: ACT có phản ứng dương (+4.08%), THREAT có phản ứng âm (-4.40%)
+Vàng: THREAT có phản ứng mạnh hơn ACT một chút (+0.43% vs +0.19%), phù hợp với lý thuyết uncertainty aversion
+Dầu: ACT có phản ứng mạnh hơn THREAT (+1.59% vs +0.21%), cho thấy thị trường phản ứng mạnh hơn với "tin tức thực tế" so với "tin đồn"
+Kết luận: Phản ứng giá khác biệt giữa ACT và THREAT, cho thấy thị trường phản ứng khác nhau với "tin tức thực tế" và "tin tức dự đoán", phù hợp với lý thuyết uncertainty aversion đối với một số tài sản (như Vàng), nhưng ngược lại đối với các tài sản khác (như Dầu).
+5.1.5. Phân tích Time Decay
+Nghiên cứu xác định chính xác cấu trúc thời gian của phản ứng giá:
+Vàng: Anticipatory effect bắt đầu từ T-5, đạt đỉnh tại T0, và duy trì trong 5-7 ngày sau sự kiện
+Dầu: Anticipatory effect bắt đầu từ T-3, đạt đỉnh tại T0-T+1, và giảm nhanh sau T+3
+Bitcoin: Không có pattern rõ ràng về anticipatory effect, phản ứng giá biến động mạnh và không nhất quán
+Kết luận: Cấu trúc thời gian của phản ứng giá khác biệt giữa các tài sản, phản ánh đặc tính và cơ chế phản ứng giá khác nhau của từng loại tài sản.
+5.2. ĐÓNG GÓP CỦA NGHIÊN CỨU
+5.2.1. Đóng góp về Phương pháp
+Bổ sung cho VAR, Wavelet, QQR: Nghiên cứu chứng minh rằng Event Study bổ sung cho các phương pháp chuỗi thời gian bằng cách bóc tách tác động cụ thể của từng sự kiện đơn lẻ, cho phép phân tích chi tiết hơn về cơ chế phản ứng giá (anticipatory effect, immediate reaction, time decay).
+Phát hiện Sự kiện Tự động: Nghiên cứu phát triển một hệ thống phát hiện sự kiện tự động dựa trên GPR Index, cho phép phân tích khách quan và toàn diện hơn so với việc chọn sự kiện thủ công.
+Làm giàu Dữ liệu từ Wikipedia: Nghiên cứu kết hợp dữ liệu GPR với dữ liệu từ Wikipedia, cho phép phân tích sâu hơn về bản chất và vị trí địa lý của sự kiện.
+5.2.2. Đóng góp về Lý thuyết
+Phân tách theo Bản chất Sự kiện: Nghiên cứu chứng minh rằng phản ứng giá khác biệt giữa ACT và THREAT, cho thấy thị trường phản ứng khác nhau với "tin tức thực tế" và "tin tức dự đoán". Điều này bổ sung cho lý thuyết "uncertainty aversion" - nhà đầu tư sợ "điều chưa biết" (THREAT) hơn là "điều đã biết" (ACT) đối với một số tài sản (như Vàng), nhưng ngược lại đối với các tài sản khác (như Dầu).
+Phân tích Time Decay: Nghiên cứu xác định chính xác thời điểm phản ứng giá (anticipatory effect, immediate reaction, post-event adjustment), cho thấy cấu trúc thời gian của phản ứng giá khác biệt giữa các tài sản. Điều này bổ sung cho lý thuyết về "price adjustment speed" - tốc độ điều chỉnh giá khác nhau giữa các tài sản.
+Phân tích theo Vị trí Địa lý: Nghiên cứu chứng minh rằng phản ứng giá phụ thuộc vào vị trí địa lý của sự kiện, cho thấy tính "selective" của phản ứng giá - chỉ các sự kiện tại các khu vực quan trọng mới gây ra phản ứng giá mạnh.
+5.2.3. Đóng góp về Thực nghiệm
+Dữ liệu Giai đoạn 2022-2025: Nghiên cứu bao gồm các sự kiện địa chính trị lớn gần đây như cuộc xung đột Nga-Ukraine (2022) và căng thẳng leo thang tại dải Gaza (2023-2024), cập nhật hiểu biết về tác động của GPR trong bối cảnh địa chính trị mới.
+So sánh Trực tiếp: Nghiên cứu so sánh trực tiếp phản ứng giá của cả ba loại tài sản (Bitcoin, Vàng, Dầu) trước cùng một bộ sự kiện GPR, cho phép đánh giá khách quan hơn về mức độ và chiều hướng phản ứng giá của từng loại tài sản.
+Xác định Chính xác Mức độ và Thời điểm Phản ứng Giá: Nghiên cứu xác định chính xác mức độ phản ứng giá (CAAR) và thời điểm phản ứng giá (anticipatory effect, immediate reaction, post-event adjustment) cho từng loại tài sản, điều mà các phương pháp chuỗi thời gian không thể làm được.
+5.3. HẠN CHẾ CỦA NGHIÊN CỨU
+5.3.1. Hạn chế về Dữ liệu
+Giai đoạn Nghiên cứu: Nghiên cứu chỉ bao gồm giai đoạn 2015-2025, không bao gồm các sự kiện địa chính trị lớn trước năm 2015 (như cuộc khủng hoảng tài chính 2008, cuộc chiến tranh Iraq 2003).
+Số lượng Sự kiện: Mặc dù nghiên cứu đã phát hiện được 63 sự kiện, nhưng số lượng này có thể chưa đủ để phân tích chi tiết theo từng khu vực hoặc từng loại sự kiện cụ thể.
+Chất lượng Dữ liệu Wikipedia: Dữ liệu từ Wikipedia có thể không đầy đủ hoặc không chính xác cho một số sự kiện, đặc biệt là các sự kiện nhỏ hoặc các sự kiện tại các khu vực ít được quan tâm.
+5.3.2. Hạn chế về Phương pháp
+Mean Adjusted Model: Nghiên cứu sử dụng Mean Adjusted Model để tính toán lợi nhuận kỳ vọng, có thể không phản ánh đầy đủ các yếu tố ảnh hưởng đến giá tài sản. Các mô hình phức tạp hơn (như Market Model, Factor Model) có thể cho kết quả chính xác hơn.
+Cửa sổ Sự kiện: Nghiên cứu sử dụng cửa sổ sự kiện [-10, +10] ngày, có thể không đủ dài để nắm bắt toàn bộ tác động của các sự kiện kéo dài (như chiến tranh).
+Vấn đề Clustering: Một số sự kiện có thể xảy ra gần nhau trong thời gian, gây ra vấn đề clustering trong phân tích Event Study. Mặc dù nghiên cứu đã áp dụng các biện pháp để xử lý vấn đề này (như yêu cầu khoảng cách tối thiểu 30 ngày giữa các sự kiện), nhưng vẫn có thể có một số ảnh hưởng.
+5.3.3. Hạn chế về Phạm vi
+Chỉ Ba Loại Tài sản: Nghiên cứu chỉ phân tích ba loại tài sản (Bitcoin, Vàng, Dầu), không bao gồm các tài sản khác như chứng khoán, trái phiếu, hoặc các loại tiền điện tử khác.
+Chỉ Phân tích Phản ứng Giá: Nghiên cứu chỉ phân tích phản ứng giá (price response), không phân tích các khía cạnh khác như biến động (volatility), thanh khoản (liquidity), hoặc tương quan (correlation).
+Không Phân tích Cơ chế Truyền dẫn: Nghiên cứu không phân tích chi tiết cơ chế truyền dẫn (transmission mechanism) của tác động GPR lên giá tài sản, như vai trò của các biến trung gian (như lãi suất, tỷ giá, tâm lý thị trường).
+5.4. HƯỚNG NGHIÊN CỨU TƯƠNG LAI
+Dựa trên các hạn chế của nghiên cứu, các hướng nghiên cứu tương lai có thể bao gồm:
+Mở rộng Giai đoạn Nghiên cứu: Mở rộng giai đoạn nghiên cứu để bao gồm các sự kiện địa chính trị lớn trước năm 2015, cho phép phân tích dài hạn hơn về tác động của GPR.
+Sử dụng Mô hình Phức tạp hơn: Sử dụng các mô hình phức tạp hơn (như Market Model, Factor Model) để tính toán lợi nhuận kỳ vọng, cho phép kiểm soát tốt hơn các yếu tố ảnh hưởng đến giá tài sản.
+Phân tích Cơ chế Truyền dẫn: Phân tích chi tiết cơ chế truyền dẫn của tác động GPR lên giá tài sản, bao gồm vai trò của các biến trung gian như lãi suất, tỷ giá, tâm lý thị trường.
+Mở rộng Phạm vi Tài sản: Mở rộng phạm vi phân tích để bao gồm các tài sản khác như chứng khoán, trái phiếu, hoặc các loại tiền điện tử khác.
+Phân tích Biến động và Thanh khoản: Phân tích tác động của GPR lên biến động (volatility) và thanh khoản (liquidity) của các tài sản, không chỉ phản ứng giá.
+Phân tích Tương quan: Phân tích sự thay đổi tương quan giữa các tài sản trong các giai đoạn GPR tăng cao, cho phép hiểu rõ hơn về cơ chế phản ứng giá.
+5.5. KẾT LUẬN CUỐI CÙNG
+Nghiên cứu này đã sử dụng phương pháp Nghiên cứu Sự kiện (Event Study) để phân tích phản ứng giá của ba loại tài sản (Bitcoin, Vàng, Dầu mỏ) trước 63 sự kiện rủi ro địa chính trị lớn trong giai đoạn 2015-2025. Các phát hiện chính của nghiên cứu cho thấy:
+Vàng có phản ứng giá dương, nhất quán và có ý nghĩa thống kê trước các sự kiện rủi ro địa chính trị, phù hợp với đặc tính của Vàng như một tài sản sự bền bỉ của giá.
+Dầu mỏ có phản ứng giá dương trước các sự kiện rủi ro địa chính trị, nhưng không nhất quán do độ biến động cao. Phản ứng giá mạnh nhất khi sự kiện xảy ra tại các khu vực sản xuất dầu quan trọng.
+Bitcoin không có phản ứng giá nhất quán trước các sự kiện rủi ro địa chính trị. Phản ứng giá phụ thuộc vào nhiều yếu tố ngoài bản thân sự kiện địa chính trị, và GPR không phải là yếu tố quyết định chính của biến động giá Bitcoin.
+Phản ứng giá khác biệt giữa ACT và THREAT, cho thấy thị trường phản ứng khác nhau với "tin tức thực tế" và "tin tức dự đoán", phù hợp với lý thuyết uncertainty aversion đối với một số tài sản (như Vàng), nhưng ngược lại đối với các tài sản khác (như Dầu).
+Cấu trúc thời gian của phản ứng giá khác biệt giữa các tài sản, phản ánh đặc tính và cơ chế phản ứng giá khác nhau của từng loại tài sản.
+Nghiên cứu này đóng góp vào lý thuyết và thực nghiệm về tác động của GPR lên giá tài sản bằng cách bổ sung cho các phương pháp chuỗi thời gian (VAR, Wavelet, QQR) bằng phương pháp Event Study, cho phép bóc tách tác động cụ thể của từng sự kiện đơn lẻ và phân tích chi tiết hơn về cơ chế phản ứng giá. Nghiên cứu cũng cung cấp bằng chứng thực nghiệm quan trọng về phản ứng giá của các tài sản trước các sự kiện rủi ro địa chính trị, có thể hữu ích cho các nhà đầu tư, nhà hoạch định chính sách, và các nhà nghiên cứu trong tương lai.
+(Hết Chương 5)

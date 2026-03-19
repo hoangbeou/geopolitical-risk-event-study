@@ -1,0 +1,6 @@
+,Title,Key_Finding,Conclusion,Support_Level
+Brown_Warner_1985,Using daily stock returns: The case of event studies,Mean Adjusted Model và Market Model cho kết quả tương tự trong event study với daily returns,Mean Adjusted Model là phù hợp cho daily returns,High
+MacKinlay_1997,Event studies in economics and finance,"Mean Adjusted Model đơn giản và hiệu quả, đặc biệt khi market proxy không rõ ràng",Mean Adjusted Model phù hợp khi không có market proxy phù hợp,High
+Kothari_Warner_2007,Econometrics of event studies,Mean Adjusted Model và Market Model có hiệu suất tương đương trong nhiều trường hợp,"Cả hai mô hình đều hợp lệ, lựa chọn phụ thuộc vào context",High
+Cryptocurrency_Studies,Studies on Bitcoin and cryptocurrency event studies,Nhiều nghiên cứu về Bitcoin sử dụng Mean Adjusted Model do không có market proxy chuẩn,Mean Adjusted Model phù hợp cho cryptocurrency,Medium-High
+Commodity_Studies,Studies on Gold and Oil event studies,Mean Adjusted Model thường được sử dụng cho commodities do tính độc lập của chúng,Mean Adjusted Model phù hợp cho commodities,Medium-High

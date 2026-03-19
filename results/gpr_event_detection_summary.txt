@@ -1,0 +1,471 @@
+================================================================================
+GPR EVENT DETECTION - SUMMARY
+================================================================================
+
+Tong so events duoc phat hien: 64
+
+Chi tiet cac events:
+--------------------------------------------------------------------------------
+
+1. GPR Event 2015-01-08
+   Date: 2015-01-08
+   GPR Value: 168.64
+   GPR Change: 89.88
+   Method: spike
+   Identification: auto_detected
+
+2. GPR Event 2015-03-27
+   Date: 2015-03-27
+   GPR Value: 199.25
+   GPR Change: 95.85
+   Method: spike
+   Identification: auto_detected
+
+3. GPR Event 2015-07-15
+   Date: 2015-07-15
+   GPR Value: 229.98
+   GPR Change: 162.28
+   Method: spike
+   Identification: auto_detected
+
+4. GPR Event 2015-09-22
+   Date: 2015-09-22
+   GPR Value: 188.75
+   GPR Change: 102.34
+   Method: spike
+   Identification: auto_detected
+
+5. GPR Event 2015-11-16
+   Date: 2015-11-16
+   GPR Value: 291.99
+   GPR Change: 230.42
+   Method: spike
+   Identification: auto_detected
+
+6. GPR Event 2016-01-01
+   Date: 2016-01-01
+   GPR Value: 208.84
+   GPR Change: 138.73
+   Method: spike
+   Identification: auto_detected
+
+7. GPR Event 2016-03-23
+   Date: 2016-03-23
+   GPR Value: 245.38
+   GPR Change: 169.00
+   Method: spike
+   Identification: auto_detected
+
+8. GPR Event 2016-09-19
+   Date: 2016-09-19
+   GPR Value: 255.73
+   GPR Change: 204.69
+   Method: spike
+   Identification: auto_detected
+
+9. GPR Event 2016-12-30
+   Date: 2016-12-30
+   GPR Value: 206.67
+   GPR Change: 107.88
+   Method: spike
+   Identification: auto_detected
+
+10. GPR Event 2017-02-10
+   Date: 2017-02-10
+   GPR Value: 212.41
+   GPR Change: 120.11
+   Method: spike
+   Identification: auto_detected
+
+11. GPR Event 2017-03-22
+   Date: 2017-03-22
+   GPR Value: 156.50
+   GPR Change: 75.28
+   Method: spike
+   Identification: auto_detected
+
+12. GPR Event 2017-06-05
+   Date: 2017-06-05
+   GPR Value: 276.61
+   GPR Change: 188.04
+   Method: spike
+   Identification: auto_detected
+
+13. GPR Event 2017-07-05
+   Date: 2017-07-05
+   GPR Value: 208.90
+   GPR Change: 130.96
+   Method: spike
+   Identification: auto_detected
+
+14. GPR Event 2017-08-10
+   Date: 2017-08-10
+   GPR Value: 215.32
+   GPR Change: 79.02
+   Duration: 13.0 days
+   Method: high_period
+   Identification: auto_detected
+
+15. GPR Event 2017-09-04
+   Date: 2017-09-04
+   GPR Value: 253.10
+   GPR Change: 119.40
+   Method: spike
+   Identification: auto_detected
+
+16. GPR Event 2017-11-02
+   Date: 2017-11-02
+   GPR Value: 188.31
+   GPR Change: 112.45
+   Method: spike
+   Identification: auto_detected
+
+17. GPR Event 2018-01-02
+   Date: 2018-01-02
+   GPR Value: 188.69
+   GPR Change: 92.11
+   Method: spike
+   Identification: auto_detected
+
+18. GPR Event 2018-04-12
+   Date: 2018-04-12
+   GPR Value: 296.52
+   GPR Change: 194.03
+   Method: spike
+   Identification: auto_detected
+
+19. GPR Event 2018-05-23
+   Date: 2018-05-23
+   GPR Value: 179.17
+   GPR Change: 97.32
+   Method: spike
+   Identification: auto_detected
+
+20. GPR Event 2018-07-23
+   Date: 2018-07-23
+   GPR Value: 161.71
+   GPR Change: 107.61
+   Method: spike
+   Identification: auto_detected
+
+21. GPR Event 2018-11-13
+   Date: 2018-11-13
+   GPR Value: 142.28
+   GPR Change: 99.54
+   Method: spike
+   Identification: auto_detected
+
+22. GPR Event 2019-01-02
+   Date: 2019-01-02
+   GPR Value: 189.86
+   GPR Change: 106.12
+   Method: spike
+   Identification: auto_detected
+
+23. GPR Event 2019-05-02
+   Date: 2019-05-02
+   GPR Value: 186.33
+   GPR Change: 124.81
+   Method: spike
+   Identification: auto_detected
+
+24. GPR Event 2019-06-14
+   Date: 2019-06-14
+   GPR Value: 192.64
+   GPR Change: 77.97
+   Method: spike
+   Identification: auto_detected
+
+25. GPR Event 2019-08-06
+   Date: 2019-08-06
+   GPR Value: 270.94
+   GPR Change: 167.42
+   Method: spike
+   Identification: auto_detected
+
+26. GPR Event 2019-09-16
+   Date: 2019-09-16
+   GPR Value: 178.92
+   GPR Change: 108.35
+   Method: spike
+   Identification: auto_detected
+
+27. GPR Event 2019-11-13
+   Date: 2019-11-13
+   GPR Value: 160.15
+   GPR Change: 97.74
+   Method: spike
+   Identification: auto_detected
+
+28. GPR Event 2020-01-09
+   Date: 2020-01-09
+   GPR Value: 394.46
+   GPR Change: 213.85
+   Method: spike
+   Identification: auto_detected
+
+29. GPR Event 2020-05-18
+   Date: 2020-05-18
+   GPR Value: 135.10
+   GPR Change: 89.28
+   Method: spike
+   Identification: auto_detected
+
+30. GPR Event 2020-06-22
+   Date: 2020-06-22
+   GPR Value: 131.45
+   GPR Change: 77.63
+   Method: spike
+   Identification: auto_detected
+
+31. GPR Event 2020-08-06
+   Date: 2020-08-06
+   GPR Value: 112.37
+   GPR Change: 78.56
+   Method: spike
+   Identification: auto_detected
+
+32. GPR Event 2020-09-10
+   Date: 2020-09-10
+   GPR Value: 145.25
+   GPR Change: 97.92
+   Method: spike
+   Identification: auto_detected
+
+33. GPR Event 2020-11-03
+   Date: 2020-11-03
+   GPR Value: 162.63
+   GPR Change: 106.01
+   Method: spike
+   Identification: auto_detected
+
+34. GPR Event 2021-02-02
+   Date: 2021-02-02
+   GPR Value: 192.34
+   GPR Change: 132.30
+   Method: spike
+   Identification: auto_detected
+
+35. GPR Event 2021-04-14
+   Date: 2021-04-14
+   GPR Value: 186.30
+   GPR Change: 91.01
+   Method: spike
+   Identification: auto_detected
+
+36. GPR Event 2021-06-22
+   Date: 2021-06-22
+   GPR Value: 170.60
+   GPR Change: 76.10
+   Method: spike
+   Identification: auto_detected
+
+37. GPR Event 2021-08-23
+   Date: 2021-08-23
+   GPR Value: 189.93
+   GPR Change: 121.32
+   Method: spike
+   Identification: auto_detected
+
+38. GPR Event 2021-10-05
+   Date: 2021-10-05
+   GPR Value: 171.90
+   GPR Change: 106.09
+   Method: spike
+   Identification: auto_detected
+
+39. GPR Event 2021-12-30
+   Date: 2021-12-30
+   GPR Value: 147.23
+   GPR Change: 109.34
+   Method: spike
+   Identification: auto_detected
+
+40. GPR Event 2022-01-25
+   Date: 2022-01-25
+   GPR Value: 291.58
+   GPR Change: 105.78
+   Duration: 9.0 days
+   Method: high_period
+   Identification: auto_detected
+
+41. GPR Event 2022-03-16
+   Date: 2022-03-16
+   GPR Value: 473.22
+   GPR Change: 161.34
+   Method: spike
+   Identification: auto_detected
+
+42. GPR Event 2022-04-22
+   Date: 2022-04-22
+   GPR Value: 246.80
+   GPR Change: 118.53
+   Method: spike
+   Identification: auto_detected
+
+43. GPR Event 2022-05-31
+   Date: 2022-05-31
+   GPR Value: 190.31
+   GPR Change: 74.49
+   Method: spike
+   Identification: auto_detected
+
+44. GPR Event 2022-09-01
+   Date: 2022-09-01
+   GPR Value: 187.71
+   GPR Change: 89.96
+   Method: spike
+   Identification: auto_detected
+
+45. GPR Event 2022-11-08
+   Date: 2022-11-08
+   GPR Value: 225.74
+   GPR Change: 86.02
+   Method: spike
+   Identification: auto_detected
+
+46. GPR Event 2022-12-27
+   Date: 2022-12-27
+   GPR Value: 146.82
+   GPR Change: 82.12
+   Method: spike
+   Identification: auto_detected
+
+47. GPR Event 2023-06-26
+   Date: 2023-06-26
+   GPR Value: 169.51
+   GPR Change: 123.10
+   Method: spike
+   Identification: auto_detected
+
+48. GPR Event 2023-10-06
+   Date: 2023-10-06
+   GPR Value: 161.31
+   GPR Change: 107.00
+   Method: spike
+   Identification: auto_detected
+
+49. GPR Event 2023-10-27
+   Date: 2023-10-27
+   GPR Value: 251.86
+   GPR Change: 83.43
+   Duration: 25.0 days
+   Method: high_period
+   Identification: auto_detected
+
+50. GPR Event 2023-12-04
+   Date: 2023-12-04
+   GPR Value: 194.86
+   GPR Change: 100.04
+   Method: spike
+   Identification: auto_detected
+
+51. GPR Event 2024-01-09
+   Date: 2024-01-09
+   GPR Value: 241.27
+   GPR Change: 134.64
+   Method: spike
+   Identification: auto_detected
+
+52. GPR Event 2024-02-15
+   Date: 2024-02-15
+   GPR Value: 214.81
+   GPR Change: 79.00
+   Method: spike
+   Identification: auto_detected
+
+53. GPR Event 2024-04-16
+   Date: 2024-04-16
+   GPR Value: 340.54
+   GPR Change: 109.75
+   Method: spike
+   Identification: auto_detected
+
+54. GPR Event 2024-06-24
+   Date: 2024-06-24
+   GPR Value: 212.61
+   GPR Change: 84.30
+   Method: spike
+   Identification: auto_detected
+
+55. GPR Event 2024-09-11
+   Date: 2024-09-11
+   GPR Value: 212.91
+   GPR Change: 115.30
+   Method: spike
+   Identification: auto_detected
+
+56. GPR Event 2024-09-26
+   Date: 2024-09-26
+   GPR Value: 240.48
+   GPR Change: 65.18
+   Duration: 8.0 days
+   Method: high_period
+   Identification: auto_detected
+
+57. GPR Event 2024-11-18
+   Date: 2024-11-18
+   GPR Value: 253.14
+   GPR Change: 155.56
+   Method: spike
+   Identification: auto_detected
+
+58. GPR Event 2025-01-22
+   Date: 2025-01-22
+   GPR Value: 157.74
+   GPR Change: 107.46
+   Method: spike
+   Identification: auto_detected
+
+59. GPR Event 2025-03-04
+   Date: 2025-03-04
+   GPR Value: 253.45
+   GPR Change: 99.22
+   Method: spike
+   Identification: auto_detected
+
+60. GPR Event 2025-04-04
+   Date: 2025-04-04
+   GPR Value: 177.26
+   GPR Change: 79.15
+   Method: spike
+   Identification: auto_detected
+
+61. GPR Event 2025-05-26
+   Date: 2025-05-26
+   GPR Value: 180.83
+   GPR Change: 77.15
+   Duration: 32.0 days
+   Method: high_period
+   Identification: auto_detected
+
+62. GPR Event 2025-06-23
+   Date: 2025-06-23
+   GPR Value: 542.29
+   GPR Change: 256.92
+   Method: spike
+   Identification: auto_detected
+
+63. GPR Event 2025-09-10
+   Date: 2025-09-10
+   GPR Value: 254.81
+   GPR Change: 163.58
+   Method: spike
+   Identification: auto_detected
+
+64. GPR Event 2025-10-23
+   Date: 2025-10-23
+   GPR Value: 206.04
+   GPR Change: 94.56
+   Method: spike
+   Identification: auto_detected
+
+
+================================================================================
+THONG KE
+--------------------------------------------------------------------------------
+
+Total events: 64
+Spike events: 59
+High period events: 5
+All events auto-detected from GPR data

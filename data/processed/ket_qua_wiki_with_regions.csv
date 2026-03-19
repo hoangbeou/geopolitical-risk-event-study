@@ -1,0 +1,632 @@
+Event_Number,Date,Detection_Method,GPR_Value,GPR_Diff,GPR_Pct_Change,Wiki_Content,Region,Secondary_Regions
+1,2015-01-08,spike,168.64,89.88,11411.76,"• Charlie Hebdo shooting
+   - One of the suspects in the killings, Hamyd Mourad, voluntarily surrenders to police in Charleville-Mézières while the other two suspects are still at large. ( The New York Times ) (CNN)
+   - On the night of January 7 and morning of January 8, assailants throw grenades and fire guns at three mosques throughout France. (ForeignPolicy.com)
+
+• 2015 Baga massacre
+   - Boko Haram militants raze the entire town of Baga in north-east Nigeria. Bodies lay strewn on Baga's streets with as many as 2,000 people having been killed. Boko Haram now controls 70% of Borno State , which is the worst-affected by the insurgency. (BBC)
+
+• Iraqi insurgency (2011–present)
+   - A suicide bomber targets a police checkpoint in the town of Youssifiyah , killing seven people. (AAP via The Australian )",Africa,"Europe, Americas"
+2,2015-03-27,spike,199.25,95.85,9268.86,"• 2015 military intervention in Yemen
+   - A Middle Eastern coalition led by the Saudi Arabian army and Egyptian navy attacks positions in Yemen for the second successive day, resulting in at least ten deaths in Saada Governorate . Saudi Arabia declares that it will enforce a "" no-fly zone "". (CNN)
+
+• War in Somalia
+   - Militants believed to be from al-Shabab attack and temporarily occupy a Mogadishu hotel leaving at least nine people dead. (AP)",MULTI_REGION,"Middle East, Africa"
+3,2015-07-15,spike,229.98,162.28,23969.1,"• Boko Haram
+   - At least 33 people are killed in Boko Haram attacks in recent days in northeastern Nigeria . (CNN)
+
+• Yemeni Crisis (2011–present)
+   - Loyalists of exiled President Abd Rabbuh Mansur Hadi capture Aden International Airport after four months of being under Houthi control. (Al-Arabiyah)",Africa,Middle East
+4,2015-09-22,spike,188.75,102.34,11842.36,"• 2015 Burkinabé coup d'état
+   - The army of Burkina Faso arrives in Ouagadougou to seek the surrender of the Presidential Guard that staged the coup. (BBC)
+   - The coup leaders free President Michel Kafando and Prime Minister Yacouba Isaac Zida after the army entered the capital, Ouagadougou . Negotiations seeking a peaceful resolution between the chief of the army and the leader of presidential guard continue. (DW Akademie)
+
+• Moro conflict
+   - Filipino troops stage raids to attempt to free six overseas-born hostages held by Abu Sayyaf militants. (AP)
+
+• Syrian Civil War , Russia's role in the Syrian Civil War
+   - IHS Jane's reports satellite photos, taken in mid-September, show Russian forces developing two additional military facilities near Syria's Mediterranean coast . (Reuters)
+   - U.S. Secretary of State John Kerry says the type of Russian aircraft in Syria is consistent with that needed to protect their own forces. However, it is still not clear what Russia's long-term intentions are. (Voice of America) , (Reuters)",MULTI_REGION,"Russia/CIS, Africa, Middle East"
+5,2015-11-16,spike,291.99,230.42,37422.5,"• November 2015 Paris attacks
+   - Authorities search for Belgium -born French national Salah Abdeslam, one of three brothers suspected of involvement in the attacks. Raids are reported to have taken place in Grenoble , Toulouse , Jeumont and the Paris suburb of Bobigny . This contradicts previously published official information that all the perpetrators of the attacks were dead. (CNN) ( The Guardian )
+   - Mohamed Abdeslam, brother of suspect fugitive Salah Abdeslam , and Ibrahim Abdeslam, a suicide bomber in the attacks, is released by authorities after questioning this weekend. His attorney told reporters, her client ""hadn't made the same life choices."" (The Independent) (Fox News)
+   - Abdelhamid Abaaoud , a leading Belgian jihadist who is one of the most active ISIS operators in Syria , is the suspected head organizer behind the Paris massacre. He is also linked to thwarted attacks on a Paris -bound high-speed train and a church near the French capital, earlier this year. (NBC News)
+   - Hacktivist group Anonymous declares war on ISIS taking down 2,000 related Twitter accounts as well as some donation groups for the terrorists on the Dark Web . The group also criticized the lack of similar actions by Western governments. (MSN)
+   - A U.S. official states that intelligence sources detect increased chatter encouraging terrorist attacks on the U.S. but lacks credible or actionable information. This, following reports that Iraqi intelligence sources warned anti- ISIS coalition members of attacks one day before the attacks. The information from Iraq also lacked specific information. (Associated Press via Military.com) (Associate Press via Military Times)
+   - The governors of the U.S. states of Alabama , Arizona , Arkansas , Florida , Georgia , Idaho , Illinois , Indiana , Iowa , Kansas , Louisiana , Maine , Michigan , Mississippi , Massachusetts , Nebraska , New Hampshire , North Carolina , Ohio , Oklahoma , South Carolina , Tennessee , Texas and Wisconsin say they will not accept Syrian refugees in response to the Islamic terror attacks in Paris . Twenty-three of the 24 governors are Republican with the other being Democrat (New Hampshire). (USA Today)
+
+• Saudi Arabian-led intervention in Yemen
+   - Yemeni security officials, who are neutral in the conflict, say Saudi -led airstrikes and clashes have killed over 40 Houthi militants and 4 civilians over the past 24 hours, with most of the airstrikes taking place in the southwestern Ibb Governorate . ( The Washington Post )
+
+• Sinai insurgency
+   - Egypt 's security forces shoot dead at least 24 ISIS militants as they hid inside a cave in a mountainous area in central Sinai , not far from the crash site of Metrojet Flight 9268 , a Russian airliner the group says it brought down. (Reuters) (Independent)",MULTI_REGION,"Europe, Americas, Middle East"
+6,2016-01-01,spike,208.84,138.73,19788.04,"• Israeli–Palestinian conflict
+   - A shooting takes place at a pub in Tel Aviv , Israel , leaving two dead and eight injured. The gunman managed to escape and possibly killed his accomplice, an Arab taxi driver, whose body was found nearby. The police identified the shooter as 30 year old muslim Nisa'at Melkham from Ar'ara and searched his home. ( Haaretz )",Middle East,
+7,2016-03-23,spike,245.38,169.0,22129.63,"• 2016 Brussels bombings
+   - Belgian federal prosecutor Frederic Van Leeuw  says two brothers of Belgian nationality, Khalid and Brahim el-Bakraoui, were responsible for yesterday's suicide bombings. Khalid bombed the subway station while Ibrahim bombed the airport, he added. A third suspect, who died at the airport, is identified as Najim Laachraoui, says De Standaard . A fourth suspect seen in the airport photo, who left a massive bomb at the airport that did not detonate, is unidentified and still at large. (UPI) ( Los Angeles Times ) ( De Standaard )
+   - Van Leeuw says 31 people died and 271 are injured in the bombings. (UPI)
+   - Referring to the Brussels bombings, Poland abandons a pledge to shelter Syrian migrants under a European Union relocation agreement. (Reuters)
+
+• Yemeni Civil War (2015–present) , War on Terror
+   - At least 50 militants are reportedly killed in a U.S. air strike on an Al-Qaeda training camp in southern Yemen . (Reuters)",Europe,Middle East
+8,2016-09-19,spike,255.73,204.69,40109.35,"• 2016 New York and New Jersey bombings
+   - A bomb squad robot detonates an explosive device at a transit station in Elizabeth, New Jersey . There has been a previous explosion in Seaside Park . No one is hurt. (NBC News)
+   - Linden, New Jersey police shoot and arrest Ahmad Khan Rahami, the suspected perpetrator. Two police officers are reportedly injured. ( The New York Times )
+
+• War in Afghanistan (2001–2021)
+   - Afghan officials say yesterday's U.S. airstrikes killed up to eight Afghan policemen in Lashkar Gah , Uruzgan . (Reuters)
+
+• A Democratic Republic of the Congo protest calling for the resignation of President Joseph Kabila turns violent in Kinshasa , leaving at least 17 people dead, including three police officers. Opposition groups say that 50 people died. (Le Point) (DNA) (BBC)
+
+• Syrian civil war
+   - Hours after the Syrian military declares the end of the ceasefire, an airstrike hits a convoy of United Nations OCHA aid trucks near the town of Urum al-Kubra , in the Aleppo Governorate , with the Syrian Observatory for Human Rights reporting that at least 12 people have been killed. (BBC)",Americas,Asia
+9,2016-12-30,spike,206.67,107.88,10920.97,"• 2016 Berlin truck attack
+   - The funeral of Łukasz Urban, the driver killed in the course of last week's attack on a Christmas market in Berlin, takes place in his village of Banie near the German border. President of Poland Andrzej Duda and a German diplomat attend. (BBC) (Deutsche Welle)",Europe,
+10,2017-02-10,spike,212.41,120.11,13012.73,"• French police arrest three men and a 16-year-old girl found with bomb-making materials in a Montpellier flat. The female suspect had been spotted online saying she wanted to either leave for the Syria-Iraq conflict or mount an attack in France, and recorded a video in which she pledged allegiance to ISIL . (BBC)
+
+• In Hong Kong,  over 16 were injured, and an incoherent man  was charged with arson after an alleged firebomb attack on a rush hour Hong Kong metro commuter train. The man set fire to himself and others with a flammable liquid for an unspecified personal reason, but officials found no evidence of a terrorist motive. ( Independent )",Middle East,Europe
+11,2017-03-22,spike,156.5,75.28,9268.84,"• 2017 Westminster attack
+   - An attacker carries out a vehicle-ramming attack outside the Houses of Parliament in London, before stabbing a police officer and subsequently being shot by security forces. Including the attacker, there are at least four people dead. (BBC) (Sky News) (Fox News)
+
+• Syrian Civil War
+   - Raqqa campaign (2016–2017) A U.S. -led coalition airstrike on a school west of Raqqa , kills at least 33 people. ( The Guardian )
+   - A U.S. -led coalition airstrike on a school west of Raqqa , kills at least 33 people. ( The Guardian )
+   - Syrian rebels, led by Tahrir al-Sham , launch an offensive in the Hama Governorate , capturing the towns of Suran , Khitab and Al-Majdal . (Reuters)
+
+• Boko Haram insurgency
+   - 2017 Maiduguri attack Multiple suicide blasts occur at a refugee camp near Maiduguri , Nigeria , leaving eight people dead and wounding 18 others. (Al Jazeera) (All Africa)
+   - Multiple suicide blasts occur at a refugee camp near Maiduguri , Nigeria , leaving eight people dead and wounding 18 others. (Al Jazeera) (All Africa)
+
+• An Israeli Army tank kills a Palestinian teenager and wounds two others near the Gaza border. ( The Jerusalem Post )
+
+• March 2017 Israel–Syria incident
+   - The Israeli Air Force resumes bombing against suspected Hezbollah -related targets in Syria , with a fourth round of bombings occurring near military sites near Damascus . ( The Financial Times )",Middle East,"Africa, Europe"
+12,2017-06-05,spike,276.61,188.04,21230.14,"• 2017 Orlando shooting
+   - A discharged 45-year-old former employee shoots and kills five people at a manufacturing business in Orlando , Florida , United States . The shooter took his own life afterwards. Eight others inside the workplace survived. (CNN) (ABC News)
+
+• 2017 Brighton siege
+   - In Brighton , a suburb of Melbourne , Australia, a gunman kills one man and holds one woman hostage before he is shot dead by Victoria Police . The incident is being treated as an act of terrorism. Islamic State in Iraq and the Levant has claimed responsibility for the attack but Victoria Police claim that there is little evidence to suggest a connection. (Aus. Broadcasting Corp.) ( Herald Sun )",Americas,Middle East
+13,2017-07-05,spike,208.9,130.96,16801.8,"• Mexican Drug War
+   - A gunfight between La Línea gang members and a rival cartel in Madera Municipality , Chihuahua , leaves at least 14 people dead. ( The Washington Post )",Americas,
+14,2017-08-22,high_period,250.01,72.67,,"• Ain al-Hilweh conflict
+   - Renewed clashes between Islamist extremists and the Fatah -supported Joint Palestinian Security Force at the Ain al-Hilweh Palestinian refugees camp, near Sidon , Lebanon , wound three more Palestinians . ( Daily Star ) (Naharnet)",Middle East,
+15,2017-09-04,spike,253.1,119.4,8931.34,Không có mục Armed conflicts,UNKNOWN,
+16,2017-11-02,spike,188.31,112.45,14823.43,"• Syrian Civil War
+   - Battle of Deir ez-Zor According to the Syrian Observatory for Human Rights , the city of Deir ez-Zor has largely been cleared of ISIS fighters by the Syrian Armed Forces . Deir ez-Zor was the scene of a three-year-long siege until it was broken in September 2017. ( The Guardian )
+   - According to the Syrian Observatory for Human Rights , the city of Deir ez-Zor has largely been cleared of ISIS fighters by the Syrian Armed Forces . Deir ez-Zor was the scene of a three-year-long siege until it was broken in September 2017. ( The Guardian )",UNKNOWN,
+17,2018-01-02,spike,188.69,92.11,9537.98,Không có mục Armed conflicts,UNKNOWN,
+18,2018-04-12,spike,296.52,194.03,18930.95,"• Poisoning of Sergei and Yulia Skripal
+   - The Organisation for the Prohibition of Chemical Weapons states it agrees with UK authorities on their analysis of the identity of the toxic chemical used against the Skripals. The UK identifies the substance as a Novichok nerve agent , of a type developed by Russia. (BBC) (OPCW)
+
+• 2018 Gaza border protests
+   - A further two Palestinian protestors die, bringing the death toll at the Israeli - Gazan border to 34 since March 30. (al-Jazeera)
+   - Adalah and Al Mezan say Gazan doctors had to amputate the legs of two young protestors wounded by Israeli fire after Israel refused permission for their transfer to Ramallah in the West Bank for treatment. Israel says the men were refused transfers because they were involved in violence. ( The Times of Israel )
+   - Egypt , citing humanitarian reasons, opens the Rafah border crossing between Gaza and the Egyptian Sinai Peninsula for three days. ( The Times of Israel )
+   - The 9th International Conference on the Holy City of Jerusalem begins, with Israel denying access to the Palestinian Authority -hosted conference to a number of foreign invitees including a party of thirteen Indians , two buses containing academics, and Ghanan MP Ras Mubarak . Israel's ambassador to Ghana denies ever issuing Mubarak with permission to enter the Occupied Palestinian Territories , calling Mubarak a ""propaganda machine"" and claims it's a ""complete lie"". (al-Jazeera)
+
+• Syrian Civil War
+   - Siege of Eastern Ghouta Syrian government fighters remove the last rebels from Douma , completing the Syrian government's recapture of former rebel stronghold Eastern Ghouta. (al-Jazeera)
+   - Syrian government fighters remove the last rebels from Douma , completing the Syrian government's recapture of former rebel stronghold Eastern Ghouta. (al-Jazeera)
+
+• Right-wing terrorism in the United Kingdom
+   - The High Court in Glasgow sentences Banff resident Connor Ward to life in prison with a minimum term of six years for plotting an anti-Islamic terror attack against mosques in Aberdeen . ( The Press and Journal )
+   - Two serving soldiers are cleared of terror offences related to banned neo-Nazi group National Action . A civilian is convicted. (BBC) (BBC) ( Birmingham Mail )
+
+• Unidentified militants attack Kuru-kuru and Jarkuka in Zamfara , Nigeria , killing dozens. ( The Punch )
+
+• Ex- MI5 agent Jeremy Fleming gives his first public speech as head of GCHQ , revealing the United Kingdom launched a ""major offensive cyber-campaign"" against Islamic State . He also criticises Russia for actions such as launching the NotPetya virus and the poisoning of Yulia and Sergei Skripal , both actions Russia denies involvement in. (BBC)",Middle East,"Europe, Russia/CIS, Africa"
+19,2018-05-23,spike,179.17,97.32,11889.75,Không có mục Armed conflicts,UNKNOWN,
+20,2018-07-23,spike,161.71,107.61,19890.76,Không có mục Armed conflicts,UNKNOWN,
+21,2018-11-13,spike,142.28,99.54,23288.59,Không có mục Armed conflicts,UNKNOWN,
+22,2019-01-02,spike,189.86,106.12,12671.36,Không có mục Armed conflicts,UNKNOWN,
+23,2019-05-02,spike,186.33,124.81,20288.46,Không có mục Armed conflicts,UNKNOWN,
+24,2019-06-14,spike,192.64,77.97,6800.11,"• June 2019 Gulf of Oman incident
+   - An unnamed United States official claims that, just prior to the attack on two merchant vessels, an Iranian vessel launched a surface to air missile at a MQ-9 Reaper drone in the vicinity of the attack. An additional MQ-9 Reaper is reported to have been shot down by Houthi rebels several days prior in the Red Sea . (CNN)
+   - The president of the Japanese shipping company  offers a different account of the attack than that provided by the United States. Yutaka Katada says the Filipino crew of the Kokuka Courageous oil tanker said their vessel was apparently first hit by an artillery shell rather than a mine. The United States said the tanker was attacked by limpet mines and released a video it says shows Iranian special forces removing an unexploded mine from the oil tanker's side. ( The Washington Post ) (BBC News)
+   - A U.S. official says Iranian Navy gunboats are preventing the damaged Norwegian-owned Front Altair oil tanker from being towed away by two private tugboats in the Gulf of Oman . (Reuters)
+   - United Nations Secretary-General António Guterres calls for an independent investigation to establish the facts and responsibility for the oil tankers attacks in the Gulf of Oman. (Reuters)",Middle East,"Americas, Asia"
+25,2019-08-06,spike,270.94,167.42,16172.84,"• War in Donbass
+   - Four Ukrainian Ground Forces soldiers are killed in an attack by pro- Russian separatists , near the village of Pavlopil in the war-torn eastern Donetsk Oblast . (RFE/RL)",Russia/CIS,
+26,2019-09-16,spike,178.92,108.35,15354.03,"• 2019 Abqaiq–Khurais attack , Iran–Saudi Arabia proxy conflict , Iran–United States relations
+   - Iran says the accusations about the Saudi Arabian oil facilities attacks are unacceptable and baseless. (Al Arabiya English)
+   - Iraq says the United States has told them that the information the U.S. has ""confirms the Iraqi government's statement that its territory was not used to carry out this attack"". (Reuters)
+   - Saudi Arabia says Iranian weapons were used in the attacks. (Swissinfo)",Middle East,Americas
+27,2019-11-13,spike,160.15,97.74,15660.6,"• War in Afghanistan
+   - November 2019 Kabul bombing A suicide car bomb kills 12 people and injures 20 others near the Interior Ministry in Kabul , Afghanistan . (Al Jazeera) (Yahoo! News)
+   - A suicide car bomb kills 12 people and injures 20 others near the Interior Ministry in Kabul , Afghanistan . (Al Jazeera) (Yahoo! News)
+
+• Terrorism in Indonesia
+   - A suicide bomber kills himself and injures six other people when he detonates near police headquarters in Medan , Indonesia . (Deutsche Welle)
+
+• Gaza–Israel conflict ; Gaza–Israel clashes (November 2019)
+   - Israeli airstrikes leave 22 Palestinians (20 militants and 2 civilians) dead and dozens injured. ( Haaretz )
+   - More than 200 rockets are fired into Israel from Gaza . ( New York Post )
+   - An Islamic Jihad rocket commander and five relatives are killed in an Israeli airstrike. ( The Times of Israel )
+
+• Islamist insurgency in Mozambique , Mozambique–Tanzania relations
+   - Jihadists kill six civilians and injure seven in a village near the Mozambique – Tanzania border. All the victims are Tanzanian nationals, while the terrorists are identified as Mozambicans. (News24)
+
+• Crime in Poland
+   - Two people are arrested in Poland for planning to kill Muslims in an attack inspired by the 2011 Utoya/Oslo attacks by Norwegian mass murderer Anders Behring Breivik , and the Christchurch, New Zealand mosque shootings . (Reuters)",Middle East,"Asia, Europe, Americas"
+28,2020-01-09,spike,394.46,213.85,11840.98,"• Battle of Chinagodrar
+   - Islamist militants kill over 25 Nigerien soldiers in an attack on an army base in Tillabéri Region , Niger . 63 militants are also killed in the ensuing shootout . ( The Punch ) (Reuters)
+
+• Ukraine International Airlines Flight 752
+   - U.S. , Canadian , British and Iraqi officials say they believe the plane crash near Tehran in which 176 were killed yesterday was likely caused accidentally by an Iranian anti-aircraft missile , while Iran says it was due to "" mechanical failure "". ( Newsweek ) (NPR) (Reuters)
+   - The New York Times releases a verified video obtained from an Iranian citizen showing the plane being struck by what appears to be a surface-to-air missile . ( The New York Times )
+   - In a news conference, Canadian Prime Minister Justin Trudeau says it's ""too early to draw definitive conclusions"" that the downing of the plane was an "" act of war "". Trudeau also condemns Iran's attack on U.S. bases in Iraq. ( National Post )",Middle East,"Americas, Europe, Africa, Russia/CIS"
+29,2020-05-18,spike,135.1,89.28,19486.13,"• Second Libyan Civil War
+   - 2019–20 Western Libya offensive Turkish -backed GNA forces capture the strategic al-Watiya airbase from forces loyal to Khalifa Haftar , and seize a Russian Pantsir missile system . (Al Jazeera) (Libyan Express)
+   - Turkish -backed GNA forces capture the strategic al-Watiya airbase from forces loyal to Khalifa Haftar , and seize a Russian Pantsir missile system . (Al Jazeera) (Libyan Express)
+
+• War in Afghanistan ; May 2020 Afghanistan attacks
+   - A car bombing at an intelligence agency installation in the central province of Ghazni kills at least seven people and wounds another 40. The Taliban claims responsibility. (Reuters)",MULTI_REGION,"Asia, Russia/CIS, Africa"
+30,2020-06-22,spike,131.45,77.63,14422.8,Không có mục Armed conflicts,UNKNOWN,
+31,2020-08-06,spike,112.37,78.56,23242.87,"• Saudi Arabian-led intervention in Yemen , Saudi Arabian–Yemeni border conflict
+   - Saudi state news agency SPA says Saudi Armed Forces shot down an explosive-laden drone launched against Saudi territory from Al Hudaydah Governorate , on Yemen 's Red Sea coast. The Houthis report a Saudi air strike on Saada Governorate . (Reuters)",Middle East,
+32,2020-09-10,spike,145.25,97.92,20693.07,"• Kivu conflict
+   - 2020 Democratic Republic of the Congo massacres Allied Democratic Forces militants attack a village in Ituri , Democratic Republic of the Congo , killing 35 people. It is the second attack in the town in two days. The terrorists assaulted civilians with knives and firearms and destroyed the village. (France24)
+   - Allied Democratic Forces militants attack a village in Ituri , Democratic Republic of the Congo , killing 35 people. It is the second attack in the town in two days. The terrorists assaulted civilians with knives and firearms and destroyed the village. (France24)
+
+• Somali Civil War
+   - Three people are killed and seven others injured after an al-Shabaab suicide bomber blew himself up at a restaurant in Mogadishu , Somalia . (Al Jazeera)
+
+• Mali War
+   - Four Malian soldiers are killed in an attack in Alatona , by suspected Islamist militants. ( Manila Times )
+
+• Second Saudi–Yemeni War
+   - The Houthis say that they attacked an ""important target"" in Saudi Arabia 's capital, Riyadh , using a ballistic missile and drones . A spokesman for the movement confirmed the attack without explaining, while there was no comment from the Saudi side. (Reuters)",Africa,Middle East
+33,2020-11-03,spike,162.63,106.01,18720.93,"• 2020 Vienna attack , Islamic terrorism in Europe
+   - Through its Amaq News Agency , the Islamic State of Iraq and the Levant claims responsibility for last night's deadly mass shooting in Vienna , Austria . (Reuters)",MULTI_REGION,"Middle East, Europe"
+34,2021-02-02,spike,192.34,132.3,22032.26,"• 2021 Myanmar coup d'état
+   - Burmese State Counsellor Aung San Suu Kyi is placed under house arrest in the capital Naypyidaw after the military coup that overthrew her government . ( Financial Times )
+
+• Tigray War
+   - Three Ethiopian opposition parties say that at least 52,000 civilians have died in Tigray . (Bloomberg)",Asia,
+35,2021-04-14,spike,186.3,91.01,9550.59,"• War in Afghanistan
+   - Afghan peace process U.S. President Joe Biden formally announces that American troops will leave Afghanistan by September 11 . ( Politico )
+   - U.S. President Joe Biden formally announces that American troops will leave Afghanistan by September 11 . ( Politico )
+
+• Somali Civil War
+   - Fourteen civilians are killed and four others wounded when the minibus they are travelling in hits a landmine in the outskirts of Mogadishu . A military commander blames al-Shabaab for the attack. (Arab News)",Asia,"Americas, Africa"
+36,2021-06-22,spike,170.6,76.1,8052.86,"• Internal conflict in Myanmar
+   - 2021 Myanmar protests Tatmadaw forces backed by armoured vehicles and artillery enter the country's second-largest city Mandalay and clash with the newly formed People's Defence Force rebel group which seized parts of the city. Clashes are ongoing. (MSN)
+   - Tatmadaw forces backed by armoured vehicles and artillery enter the country's second-largest city Mandalay and clash with the newly formed People's Defence Force rebel group which seized parts of the city. Clashes are ongoing. (MSN)
+
+• War in Afghanistan
+   - Taliban insurgency The Taliban seizes control of Shir Khan Bandar , a town that contains Afghanistan 's main border crossing into Tajikistan . (Al Jazeera)
+   - The Taliban seizes control of Shir Khan Bandar , a town that contains Afghanistan 's main border crossing into Tajikistan . (Al Jazeera)",Asia,Russia/CIS
+37,2021-08-23,spike,189.93,121.32,17684.9,"• War In Afghanistan
+   - 2021 Taliban offensive Panjshir resistance The Taliban claim to have recaptured three districts in Baghlan Province that had been taken by local militias allied with Ahmad Massoud and Amrullah Saleh . Massoud and Saleh have established their resistance in the Panjshir Valley . (Yahoo! News) (Reuters) The brother of deposed president Ashraf Ghani , Hashmat Ghani Ahmadzai , says he accepts that the Taliban won the war but that he ""will not join them"" and also calls for the formation of an inclusive government without Gulbuddin Hekmatyar and former president Hamid Karzai , blaming both men for ""ruining the country"". ( India Today )
+   - Panjshir resistance The Taliban claim to have recaptured three districts in Baghlan Province that had been taken by local militias allied with Ahmad Massoud and Amrullah Saleh . Massoud and Saleh have established their resistance in the Panjshir Valley . (Yahoo! News) (Reuters)
+   - The Taliban claim to have recaptured three districts in Baghlan Province that had been taken by local militias allied with Ahmad Massoud and Amrullah Saleh . Massoud and Saleh have established their resistance in the Panjshir Valley . (Yahoo! News) (Reuters)
+   - The brother of deposed president Ashraf Ghani , Hashmat Ghani Ahmadzai , says he accepts that the Taliban won the war but that he ""will not join them"" and also calls for the formation of an inclusive government without Gulbuddin Hekmatyar and former president Hamid Karzai , blaming both men for ""ruining the country"". ( India Today )
+   - Operation Allies Refuge A security guard is killed and three more people are wounded in a gunfight between an unknown gunman and Afghan forces at the north gate of Kabul airport . German and American forces are also involved in the shooting. (Reuters)
+   - A security guard is killed and three more people are wounded in a gunfight between an unknown gunman and Afghan forces at the north gate of Kabul airport . German and American forces are also involved in the shooting. (Reuters)
+
+• Syrian civil war
+   - 2021 Daraa clashes Syrian Army troops and pro- Iranian militias launch a major ground assault on a rebel-held enclave in the city of Daraa . Rebel forces say that they have repulsed the attack from the western side of the enclave. State media says that the army was preparing to end a ""state of lawlessness and chaos"" and ""reimpose army control"" in the city. (Reuters)
+   - Syrian Army troops and pro- Iranian militias launch a major ground assault on a rebel-held enclave in the city of Daraa . Rebel forces say that they have repulsed the attack from the western side of the enclave. State media says that the army was preparing to end a ""state of lawlessness and chaos"" and ""reimpose army control"" in the city. (Reuters)
+
+• Tigray War
+   - The U.S. Department of Treasury sanctions the chief of staff of the Eritrean Defense Forces Filipos Woldeyohannes , accusing him of leading his troops to commit multiple war crimes , including rapes, executions, massacres, looting, torture and purposely shooting civilians. The Department also called for the ""immediate withdrawal of Eritrean troops"" from Tigray. (Al Jazeera)",Asia,Americas
+38,2021-10-05,spike,171.9,106.09,16119.68,"• Insurgency in Jammu and Kashmir
+   - Three civilians are killed by suspected Islamist terrorists at three different locations in Srinagar , Jammu and Kashmir , in a spike of killings targeting civilians in the area. The victims were a Hindu chemist, an Indian street food vendor from Bihar , and a Muslim taxi driver . Two other civilians were killed in Srinagar four days ago by a Lashkar-e-Taiba -linked group. ( The Indian Express )
+
+• Afghanistan conflict
+   - A report by Amnesty International says that the Taliban has executed 13 Hazaras , including eleven former members of the government , shortly after the fall of Kabul . The Taliban denies that they were behind the killings. (Al Jazeera)",Asia,
+39,2021-12-30,spike,147.23,109.34,28857.14,"• Mali War
+   - Jihadists ambush an army patrol near the town of Nara in Koulikoro Region , Mali , killing four soldiers and injuring more than a dozen others. (Voice of America)",Africa,Americas
+40,2022-01-25,high_period,291.58,105.78,,Không có mục Armed conflicts,UNKNOWN,
+41,2022-03-01,high_period,540.83,88.21,,"• Russo-Ukrainian War
+   - 2022 Russian invasion of Ukraine Battle of Kyiv Kyiv offensive A Russian military convoy that is about 64 kilometers (40 miles) long continues to advance toward Kyiv , as the invasion enters its sixth day. (BBC News) A senior U.S. defense official asserts that the convoy has ""stalled"" amid the Ukrainian military response and fuel and food shortages, but also warns that the Russian troops are ""certain to regroup"". (NBC News) Russian forces strike the Kyiv TV Tower with a missile, causing a temporary disruption of TV and radio broadcasting. Five people are killed in the bombing, according to Ukrainian emergency services. A Russian missile also strikes the Babi Yar Holocaust Memorial Center . (APA) (CNN) (Ynetnews) (PBS) The Russian Armed Forces warn Kyiv residents to leave the city as its armoured convoy approaches the city's outskirts. The Russians also warn people living around the headquarters of the Security Service of Ukraine to evacuate, with the stated purpose of ""thwarting informational attacks against Russia"". (Reuters) (TASS) ( The Guardian ) The Ukrainian Armed Forces foil an assassination plot against President Volodymyr Zelenskyy by killing a group of Chechen paramilitaries known as Kadyrovtsy , who were attempting to enter Kyiv on February 26, according to Ukrainian intelligence information. ( Ukrayinska Pravda ) Belarusian involvement in the 2022 Russian invasion of Ukraine Belarusian Ground Forces units enter northern Chernihiv Oblast , according to a senior Ukrainian territorial defence forces official. However, the Ukrainian presidential office says that there is no evidence that this has happened. Belarus previously said that it would not send its armed forces to Ukraine . ( Ukrayinska Pravda ) ( Rzeczpospolita ) Battle of Okhtyrka Ukraine confirms that more than 70 troops were killed in a Russian ballistic missile strike on a base in Okhtyrka , Sumy Oblast , yesterday. It is the largest loss of life for Ukrainian forces in a single attack since the invasion began. ( The Guardian ) Battle of Kharkiv A Russian missile strikes the Kharkiv Oblast state administration building on Freedom Square at 8 a.m. local time. Six people are injured in the strike, with the building being severely damaged. The Slovenian honorary consulate is also destroyed by a Russian missile. (Sky News) ( Delo ) Siege of Mariupol The head of the Donetsk People's Republic , Denis Pushilin , says that separatist forces are being assembled to encircle the port city of Mariupol . (CNN) The European Court of Human Rights orders an immediate cessation of bombarding and targeting of civilian targets in Ukraine. ( Europeiska Pravda ) A senior U.S. defense official says that some Russian troop units have surrendered to Ukrainian forces ""without a fight"". ( Business Insider )
+   - Battle of Kyiv Kyiv offensive A Russian military convoy that is about 64 kilometers (40 miles) long continues to advance toward Kyiv , as the invasion enters its sixth day. (BBC News) A senior U.S. defense official asserts that the convoy has ""stalled"" amid the Ukrainian military response and fuel and food shortages, but also warns that the Russian troops are ""certain to regroup"". (NBC News) Russian forces strike the Kyiv TV Tower with a missile, causing a temporary disruption of TV and radio broadcasting. Five people are killed in the bombing, according to Ukrainian emergency services. A Russian missile also strikes the Babi Yar Holocaust Memorial Center . (APA) (CNN) (Ynetnews) (PBS) The Russian Armed Forces warn Kyiv residents to leave the city as its armoured convoy approaches the city's outskirts. The Russians also warn people living around the headquarters of the Security Service of Ukraine to evacuate, with the stated purpose of ""thwarting informational attacks against Russia"". (Reuters) (TASS) ( The Guardian ) The Ukrainian Armed Forces foil an assassination plot against President Volodymyr Zelenskyy by killing a group of Chechen paramilitaries known as Kadyrovtsy , who were attempting to enter Kyiv on February 26, according to Ukrainian intelligence information. ( Ukrayinska Pravda )
+   - Kyiv offensive A Russian military convoy that is about 64 kilometers (40 miles) long continues to advance toward Kyiv , as the invasion enters its sixth day. (BBC News) A senior U.S. defense official asserts that the convoy has ""stalled"" amid the Ukrainian military response and fuel and food shortages, but also warns that the Russian troops are ""certain to regroup"". (NBC News)
+   - A Russian military convoy that is about 64 kilometers (40 miles) long continues to advance toward Kyiv , as the invasion enters its sixth day. (BBC News)
+   - A senior U.S. defense official asserts that the convoy has ""stalled"" amid the Ukrainian military response and fuel and food shortages, but also warns that the Russian troops are ""certain to regroup"". (NBC News)
+   - Russian forces strike the Kyiv TV Tower with a missile, causing a temporary disruption of TV and radio broadcasting. Five people are killed in the bombing, according to Ukrainian emergency services. A Russian missile also strikes the Babi Yar Holocaust Memorial Center . (APA) (CNN) (Ynetnews) (PBS)
+   - The Russian Armed Forces warn Kyiv residents to leave the city as its armoured convoy approaches the city's outskirts. The Russians also warn people living around the headquarters of the Security Service of Ukraine to evacuate, with the stated purpose of ""thwarting informational attacks against Russia"". (Reuters) (TASS) ( The Guardian )
+   - The Ukrainian Armed Forces foil an assassination plot against President Volodymyr Zelenskyy by killing a group of Chechen paramilitaries known as Kadyrovtsy , who were attempting to enter Kyiv on February 26, according to Ukrainian intelligence information. ( Ukrayinska Pravda )
+   - Belarusian involvement in the 2022 Russian invasion of Ukraine Belarusian Ground Forces units enter northern Chernihiv Oblast , according to a senior Ukrainian territorial defence forces official. However, the Ukrainian presidential office says that there is no evidence that this has happened. Belarus previously said that it would not send its armed forces to Ukraine . ( Ukrayinska Pravda ) ( Rzeczpospolita )
+   - Belarusian Ground Forces units enter northern Chernihiv Oblast , according to a senior Ukrainian territorial defence forces official. However, the Ukrainian presidential office says that there is no evidence that this has happened. Belarus previously said that it would not send its armed forces to Ukraine . ( Ukrayinska Pravda ) ( Rzeczpospolita )
+   - Battle of Okhtyrka Ukraine confirms that more than 70 troops were killed in a Russian ballistic missile strike on a base in Okhtyrka , Sumy Oblast , yesterday. It is the largest loss of life for Ukrainian forces in a single attack since the invasion began. ( The Guardian )
+   - Ukraine confirms that more than 70 troops were killed in a Russian ballistic missile strike on a base in Okhtyrka , Sumy Oblast , yesterday. It is the largest loss of life for Ukrainian forces in a single attack since the invasion began. ( The Guardian )
+   - Battle of Kharkiv A Russian missile strikes the Kharkiv Oblast state administration building on Freedom Square at 8 a.m. local time. Six people are injured in the strike, with the building being severely damaged. The Slovenian honorary consulate is also destroyed by a Russian missile. (Sky News) ( Delo )
+   - A Russian missile strikes the Kharkiv Oblast state administration building on Freedom Square at 8 a.m. local time. Six people are injured in the strike, with the building being severely damaged. The Slovenian honorary consulate is also destroyed by a Russian missile. (Sky News) ( Delo )
+   - Siege of Mariupol The head of the Donetsk People's Republic , Denis Pushilin , says that separatist forces are being assembled to encircle the port city of Mariupol . (CNN)
+   - The head of the Donetsk People's Republic , Denis Pushilin , says that separatist forces are being assembled to encircle the port city of Mariupol . (CNN)
+   - The European Court of Human Rights orders an immediate cessation of bombarding and targeting of civilian targets in Ukraine. ( Europeiska Pravda )
+   - A senior U.S. defense official says that some Russian troop units have surrendered to Ukrainian forces ""without a fight"". ( Business Insider )
+
+• Syrian Civil War
+   - Rojava conflict A battle between the Syrian Democratic Forces and Syrian soldiers kills two SDF fighters and two government soldiers. (France 24)
+   - A battle between the Syrian Democratic Forces and Syrian soldiers kills two SDF fighters and two government soldiers. (France 24)",Russia/CIS,Europe
+42,2022-03-16,spike,473.22,161.34,5173.16,"• Russo-Ukrainian War
+   - 2022 Russian invasion of Ukraine Eastern Ukraine offensive Siege of Mariupol Mariupol theatre airstrike The Donetsk Regional Drama Theatre in Mariupol , which is currently being used as an air raid shelter holding up to 1,200 civilians, is largely destroyed by bombing. Ukraine accuses Russia of conducting an airstrike targeting the theatre, while Russian authorities deny responsibility, instead accusing the Azov Battalion of having planned and carried out the bombing. (BBC News) (RadioFreeEurope/RadioLiberty) Northeastern Ukraine offensive Siege of Chernihiv Russian troops reportedly shoot dead ten people queuing for food in Chernihiv . The Russian Defence Ministry denies Russian forces were behind the killings. (Sky News) (Reuters) Southern Ukraine offensive Battle of Melitopol Captured Melitopol mayor Ivan Fedorov is freed in exchange for nine Russian POWs . (Ukrinform) Foreign aid to Ukraine during the Russo-Ukrainian War British Defence Secretary Ben Wallace says that the UK has begun supplying Starstreak anti-aircraft missiles to the Ukrainian military . (Reuters) U.S. President Joe Biden announces a further $800 million in ""security assistance"" to Ukraine, including 800 anti-aircraft systems, and thousands of anti-tank missiles and armed combat drones to counter Russia's invasion. (Reuters) Russian President Vladimir Putin addresses his ministers on the ongoing situation in Ukraine and the Russian economy , saying that Russian ""traitors"" and ""scum"" would be ""spat out like a midge that accidentally flew into their mouths"", and also accuses a so-called "" fifth column "" of attempting to destroy the country from within. (Reuters)
+   - Eastern Ukraine offensive Siege of Mariupol Mariupol theatre airstrike The Donetsk Regional Drama Theatre in Mariupol , which is currently being used as an air raid shelter holding up to 1,200 civilians, is largely destroyed by bombing. Ukraine accuses Russia of conducting an airstrike targeting the theatre, while Russian authorities deny responsibility, instead accusing the Azov Battalion of having planned and carried out the bombing. (BBC News) (RadioFreeEurope/RadioLiberty)
+   - Siege of Mariupol Mariupol theatre airstrike The Donetsk Regional Drama Theatre in Mariupol , which is currently being used as an air raid shelter holding up to 1,200 civilians, is largely destroyed by bombing. Ukraine accuses Russia of conducting an airstrike targeting the theatre, while Russian authorities deny responsibility, instead accusing the Azov Battalion of having planned and carried out the bombing. (BBC News) (RadioFreeEurope/RadioLiberty)
+   - Mariupol theatre airstrike The Donetsk Regional Drama Theatre in Mariupol , which is currently being used as an air raid shelter holding up to 1,200 civilians, is largely destroyed by bombing. Ukraine accuses Russia of conducting an airstrike targeting the theatre, while Russian authorities deny responsibility, instead accusing the Azov Battalion of having planned and carried out the bombing. (BBC News) (RadioFreeEurope/RadioLiberty)
+   - The Donetsk Regional Drama Theatre in Mariupol , which is currently being used as an air raid shelter holding up to 1,200 civilians, is largely destroyed by bombing. Ukraine accuses Russia of conducting an airstrike targeting the theatre, while Russian authorities deny responsibility, instead accusing the Azov Battalion of having planned and carried out the bombing. (BBC News) (RadioFreeEurope/RadioLiberty)
+   - Northeastern Ukraine offensive Siege of Chernihiv Russian troops reportedly shoot dead ten people queuing for food in Chernihiv . The Russian Defence Ministry denies Russian forces were behind the killings. (Sky News) (Reuters)
+   - Siege of Chernihiv Russian troops reportedly shoot dead ten people queuing for food in Chernihiv . The Russian Defence Ministry denies Russian forces were behind the killings. (Sky News) (Reuters)
+   - Russian troops reportedly shoot dead ten people queuing for food in Chernihiv . The Russian Defence Ministry denies Russian forces were behind the killings. (Sky News) (Reuters)
+   - Southern Ukraine offensive Battle of Melitopol Captured Melitopol mayor Ivan Fedorov is freed in exchange for nine Russian POWs . (Ukrinform)
+   - Battle of Melitopol Captured Melitopol mayor Ivan Fedorov is freed in exchange for nine Russian POWs . (Ukrinform)
+   - Captured Melitopol mayor Ivan Fedorov is freed in exchange for nine Russian POWs . (Ukrinform)
+   - Foreign aid to Ukraine during the Russo-Ukrainian War British Defence Secretary Ben Wallace says that the UK has begun supplying Starstreak anti-aircraft missiles to the Ukrainian military . (Reuters) U.S. President Joe Biden announces a further $800 million in ""security assistance"" to Ukraine, including 800 anti-aircraft systems, and thousands of anti-tank missiles and armed combat drones to counter Russia's invasion. (Reuters)
+   - British Defence Secretary Ben Wallace says that the UK has begun supplying Starstreak anti-aircraft missiles to the Ukrainian military . (Reuters)
+   - U.S. President Joe Biden announces a further $800 million in ""security assistance"" to Ukraine, including 800 anti-aircraft systems, and thousands of anti-tank missiles and armed combat drones to counter Russia's invasion. (Reuters)
+   - Russian President Vladimir Putin addresses his ministers on the ongoing situation in Ukraine and the Russian economy , saying that Russian ""traitors"" and ""scum"" would be ""spat out like a midge that accidentally flew into their mouths"", and also accuses a so-called "" fifth column "" of attempting to destroy the country from within. (Reuters)",Russia/CIS,Europe
+43,2022-04-22,spike,246.8,118.53,9241.29,"• Russo-Ukrainian War
+   - 2022 Russian invasion of Ukraine Southern Ukraine offensive , Russian occupation of Kherson Russian Major general Rustam Minnekayev says that the goal of the military operation is now to seize territory in Southern Ukraine in order to create a land corridor from Crimea to Ukraine's border with Transnistria , a pro-Russian unrecognized breakaway state that is internationally recognized as part of Moldova . (BBC News) ( The Guardian ) 2022 Ukrainian refugee crisis Ukraine says that it will not allow residents to evacuate Mariupol today over concerns that the route is too dangerous. ( Times of Israel ) The mayor of Balakliia in Kharkiv Oblast is charged with treason by Ukrainian authorities for accepting aid from Russian occupation forces. The mayor is believed to have fled to Russia with his family. ( Newsweek )
+   - Southern Ukraine offensive , Russian occupation of Kherson Russian Major general Rustam Minnekayev says that the goal of the military operation is now to seize territory in Southern Ukraine in order to create a land corridor from Crimea to Ukraine's border with Transnistria , a pro-Russian unrecognized breakaway state that is internationally recognized as part of Moldova . (BBC News) ( The Guardian )
+   - Russian Major general Rustam Minnekayev says that the goal of the military operation is now to seize territory in Southern Ukraine in order to create a land corridor from Crimea to Ukraine's border with Transnistria , a pro-Russian unrecognized breakaway state that is internationally recognized as part of Moldova . (BBC News) ( The Guardian )
+   - 2022 Ukrainian refugee crisis Ukraine says that it will not allow residents to evacuate Mariupol today over concerns that the route is too dangerous. ( Times of Israel )
+   - Ukraine says that it will not allow residents to evacuate Mariupol today over concerns that the route is too dangerous. ( Times of Israel )
+   - The mayor of Balakliia in Kharkiv Oblast is charged with treason by Ukrainian authorities for accepting aid from Russian occupation forces. The mayor is believed to have fled to Russia with his family. ( Newsweek )
+
+• Afghanistan conflict
+   - 2022 Kunduz mosque bombing At least 33 people are killed and 43 others are injured by a bombing at a Sufi mosque in Kunduz , Afghanistan . (BBC News)
+   - At least 33 people are killed and 43 others are injured by a bombing at a Sufi mosque in Kunduz , Afghanistan . (BBC News)
+
+• Israeli–Palestinian conflict
+   - At least 57 Palestinians are injured after Israeli police fire stun grenades and rubber bullets at a crowd of worshipers within the Al-Aqsa mosque compound in East Jerusalem , in response to stones and fireworks being thrown at Jewish worshipers. (Reuters)
+   - Two rockets are launched into Israel from the Gaza Strip . One rocket lands in Sha'ar HaNegev and the other falls into the Beit Hanoun area, injuring one person. ( Times of Israel )
+
+• Kashmir conflict
+   - A soldier and six rebels are killed in fighting in Jammu and Kashmir , India . Four members of the security forces are injured. (AP)
+
+• Somali Civil War
+   - Pescatore Seafood Restaurant bombing Six people are killed and seven others injured by an al-Shabaab suicide bomber at a restaurant on Lido Beach , Mogadishu . (BBC News)
+   - Six people are killed and seven others injured by an al-Shabaab suicide bomber at a restaurant on Lido Beach , Mogadishu . (BBC News)
+
+• Kivu conflict , Ituri conflict
+   - The East African Community agree to set up a regional military force in eastern Democratic Republic of the Congo in an attempt to end the conflicts there. (Reuters)",Russia/CIS,"Europe, Middle East, Asia, Africa"
+44,2022-05-31,spike,190.31,74.49,6430.88,"• Russo-Ukrainian War
+   - 2022 Russian invasion of Ukraine Eastern Ukraine offensive Battle of Sievierodonetsk An airstrike hits a tank filled with nitric acid in Sievierodonetsk , Luhansk Oblast , prompting the region's governor to ask residents to remain inside bomb shelters due to the risk of exposure to toxic fumes. (Reuters) Ukraine says that Russian forces have taken control of most of Sievierodonetsk after launching a full-scale assault on the city. Luhansk governor Serhiy Haidai says that 60% of structures in the city have been destroyed in the fighting. (Reuters) A Russian missile hits an apartment in Sloviansk , Donetsk Oblast , killing three people and injuring six others. (AP)
+   - Eastern Ukraine offensive Battle of Sievierodonetsk An airstrike hits a tank filled with nitric acid in Sievierodonetsk , Luhansk Oblast , prompting the region's governor to ask residents to remain inside bomb shelters due to the risk of exposure to toxic fumes. (Reuters) Ukraine says that Russian forces have taken control of most of Sievierodonetsk after launching a full-scale assault on the city. Luhansk governor Serhiy Haidai says that 60% of structures in the city have been destroyed in the fighting. (Reuters) A Russian missile hits an apartment in Sloviansk , Donetsk Oblast , killing three people and injuring six others. (AP)
+   - Battle of Sievierodonetsk An airstrike hits a tank filled with nitric acid in Sievierodonetsk , Luhansk Oblast , prompting the region's governor to ask residents to remain inside bomb shelters due to the risk of exposure to toxic fumes. (Reuters) Ukraine says that Russian forces have taken control of most of Sievierodonetsk after launching a full-scale assault on the city. Luhansk governor Serhiy Haidai says that 60% of structures in the city have been destroyed in the fighting. (Reuters)
+   - An airstrike hits a tank filled with nitric acid in Sievierodonetsk , Luhansk Oblast , prompting the region's governor to ask residents to remain inside bomb shelters due to the risk of exposure to toxic fumes. (Reuters)
+   - Ukraine says that Russian forces have taken control of most of Sievierodonetsk after launching a full-scale assault on the city. Luhansk governor Serhiy Haidai says that 60% of structures in the city have been destroyed in the fighting. (Reuters)
+   - A Russian missile hits an apartment in Sloviansk , Donetsk Oblast , killing three people and injuring six others. (AP)
+
+• Internal conflict in Myanmar
+   - A bombing kills one person and injures nine others near the Sule Pagoda in Yangon , Myanmar . State media accuses the People's Defence Force of responsibility, which the PDF denies. (AP)
+   - Seven people are injured after military forces shell a monastery in Natmyaung , Sagaing Region . (Radio Free Asia)
+
+• Tigray War
+   - The United Nations says that the Eritrean Defence Forces shelled the Ethiopian border town of Sheraro over the weekend, killing a 14-year-old girl and injuring 18 others. (Reuters)",Russia/CIS,"Europe, Asia"
+45,2022-09-01,spike,187.71,89.96,9203.71,"• Syrian civil war
+   - Iran–Israel conflict during the Syrian civil war Israeli Air Force jets fire four missiles at Aleppo International Airport , hitting the runway and several warehouses allegedly containing Iranian rockets, according to the Syrian Observatory for Human Rights . No casualties have been reported. (ABC News)
+   - Israeli Air Force jets fire four missiles at Aleppo International Airport , hitting the runway and several warehouses allegedly containing Iranian rockets, according to the Syrian Observatory for Human Rights . No casualties have been reported. (ABC News)
+
+• Iraqi political crisis
+   - 2022 Baghdad clashes Four people are killed during clashes between rival Shia Muslim fighters in Basra , Iraq , three days after 30 supporters of Shia cleric Muqtada al-Sadr were killed during clashes in Baghdad . (Al Jazeera)
+   - Four people are killed during clashes between rival Shia Muslim fighters in Basra , Iraq , three days after 30 supporters of Shia cleric Muqtada al-Sadr were killed during clashes in Baghdad . (Al Jazeera)
+
+• Israeli–Palestinian conflict
+   - Two Palestinian men are killed in clashes with Israeli soldiers in the occupied West Bank . One of the men was killed by Palestinian gunfire, according to the Palestinian Health Ministry. ( Haaretz )
+
+• Cross-Strait relations
+   - Taiwanese forces shoot down an unidentified civilian drone which entered its airspace near the Shi Islet in the Taiwan Strait . Taiwan's Ministry of National Defense says that the drone ignored several warning shots before being shot down. (Reuters)
+
+• Tigray War
+   - The Tigray People's Liberation Front claims that Eritrea and Ethiopia have launched a joint offensive in the Tigray Region . (Reuters)",Middle East,
+46,2022-11-08,spike,225.74,86.02,6156.23,"• Syrian civil war
+   - Iranian involvement in the Syrian civil war Unidentified warplanes launch airstrikes against Iranian -backed militias on the Iraq–Syria border , including near the Al-Qa'im border crossing , reportedly killing at least 25 people. Fuel tankers carrying Iranian gasoline to Lebanon are also hit. A senior U.S. official confirms that the strikes were conducted by an ""unidentified party"" in the area. ( The Jerusalem Post )
+   - Unidentified warplanes launch airstrikes against Iranian -backed militias on the Iraq–Syria border , including near the Al-Qa'im border crossing , reportedly killing at least 25 people. Fuel tankers carrying Iranian gasoline to Lebanon are also hit. A senior U.S. official confirms that the strikes were conducted by an ""unidentified party"" in the area. ( The Jerusalem Post )
+
+• M23 offensive
+   - DRC Air Force Sukhoi Su-25 jets bomb areas held by M23 rebels in North Kivu , including the recently captured town of Bunagana . At least one of the jets violated Rwandan airspace, although Kinshasa says that the incident was a mistake and was not intentional. (France 24)
+
+• Insurgency in Southeastern Nigeria
+   - Four people are killed and twelve others are injured by a bombing in Anambra State , Nigeria . (Reuters)",Middle East,"Africa, Europe"
+47,2022-12-27,spike,146.82,82.12,12692.52,"• Russo-Ukrainian War
+   - 2022 Russian invasion of Ukraine Battle of the Svatove-Kreminna line Ukrainian forces claim that they are closing in on the city of Kreminna in Luhansk Oblast . According to governor Serhiy Haidai , Russian fighters in some parts of the city were forced to retreat to neighboring Rubizhne . ( The Guardian )
+   - Battle of the Svatove-Kreminna line Ukrainian forces claim that they are closing in on the city of Kreminna in Luhansk Oblast . According to governor Serhiy Haidai , Russian fighters in some parts of the city were forced to retreat to neighboring Rubizhne . ( The Guardian )
+   - Ukrainian forces claim that they are closing in on the city of Kreminna in Luhansk Oblast . According to governor Serhiy Haidai , Russian fighters in some parts of the city were forced to retreat to neighboring Rubizhne . ( The Guardian )",Russia/CIS,Europe
+48,2023-06-26,spike,169.51,123.1,26524.52,"• Russian invasion of Ukraine
+   - Military aid to Ukraine during the Russo-Ukrainian War Australian Prime Minister Anthony Albanese announces a AU$ 110 million military aid package to Ukraine . ( The Guardian )
+   - Australian Prime Minister Anthony Albanese announces a AU$ 110 million military aid package to Ukraine . ( The Guardian )
+   - Ukrainian forces recapture the uninhabited village of Rivnopil in Donetsk Oblast , according to Deputy Defence Minister Hanna Maliar , the ninth in the past month. (Reuters)
+
+• 2023 Sudan conflict
+   - Battle of Khartoum The Rapid Support Forces take control of the main police base in Khartoum , seizing a large amount of military equipment and ammunition , including 160 pickup trucks , 75 armoured personnel carriers , and 27 tanks. ( The Guardian )
+   - The Rapid Support Forces take control of the main police base in Khartoum , seizing a large amount of military equipment and ammunition , including 160 pickup trucks , 75 armoured personnel carriers , and 27 tanks. ( The Guardian )
+   - The Sudan People's Liberation Movement–North attacks the town of Kurmuk in Blue Nile , Sudan , prompting hundreds of civilians to flee across the border to Ethiopia . (Reuters)",MULTI_REGION,"Russia/CIS, Europe"
+49,2023-10-06,spike,161.31,107.0,19704.35,"• Syrian civil war
+   - Turkish involvement in the Syrian civil war October 2023 Northern Syria clashes Two Turkish soldiers are killed when the Syrian Army fires on their positions with artillery in northern Syria . (SOHR)
+   - October 2023 Northern Syria clashes Two Turkish soldiers are killed when the Syrian Army fires on their positions with artillery in northern Syria . (SOHR)
+   - Two Turkish soldiers are killed when the Syrian Army fires on their positions with artillery in northern Syria . (SOHR)
+
+• Israeli–Palestinian conflict
+   - A 19-year-old Palestinian man is shot and killed by Israeli settlers attacking the city of Huwara , Palestine . (Al Jazeera)",Middle East,
+50,2023-10-19,high_period,338.85,5.84,,"• Iraqi conflict
+   - Drones and rockets strike the Al-Asad Airbase in Al Anbar Governorate , Iraq , which houses U.S. troops. (Reuters)
+
+• Israeli–Palestinian conflict
+   - Israel–Hamas war A member of the Security Cabinet of Israel says that the Israel Defense Forces has been given the ""green light"" to enter the Gaza Strip . (ABC News)
+   - A member of the Security Cabinet of Israel says that the Israel Defense Forces has been given the ""green light"" to enter the Gaza Strip . (ABC News)
+   - Five Palestinians are killed in clashes with the Israeli military at the Nur Shams refugee camp in Tulkarm in the West Bank . (Reuters)
+   - 2024 Iran–Israel conflict , Israel–Hezbollah conflict (2023–present) Dozens of rockets are fired at the northern Israeli cities of Nahariya and Kiryat Shmona from southern Lebanon , injuring at least three civilians . Hamas says that its cells in Lebanon were responsible for the rocket attacks. (The Times of Israel) Israel responds with airstrikes on Hezbollah positions and Lebanese Armed Forces claims that the IDF injured three Iranian journalists although Tehran denies the claims. (The Times of Israel) UNIFIL peacekeepers claims that one civilian was killed from caught in a cross-fire at the border in when the Lebanese Army requested UNIFIL assistance. (Frane24)
+   - Dozens of rockets are fired at the northern Israeli cities of Nahariya and Kiryat Shmona from southern Lebanon , injuring at least three civilians . Hamas says that its cells in Lebanon were responsible for the rocket attacks. (The Times of Israel)
+   - Israel responds with airstrikes on Hezbollah positions and Lebanese Armed Forces claims that the IDF injured three Iranian journalists although Tehran denies the claims. (The Times of Israel)
+   - UNIFIL peacekeepers claims that one civilian was killed from caught in a cross-fire at the border in when the Lebanese Army requested UNIFIL assistance. (Frane24)
+
+• Somali Civil War
+   - Khatumo is reestablished as one of the federal states of Somalia by the Somali government. (Horseed Media)
+
+• Yemeni civil war
+   - In the Red Sea , the United States Navy destroyer USS Carney uses SM-2 missiles to shoot down three cruise missiles and eight drones launched by Houthi forces in Yemen . The Pentagon says that the missiles and drones were ""potentially headed towards Israel"". (Yahoo! News)",Middle East,"Africa, Americas"
+51,2023-12-04,spike,194.86,100.04,10551.47,"• Israel–Hamas war
+   - 2023 Israeli invasion of the Gaza Strip At least 316 Palestinians have been killed and 664 injured during the last 24 hours in the Gaza Strip . (Al Jazeera) Five Israeli soldiers are killed in clashes with Hamas , bringing the IDF 's death toll to 80 since the ground invasion began. (Haaretz) The Palestinian telecoms company Paltel reports that telecommunication services have been cut off in the Gaza Strip as Israel intensifies its military operations . (Al Jazeera) United Nations shelters across Gaza record a spike in infectious diseases such as diarrhoea and skin infections , while only one hospital can take on complex surgery or critical trauma cases. One UN shelter in Gaza has also reported a hepatitis A outbreak on Friday. (Al Jazeera)
+   - At least 316 Palestinians have been killed and 664 injured during the last 24 hours in the Gaza Strip . (Al Jazeera)
+   - Five Israeli soldiers are killed in clashes with Hamas , bringing the IDF 's death toll to 80 since the ground invasion began. (Haaretz)
+   - The Palestinian telecoms company Paltel reports that telecommunication services have been cut off in the Gaza Strip as Israel intensifies its military operations . (Al Jazeera)
+   - United Nations shelters across Gaza record a spike in infectious diseases such as diarrhoea and skin infections , while only one hospital can take on complex surgery or critical trauma cases. One UN shelter in Gaza has also reported a hepatitis A outbreak on Friday. (Al Jazeera)
+   - Qatari prime minister Mohammed bin Abdulrahman bin Jassim Al Thani calls for an ""immediate, comprehensive and impartial international investigation"" into Israel’s military activities in Gaza. (Al Jazeera)
+
+• Russian invasion of Ukraine
+   - Eastern Ukraine campaign Battle of Marinka The British Defense Ministry reports that Russia likely controls most of Marinka in Donetsk Oblast . (Kyiv Independent via Yahoo News)
+   - Battle of Marinka The British Defense Ministry reports that Russia likely controls most of Marinka in Donetsk Oblast . (Kyiv Independent via Yahoo News)
+   - The British Defense Ministry reports that Russia likely controls most of Marinka in Donetsk Oblast . (Kyiv Independent via Yahoo News)
+   - Foreign involvement in the Russian invasion of Ukraine The White House says that United States Congress funds designated for providing aid to Ukraine would run out by the end of the year, due to opposition from members of the Republican Party , in a letter made available to the public. (Al Jazeera) The Financial Times reports that the European Union is facing difficulties in agreeing on a new aid package, due to opposition from Hungary . (Al Jazeera) President of Bulgaria Rumen Radev vetoes a proposed agreement to provide Ukraine with armored vehicles , returning the agreement to parliament . (Kyiv Independent)
+   - The White House says that United States Congress funds designated for providing aid to Ukraine would run out by the end of the year, due to opposition from members of the Republican Party , in a letter made available to the public. (Al Jazeera)
+   - The Financial Times reports that the European Union is facing difficulties in agreeing on a new aid package, due to opposition from Hungary . (Al Jazeera)
+   - President of Bulgaria Rumen Radev vetoes a proposed agreement to provide Ukraine with armored vehicles , returning the agreement to parliament . (Kyiv Independent)
+   - Russian generals killed during the Russian invasion of Ukraine Voronezh Oblast governor Aleksandr Gusev announces the death of major general Vladimir Zavadsky , deputy commander of the 14th Army Corps , at his combat post in Ukraine. (Reuters)
+   - Voronezh Oblast governor Aleksandr Gusev announces the death of major general Vladimir Zavadsky , deputy commander of the 14th Army Corps , at his combat post in Ukraine. (Reuters)",MULTI_REGION,"Russia/CIS, Europe, Middle East"
+52,2024-01-09,spike,241.27,134.64,12627.3,"• Red Sea crisis
+   - Operation Prosperity Guardian U.S. Navy and Royal Navy warships in the Red Sea shoot down 21 suicide drones and missiles launched by Houthi forces in Yemen . British Defence Secretary Grant Shapps describes it as the largest attack in the area by the Houthis to date. (Reuters)
+   - U.S. Navy and Royal Navy warships in the Red Sea shoot down 21 suicide drones and missiles launched by Houthi forces in Yemen . British Defence Secretary Grant Shapps describes it as the largest attack in the area by the Houthis to date. (Reuters)
+
+• 2024 conflict in Ecuador
+   - President of Ecuador Daniel Noboa declares a state of emergency following the escape of José Adolfo Macías Villamar , leader of the Los Choneros drug cartel, from prison. Gangsters subsequently storm a TC Televisión newsroom in Guayaquil and launch a series of riots, kidnappings, and explosions across the country. Eight civilians are killed, including two at Centro Comercial Albán Borja , and three more injured during random shootings in Guayaquil, while two police officers are killed in Nobol . As a result, schools are closed and the military is called to stop gang activities. (Al Jazeera)
+
+• 2024 Iran–Israel conflict , Israel–Hezbollah conflict
+   - Three Hezbollah militants and Ali Hussein Barji , the commander of Hezbollah's air force at al-Tawil's funeral in Khirbet Selm , southern Lebanon is assassinated by an Israeli strike although Hezbollah denies this claim. ( The Guardian ) (Reuters)",Middle East,
+53,2024-02-15,spike,214.81,79.0,5816.89,"• Israel–Hamas war
+   - Siege of Khan Yunis Israeli special forces raid Nasser Hospital in Khan Yunis , the largest hospital still functioning in the Gaza Strip . At least one person is killed and eight others are reportedly injured during the raid. ( The Guardian )
+   - Israeli special forces raid Nasser Hospital in Khan Yunis , the largest hospital still functioning in the Gaza Strip . At least one person is killed and eight others are reportedly injured during the raid. ( The Guardian )",Middle East,
+54,2024-02-22,high_period,219.58,25.83,,"• Israeli–Palestinian conflict
+   - Israel–Hamas war 40 people are killed and 100 others are injured in Israeli airstrikes against residential buildings in Deir al-Balah in the central Gaza Strip . (Al Jazeera)
+   - 40 people are killed and 100 others are injured in Israeli airstrikes against residential buildings in Deir al-Balah in the central Gaza Strip . (Al Jazeera)
+   - Middle Eastern crisis (2023–present) Az-Za'ayyem checkpoint shooting One Israeli is killed and 11 others are seriously injured in a shooting attack by three Palestinians near the Israeli settlement of Ma'ale Adumim in the occupied West Bank . Two gunmen are killed by Israeli soldiers , while a third is killed in a chase afterwards. ( The National News ) ( Times of Israel )
+   - Az-Za'ayyem checkpoint shooting One Israeli is killed and 11 others are seriously injured in a shooting attack by three Palestinians near the Israeli settlement of Ma'ale Adumim in the occupied West Bank . Two gunmen are killed by Israeli soldiers , while a third is killed in a chase afterwards. ( The National News ) ( Times of Israel )
+   - One Israeli is killed and 11 others are seriously injured in a shooting attack by three Palestinians near the Israeli settlement of Ma'ale Adumim in the occupied West Bank . Two gunmen are killed by Israeli soldiers , while a third is killed in a chase afterwards. ( The National News ) ( Times of Israel )
+
+• 2024 Iran–Israel conflict , Israel–Hezbollah clashes
+   - A Hezbollah rocket strikes Yuval , northern Israel . (Times of Israel)
+   - Two Hezbollah militants killed and three injured in Israeli drone strike on an apartment building in Kfar Remen . (Times of Israel)
+   - Red Sea crisis A Palau -flagged cargo ship en route to Egypt is set on fire after being hit by an anti-ship missile in the Gulf of Aden , according to the United Kingdom Maritime Trade Operations . No casualties are reported. (AP)
+   - A Palau -flagged cargo ship en route to Egypt is set on fire after being hit by an anti-ship missile in the Gulf of Aden , according to the United Kingdom Maritime Trade Operations . No casualties are reported. (AP)
+
+• War in Sudan
+   - The World Food Programme releases a report stating that more than 95% of Sudan 's population cannot afford a meal a day. ( Barron's )",Middle East,Africa
+55,2024-04-16,spike,340.54,109.75,4755.36,"• Israeli–Palestinian conflict
+   - Israel–Hamas war 2024 Iran–Israel conflict , Israel–Hezbollah conflict Ismail Yusuf Baz, commander of Hezbollah 's coastal sector is assassinated with one civilian killed in Ain Ebel , Lebanon , in an Israeli airstrike. (Israel Defense Forces) (Middle East Monitor)
+   - 2024 Iran–Israel conflict , Israel–Hezbollah conflict Ismail Yusuf Baz, commander of Hezbollah 's coastal sector is assassinated with one civilian killed in Ain Ebel , Lebanon , in an Israeli airstrike. (Israel Defense Forces) (Middle East Monitor)
+   - Ismail Yusuf Baz, commander of Hezbollah 's coastal sector is assassinated with one civilian killed in Ain Ebel , Lebanon , in an Israeli airstrike. (Israel Defense Forces) (Middle East Monitor)
+   - Fourteen Israeli soldiers and four civilians were wounded in drone attacks in northern Israel . One IDF officer later succumbs. (Reuters) Al-Maghazi refugee camp airstrikes At least 13 people are killed in a strike on a refugee camp in the Gaza Strip . (CNN)
+   - Al-Maghazi refugee camp airstrikes At least 13 people are killed in a strike on a refugee camp in the Gaza Strip . (CNN)
+   - At least 13 people are killed in a strike on a refugee camp in the Gaza Strip . (CNN)
+   - April 2024 Israeli settler rampages A mob of Israeli settlers in Aqraba kills two Palestinians in revenge for the killing of Israeli teenager Benjamin Achimeir amid escalating ethnoreligious violence in the West Bank . ( The Guardian )
+   - A mob of Israeli settlers in Aqraba kills two Palestinians in revenge for the killing of Israeli teenager Benjamin Achimeir amid escalating ethnoreligious violence in the West Bank . ( The Guardian )
+
+• 2024 Wakeley church stabbing
+   - Australian police say that the stabbing attack at an Assyrian church in Sydney was an Islamic terrorist act. (Reuters)
+
+• Naxalite–Maoist insurgency
+   - Indian security forces kill at least 29 Maoist insurgents in a major counterinsurgency operation in Kanker district , Chhattisgarh . A large quantity of weapons are also seized. (NDTV)
+
+• Peacekeeping operations in Nagorno-Karabakh
+   - Russian peacekeepers begin withdrawing from Nagorno-Karabakh , leaving the region under the full control of Azerbaijan . (Caliber.az)
+
+• Russian invasion of Ukraine
+   - Ukrainian President Volodymyr Zelenskyy signs a new army draft law. (Reuters)",Middle East,"Russia/CIS, Europe"
+56,2024-06-24,spike,212.61,84.3,6570.67,"• Israel–Hamas war
+   - Israeli invasion of the Gaza Strip Gaza humanitarian crisis Eleven Palestinians , including the director of Gaza's Ambulance and Emergency Department, are killed in Israeli airstrikes on the al-Shati refugee camp , Bani Suhaila , and Gaza City . (Reuters)
+   - Gaza humanitarian crisis Eleven Palestinians , including the director of Gaza's Ambulance and Emergency Department, are killed in Israeli airstrikes on the al-Shati refugee camp , Bani Suhaila , and Gaza City . (Reuters)
+   - Eleven Palestinians , including the director of Gaza's Ambulance and Emergency Department, are killed in Israeli airstrikes on the al-Shati refugee camp , Bani Suhaila , and Gaza City . (Reuters)
+   - Three-phase Israel–Hamas war ceasefire proposal Israeli Prime Minister Benjamin Netanyahu rejects the U.S.-backed ceasefire proposal for the war in Gaza , instead committing to continuing the war and ""the goal of eliminating Hamas ."" (TIME)
+   - Israeli Prime Minister Benjamin Netanyahu rejects the U.S.-backed ceasefire proposal for the war in Gaza , instead committing to continuing the war and ""the goal of eliminating Hamas ."" (TIME)
+
+• Russian invasion of Ukraine
+   - Eastern Ukraine campaign At least four people are killed and 40 others are injured when Russian Iskander-M ballistic missiles hit Pokrovsk in Donetsk Oblast , Ukraine . ( The Kyiv Independent ) (Reuters)
+   - At least four people are killed and 40 others are injured when Russian Iskander-M ballistic missiles hit Pokrovsk in Donetsk Oblast , Ukraine . ( The Kyiv Independent ) (Reuters)
+
+• 2024 Dagestan attack
+   - The death toll from the attack on a synagogue and Orthodox church in Derbent and Makhachkala , Dagestan , Russia , yesterday, increases to 20, with 46 others injured. (Reuters)",Middle East,"Russia/CIS, Europe"
+57,2024-09-11,spike,212.91,115.3,11812.38,"• Gaza war
+   - Israeli invasion of the Gaza Strip September 2024 Al-Jawni School attack Eighteen people, including six UNRWA staffers, are killed in Israeli airstrikes on a school in central Gaza . (Reuters) An Israeli Air Force UH-60 Black Hawk helicopter crashes in Rafah during a mission to evacuate an injured combat engineer , killing two personnel on board. ( Times of Israel )
+   - September 2024 Al-Jawni School attack Eighteen people, including six UNRWA staffers, are killed in Israeli airstrikes on a school in central Gaza . (Reuters)
+   - Eighteen people, including six UNRWA staffers, are killed in Israeli airstrikes on a school in central Gaza . (Reuters)
+   - An Israeli Air Force UH-60 Black Hawk helicopter crashes in Rafah during a mission to evacuate an injured combat engineer , killing two personnel on board. ( Times of Israel )
+   - 2024 Israeli military operation in the West Bank At least six Palestinians are killed by an Israeli drone strike on Tubas in the West Bank . (Reuters)
+   - At least six Palestinians are killed by an Israeli drone strike on Tubas in the West Bank . (Reuters)
+
+• Russian invasion of Ukraine
+   - 2024 Kursk offensive Russian forces reportedly recapture 10 settlements in Kursk Oblast . (Anadolu Agency)
+   - Russian forces reportedly recapture 10 settlements in Kursk Oblast . (Anadolu Agency)
+   - Military aid to Ukraine during the Russo-Ukrainian War The United Kingdom reportedly approves the use of Storm Shadow cruise missiles to strike targets inside Russian territory. ( The Kyiv Independent )
+   - The United Kingdom reportedly approves the use of Storm Shadow cruise missiles to strike targets inside Russian territory. ( The Kyiv Independent )
+
+• Israel–Hezbollah conflict
+   - One Hezbollah militant is killed and one militant and two civilians are injured in Israeli drone strikes in southern Lebanon . (Al Jazeera)
+
+• Haitian crisis (2018–present)
+   - A new wave of shootouts erupts in Haiti over a football match leaving at least one gang leader dead. Reports admit being unable to determine the total death toll. (AP)",Middle East,"Russia/CIS, Europe"
+58,2024-09-26,high_period,240.48,65.18,,"• Israel–Hezbollah conflict
+   - September 2024 Lebanon strikes Lebanese displacement during the Israel–Hezbollah conflict Over 22,000 Lebanese residents have crossed into Syria in order to escape ongoing Israeli bombardment and a potential escalation of the conflict. ( Barron's ) Two people, including Mohammad Hussein Srour, a senior commander in Hezbollah , are killed and 15 others are injured in an Israeli airstrike in Beirut , Lebanon. (Al Jazeera) At least 92 people are killed and 153 others are injured in airstrikes across Lebanon, bringing the total death toll from the airstrikes to more than 700 people. (Al Jazeera)
+   - Lebanese displacement during the Israel–Hezbollah conflict Over 22,000 Lebanese residents have crossed into Syria in order to escape ongoing Israeli bombardment and a potential escalation of the conflict. ( Barron's )
+   - Over 22,000 Lebanese residents have crossed into Syria in order to escape ongoing Israeli bombardment and a potential escalation of the conflict. ( Barron's )
+   - Two people, including Mohammad Hussein Srour, a senior commander in Hezbollah , are killed and 15 others are injured in an Israeli airstrike in Beirut , Lebanon. (Al Jazeera)
+   - At least 92 people are killed and 153 others are injured in airstrikes across Lebanon, bringing the total death toll from the airstrikes to more than 700 people. (Al Jazeera)
+   - Israel rejects proposals from the United States , Australia , and the European Union to initiate a temporary 21-day ceasefire with Hezbollah. (Reuters) (Reuters 2)
+
+• Russian invasion of Ukraine
+   - Eastern Ukraine campaign The Russian Defense Ministry claims that Russian forces have taken the city of Ukrainsk in Donetsk Oblast , Ukraine. ( The Moscow Times )
+   - The Russian Defense Ministry claims that Russian forces have taken the city of Ukrainsk in Donetsk Oblast , Ukraine. ( The Moscow Times )
+   - United States and the Russian invasion of Ukraine Prior to a meeting with Ukrainian President Volodymyr Zelenskyy , U.S. President Joe Biden announces a military aid package of more than $8 billion for Ukraine and directs The Pentagon to allocate all remaining security funds to Ukraine by the end of his presidential term in January 2025. (Reuters)
+   - Prior to a meeting with Ukrainian President Volodymyr Zelenskyy , U.S. President Joe Biden announces a military aid package of more than $8 billion for Ukraine and directs The Pentagon to allocate all remaining security funds to Ukraine by the end of his presidential term in January 2025. (Reuters)
+
+• Gaza war
+   - United States support for Israel in the Gaza war The United States grants Israel a $8.7 billion military aid package , with U.S. Secretary of Defense Lloyd Austin stating that the U.S. will not change its commitment to providing military aid to Israel. (Reuters)
+   - The United States grants Israel a $8.7 billion military aid package , with U.S. Secretary of Defense Lloyd Austin stating that the U.S. will not change its commitment to providing military aid to Israel. (Reuters)
+
+• Insurgency in Khyber Pakhtunkhwa
+   - Eight Pakistani Taliban militants are killed in a shootout with soldiers in North Waziristan District , Khyber Pakhtunkhwa , Pakistan . (AP)",Middle East,"Russia/CIS, Europe, Americas, Asia"
+59,2024-11-18,spike,253.14,155.56,15940.08,"• Russian invasion of Ukraine
+   - Russian strikes against Ukrainian infrastructure Odesa strikes Russian forces launch a missile attack on the city of Odesa , Ukraine , for the second consecutive day, killing at least ten civilians, injuring dozens of others and damaging civilian infrastructure, including residential buildings. ( Ukrainska Pravda )
+   - Odesa strikes Russian forces launch a missile attack on the city of Odesa , Ukraine , for the second consecutive day, killing at least ten civilians, injuring dozens of others and damaging civilian infrastructure, including residential buildings. ( Ukrainska Pravda )
+   - Russian forces launch a missile attack on the city of Odesa , Ukraine , for the second consecutive day, killing at least ten civilians, injuring dozens of others and damaging civilian infrastructure, including residential buildings. ( Ukrainska Pravda )
+   - Ukrainian energy crisis , 17 November 2024 Russian strikes on Ukraine Ukraine re-implements nationwide rolling blackouts primarily due to yesterday's destruction of energy infrastructure by Russian airstrikes. (Reuters)
+   - Ukraine re-implements nationwide rolling blackouts primarily due to yesterday's destruction of energy infrastructure by Russian airstrikes. (Reuters)
+
+• Israel–Hezbollah conflict
+   - 2024 Israeli invasion of Lebanon Hezbollah launches more than 100 missiles at Israel , including Tel Aviv , killing one person and injuring dozens of others. ( The Times of Israel ) Five people are killed and 24 others are injured in an Israeli airstrike on Zuqaq al-Blat , Beirut , Lebanon . (Al Jazeera) Hezbollah and Lebanon both agree to a United States proposal for a ceasefire . However, Israel has refused to comment. (Reuters)
+   - Hezbollah launches more than 100 missiles at Israel , including Tel Aviv , killing one person and injuring dozens of others. ( The Times of Israel )
+   - Five people are killed and 24 others are injured in an Israeli airstrike on Zuqaq al-Blat , Beirut , Lebanon . (Al Jazeera)
+   - Hezbollah and Lebanon both agree to a United States proposal for a ceasefire . However, Israel has refused to comment. (Reuters)
+
+• Insurgency in Khyber Pakhtunkhwa
+   - Security forces raid a Lashkar-e-Islam hideout in the Tirah Valley of Khyber Pakhtunkhwa , Pakistan , killing ten militants and injuring several others. (ABC News)
+   - A Pakistani Taliban ambush on a military convoy in Khyber district , Khyber Pakhtunkhwa, kills eight soldiers and wounds three others. Several gunmen are also killed. Separately, seven police officers are kidnapped in Bannu . (Voice of America)
+
+• Somali Civil War
+   - Three people are killed and another is injured when a land mine , believed to have been planted by Al-Shabaab , explodes on a highway between Afgooye and Wanlaweyn in Lower Shabelle , Somalia . (Garowe Online)
+
+• Twenty gang members are killed by security forces in the Gaza Strip after armed looters hijacked almost 100 trucks bringing aid for the ongoing famine . (The Guardian)",Middle East,"Russia/CIS, Europe, Americas, Africa, Asia"
+60,2025-01-22,spike,157.74,107.46,21369.05,"• Colombian conflict
+   - A car bomb explosion inside a house in San Juan de Arama , Meta Department , Colombia , kills one person. Authorities confirm that the car was going to be used in an attack and the perpetrator was a member of the Estado Mayor Central . ( El Tiempo )
+
+• Moro conflict
+   - Militants from an offshoot branch of the Moro Islamic Liberation Front open fire against a United Nations livelihood project in Sumisip , Basilan , Philippines , killing two soldiers and wounding 12 others. (AP)
+
+• Red Sea crisis
+   - The Houthis report that 25 crew members of the Japanese -operated roll-on/roll-off ship Galaxy Leader , including many foreign nationals, are released to Oman , with the Houthis citing support for the 2025 Israel–Hamas war ceasefire as the reason for release. (BBC)",Middle East,"Asia, Americas"
+61,2025-03-04,spike,253.45,99.22,6433.54,"• Hezbollah–Israel conflict
+   - Israeli invasion of Lebanon An Israeli drone strike in Tyre , Lebanon , kills Haidar Hashem, the head of naval forces in Hezbollah 's Radwan Force . ( Times of Israel )
+   - An Israeli drone strike in Tyre , Lebanon , kills Haidar Hashem, the head of naval forces in Hezbollah 's Radwan Force . ( Times of Israel )
+
+• Russian invasion of Ukraine
+   - Attacks in Russia during the Russian invasion of Ukraine A Ukrainian drone strikes an oil pipeline in Rostov Oblast , Russia , setting the pipeline ablaze for several hours before being put out by firefighters . Russia also reports its air defence units repelled another drone attack near Novoshakhtinsk . (Reuters)
+   - A Ukrainian drone strikes an oil pipeline in Rostov Oblast , Russia , setting the pipeline ablaze for several hours before being put out by firefighters . Russia also reports its air defence units repelled another drone attack near Novoshakhtinsk . (Reuters)
+
+• 2024–present Serbian anti-corruption protests
+   - Serbian National Assembly brawl At least three Serbian lawmakers are injured after flares and smoke bombs were thrown into the National Assembly . Ana Brnabić , the President of the National Assembly , described the attack as terrorism . (CTV News)
+   - At least three Serbian lawmakers are injured after flares and smoke bombs were thrown into the National Assembly . Ana Brnabić , the President of the National Assembly , described the attack as terrorism . (CTV News)
+
+• Insurgency in Khyber Pakhtunkhwa
+   - Militants belonging to a splinter group of the Pakistani Taliban storm a Pakistan Army compound in Bannu , Khyber Pakhtunkhwa , Pakistan , after two suicide bombers blow themselves up at the entrance, killing 12 civilians and wounding 30 others after nearby buildings collapsed. Six gunmen are also killed in the shootout . (Al Jazeera)
+
+• New People's Army rebellion
+   - A Philippine Air Force FA-50PH fighter jet is reported missing during an overnight combat operation against insurgents in Bukidnon , Philippines . A search and rescue operation to locate the missing pilots is launched with both later being confirmed dead. (Reuters) ( The Philippine Star )
+
+• Red Sea crisis
+   - The Houthis claim to have shot down an American MQ-9 UAV , stating that it was conducting ""hostile missions"" over Al Hudaydah . The U.S. Air Force later confirms a loss of contact with the drone. (Al Arabiya)",Middle East,"Russia/CIS, Europe, Asia, Americas"
+62,2025-03-19,high_period,275.57,74.09,,"• Gaza war
+   - Israeli bombing of the Gaza Strip March 2025 Israeli attacks on the Gaza Strip The Israeli military conducts multiple airstrikes on Rafah and Khan Yunis in southern Gaza , killing at least 60 Palestinians . (Al Jazeera) ( The Times of Israel ) The United Nations reports that a UN official is killed and five others are wounded in a strike on a guesthouse. The UN states that the perpetrator is unclear at this time. (AP) The Israeli Defense Forces re-take the Netzarim Corridor , preventing the movement of Palestinians between the northern and southern sides of Gaza. (Al Jazeera)
+   - March 2025 Israeli attacks on the Gaza Strip The Israeli military conducts multiple airstrikes on Rafah and Khan Yunis in southern Gaza , killing at least 60 Palestinians . (Al Jazeera) ( The Times of Israel ) The United Nations reports that a UN official is killed and five others are wounded in a strike on a guesthouse. The UN states that the perpetrator is unclear at this time. (AP) The Israeli Defense Forces re-take the Netzarim Corridor , preventing the movement of Palestinians between the northern and southern sides of Gaza. (Al Jazeera)
+   - The Israeli military conducts multiple airstrikes on Rafah and Khan Yunis in southern Gaza , killing at least 60 Palestinians . (Al Jazeera) ( The Times of Israel )
+   - The United Nations reports that a UN official is killed and five others are wounded in a strike on a guesthouse. The UN states that the perpetrator is unclear at this time. (AP)
+   - The Israeli Defense Forces re-take the Netzarim Corridor , preventing the movement of Palestinians between the northern and southern sides of Gaza. (Al Jazeera)
+
+• Kivu conflict
+   - M23 campaign 2025 Walikale offensive M23 rebels enter Walikale , North Kivu , Democratic Republic of the Congo , after overrunning Congolese Army positions north of the town. (Reuters)
+   - 2025 Walikale offensive M23 rebels enter Walikale , North Kivu , Democratic Republic of the Congo , after overrunning Congolese Army positions north of the town. (Reuters)
+   - M23 rebels enter Walikale , North Kivu , Democratic Republic of the Congo , after overrunning Congolese Army positions north of the town. (Reuters)
+
+• Russian invasion of Ukraine
+   - Peace negotiations in the Russian invasion of Ukraine Ukrainian president Volodymyr Zelenskyy says that Russia is attempting to discredit U.S. President Donald Trump 's peace negotiations after Russian Armed Forces launched drone attacks on Kyiv overnight after talks between the U.S. and Russia. (BBC News)
+   - Ukrainian president Volodymyr Zelenskyy says that Russia is attempting to discredit U.S. President Donald Trump 's peace negotiations after Russian Armed Forces launched drone attacks on Kyiv overnight after talks between the U.S. and Russia. (BBC News)
+   - Attacks in Russia during the Russian invasion of Ukraine The Russian Ministry of Defense says Ukraine violated the energy infrastructure ceasefire reached by presidents Donald Trump and Vladimir Putin by launching a drone attack on an oil depot in Krasnodar Krai . ( The Moscow Times )
+   - The Russian Ministry of Defense says Ukraine violated the energy infrastructure ceasefire reached by presidents Donald Trump and Vladimir Putin by launching a drone attack on an oil depot in Krasnodar Krai . ( The Moscow Times )",MULTI_REGION,"Russia/CIS, Middle East, Europe"
+63,2025-04-04,spike,177.26,79.15,8068.07,"• Russo-Ukrainian War
+   - Russian invasion of Ukraine Kharkiv strikes , Attacks on civilians in the Russian invasion of Ukraine Five people are killed, including a child, and 35 are injured in a Russian drone attack on a residential area in Novobavarskyi District of Kharkiv , Ukraine . ( Ukrainska Pravda ) Kryvyi Rih strikes A Russian ballistic missile strike on a residential area in Kryvyi Rih , Ukraine , kills 19 people, including nine children, and injures more than 50 others. The Russian Defence Ministry says its forces were targeting a military gathering in the city. (CNN) (BBC News) ( Ukrainska Pravda ) (Reuters)
+   - Kharkiv strikes , Attacks on civilians in the Russian invasion of Ukraine Five people are killed, including a child, and 35 are injured in a Russian drone attack on a residential area in Novobavarskyi District of Kharkiv , Ukraine . ( Ukrainska Pravda )
+   - Five people are killed, including a child, and 35 are injured in a Russian drone attack on a residential area in Novobavarskyi District of Kharkiv , Ukraine . ( Ukrainska Pravda )
+   - Kryvyi Rih strikes A Russian ballistic missile strike on a residential area in Kryvyi Rih , Ukraine , kills 19 people, including nine children, and injures more than 50 others. The Russian Defence Ministry says its forces were targeting a military gathering in the city. (CNN) (BBC News) ( Ukrainska Pravda ) (Reuters)
+   - A Russian ballistic missile strike on a residential area in Kryvyi Rih , Ukraine , kills 19 people, including nine children, and injures more than 50 others. The Russian Defence Ministry says its forces were targeting a military gathering in the city. (CNN) (BBC News) ( Ukrainska Pravda ) (Reuters)
+
+• M23 campaign
+   - 2025 Walikale offensive The Congolese media reports that M23 rebels retreating from Walikale have arrived in Kibua in North Kivu , Democratic Republic of the Congo. (Critical Threats)
+   - The Congolese media reports that M23 rebels retreating from Walikale have arrived in Kibua in North Kivu , Democratic Republic of the Congo. (Critical Threats)
+
+• Syrian civil war
+   - Syrian peace process Groups of Kurdish -led Syrian Democratic Forces (SDF) militants withdraw from the two neighborhoods of Sheikh Maqsood and Achrafieh in Aleppo , Syria , as part of a deal with the Syrian government , which will eventually merge the SDF and the Syrian Armed Forces under one command. (AP)
+   - Groups of Kurdish -led Syrian Democratic Forces (SDF) militants withdraw from the two neighborhoods of Sheikh Maqsood and Achrafieh in Aleppo , Syria , as part of a deal with the Syrian government , which will eventually merge the SDF and the Syrian Armed Forces under one command. (AP)
+
+• Gaza war
+   - More than 30 people are killed in Israeli airstrikes in Gaza . ( Channel 4 News )",Russia/CIS,"Europe, Middle East"
+64,2025-05-07,high_period,250.62,41.67,,"• 2025 India–Pakistan standoff
+   - 2025 India–Pakistan conflict Indian airstrikes impact multiple locations in Pakistan and Pakistan-administered Kashmir , killing at least 8 people. (Reuters) ( India Today ) Pakistan launches retaliatory strikes into India and Indian-administered Kashmir , and claims to have destroyed five Indian fighter jets. Three civilians are killed. ( The Express Tribune ) (Al Jazeera) Pakistani prime minister Shehbaz Sharif declares the Indian attacks to be an act of war and vows further retaliation. (ABC News) A state of emergency is declared in Pakistan's Punjab province following the airstrikes, with all schools in the region being closed. Hospitals and emergency services are placed on high alert. ( The Express Tribune )
+   - Indian airstrikes impact multiple locations in Pakistan and Pakistan-administered Kashmir , killing at least 8 people. (Reuters) ( India Today )
+   - Pakistan launches retaliatory strikes into India and Indian-administered Kashmir , and claims to have destroyed five Indian fighter jets. Three civilians are killed. ( The Express Tribune ) (Al Jazeera)
+   - Pakistani prime minister Shehbaz Sharif declares the Indian attacks to be an act of war and vows further retaliation. (ABC News)
+   - A state of emergency is declared in Pakistan's Punjab province following the airstrikes, with all schools in the region being closed. Hospitals and emergency services are placed on high alert. ( The Express Tribune )
+
+• Israeli–Palestinian conflict
+   - Gaza war Israeli bombing of the Gaza Strip According to Hamas officials, Israeli airstrikes kill at least 92 Palestinians , including women, children, and two journalists , and wound at least 86 others. (AP)
+   - Israeli bombing of the Gaza Strip According to Hamas officials, Israeli airstrikes kill at least 92 Palestinians , including women, children, and two journalists , and wound at least 86 others. (AP)
+   - According to Hamas officials, Israeli airstrikes kill at least 92 Palestinians , including women, children, and two journalists , and wound at least 86 others. (AP)
+   - Palestinian political violence Four people are injured, at least two seriously, in a drive-by shooting at a car at the Reihan crossing in the West Bank . (YNet) ( Times of Israel ) ( Arutz Sheva ) One person is injured in an attempted car ramming and stabbing in Mount Hebron in the West Bank . (YNet)
+   - Four people are injured, at least two seriously, in a drive-by shooting at a car at the Reihan crossing in the West Bank . (YNet) ( Times of Israel ) ( Arutz Sheva )
+   - One person is injured in an attempted car ramming and stabbing in Mount Hebron in the West Bank . (YNet)",MULTI_REGION,"Asia, Middle East"
+65,2025-06-23,spike,542.29,256.92,9002.98,"• Middle Eastern crisis
+   - Iran–Israel war Airstrikes during the Iran–Israel war A United Nations fact-finding mission reports that Israeli strikes on Iran ’s state broadcasting agency and killing of Iranian nuclear scientists were likely in violation of international humanitarian law . (Al Jazeera) The Israeli military strikes Evin Prison in Tehran , Iran , damaging the facility's infrastructure. State TV showed first responders carrying a casualty and searching for survivors under a collapsed building. (BBC News) (Reuters) Qatar closes the country's airspace amidst an imminent threat of a Iranian ballistic missile attack on U.S. forces stationed in the country. Multiple explosions are reported over Doha . (AP) (BBC News) 2025 Iranian strikes on Al Udeid Air Base Iran's Islamic Revolutionary Guards Corps says it has launched missiles at the U.S. Al Udeid Air Base in Qatar and U.S. bases in Iraq . U.S. officials later confirm no Iranian missiles hit the Al Udeid Air Base. (France 24) The Qatar Foreign Ministry says the Qatari military has intercepted all the missiles launched at the Al Udeid Air Base, and that no injuries are reported. (Al Bawaba) (Axios) Iran–Israel war ceasefire U.S. president Donald Trump announces that a ceasefire has been reached between Iran and Israel. The ceasefire has not been confirmed by either Iran or Israel. (Al Jazeera) (Reuters)
+   - Airstrikes during the Iran–Israel war A United Nations fact-finding mission reports that Israeli strikes on Iran ’s state broadcasting agency and killing of Iranian nuclear scientists were likely in violation of international humanitarian law . (Al Jazeera) The Israeli military strikes Evin Prison in Tehran , Iran , damaging the facility's infrastructure. State TV showed first responders carrying a casualty and searching for survivors under a collapsed building. (BBC News) (Reuters) Qatar closes the country's airspace amidst an imminent threat of a Iranian ballistic missile attack on U.S. forces stationed in the country. Multiple explosions are reported over Doha . (AP) (BBC News)
+   - A United Nations fact-finding mission reports that Israeli strikes on Iran ’s state broadcasting agency and killing of Iranian nuclear scientists were likely in violation of international humanitarian law . (Al Jazeera)
+   - The Israeli military strikes Evin Prison in Tehran , Iran , damaging the facility's infrastructure. State TV showed first responders carrying a casualty and searching for survivors under a collapsed building. (BBC News) (Reuters)
+   - Qatar closes the country's airspace amidst an imminent threat of a Iranian ballistic missile attack on U.S. forces stationed in the country. Multiple explosions are reported over Doha . (AP) (BBC News)
+   - 2025 Iranian strikes on Al Udeid Air Base Iran's Islamic Revolutionary Guards Corps says it has launched missiles at the U.S. Al Udeid Air Base in Qatar and U.S. bases in Iraq . U.S. officials later confirm no Iranian missiles hit the Al Udeid Air Base. (France 24) The Qatar Foreign Ministry says the Qatari military has intercepted all the missiles launched at the Al Udeid Air Base, and that no injuries are reported. (Al Bawaba) (Axios)
+   - Iran's Islamic Revolutionary Guards Corps says it has launched missiles at the U.S. Al Udeid Air Base in Qatar and U.S. bases in Iraq . U.S. officials later confirm no Iranian missiles hit the Al Udeid Air Base. (France 24)
+   - The Qatar Foreign Ministry says the Qatari military has intercepted all the missiles launched at the Al Udeid Air Base, and that no injuries are reported. (Al Bawaba) (Axios)
+   - Iran–Israel war ceasefire U.S. president Donald Trump announces that a ceasefire has been reached between Iran and Israel. The ceasefire has not been confirmed by either Iran or Israel. (Al Jazeera) (Reuters)
+   - U.S. president Donald Trump announces that a ceasefire has been reached between Iran and Israel. The ceasefire has not been confirmed by either Iran or Israel. (Al Jazeera) (Reuters)
+   - Gaza war Rafah aid distribution killings Israeli gunfire and airstrikes kill at least 43 Palestinians across the Gaza Strip , including 13 people seeking aid assistance . (Al Jazeera) Spanish foreign minister José Albares calls on the European Council to suspend EU relations with Israel due to Israeli human rights violations in Gaza. He also calls for an arms embargo against Israel and sanctions on individuals obstructing the two-state solution . (Al Jazeera) (YeniSafak)
+   - Rafah aid distribution killings Israeli gunfire and airstrikes kill at least 43 Palestinians across the Gaza Strip , including 13 people seeking aid assistance . (Al Jazeera)
+   - Israeli gunfire and airstrikes kill at least 43 Palestinians across the Gaza Strip , including 13 people seeking aid assistance . (Al Jazeera)
+   - Spanish foreign minister José Albares calls on the European Council to suspend EU relations with Israel due to Israeli human rights violations in Gaza. He also calls for an arms embargo against Israel and sanctions on individuals obstructing the two-state solution . (Al Jazeera) (YeniSafak)
+
+• Somali Civil War
+   - 2025 Shabelle offensive At least seven Ugandan Armed Forces personnel are confirmed killed by Al Shabaab following a three-day siege on Sabiidd-Anole in the Lower Shabelle region of Somalia amid ongoing operations against the militant group. The soldiers were part of the African Union Support and Stabilization Mission in Somalia , tasked with countering Al-Shabaab. (Garowe Online) ( The Defense Post ) Al-Shabaab claims that its fighters have overrun a military installation, killed several soldiers, and seized weapons and military equipment following fierce fighting erupted on the morning between Somali National Army and Al-Shabaab militants. (Hiiraan Online) ( The Eastleigh Voice )
+   - At least seven Ugandan Armed Forces personnel are confirmed killed by Al Shabaab following a three-day siege on Sabiidd-Anole in the Lower Shabelle region of Somalia amid ongoing operations against the militant group. The soldiers were part of the African Union Support and Stabilization Mission in Somalia , tasked with countering Al-Shabaab. (Garowe Online) ( The Defense Post )
+   - Al-Shabaab claims that its fighters have overrun a military installation, killed several soldiers, and seized weapons and military equipment following fierce fighting erupted on the morning between Somali National Army and Al-Shabaab militants. (Hiiraan Online) ( The Eastleigh Voice )
+   - Child soldiers in Somalia The United Nations formally removes Somalia from its annual register of nations that enlist and deploy child soldiers . The country had been included on the register since 2007, owing to consistent reports of child recruitment by Somali Armed Forces and associated militias. ( The Eastleigh Voice ) (UN)
+   - The United Nations formally removes Somalia from its annual register of nations that enlist and deploy child soldiers . The country had been included on the register since 2007, owing to consistent reports of child recruitment by Somali Armed Forces and associated militias. ( The Eastleigh Voice ) (UN)
+
+• Russian invasion of Ukraine
+   - Aid to Ukraine during the Russo-Ukrainian War NATO Secretary-General Mark Rutte announces that European countries and Canada will send Ukraine a combined aid package of € 35 billion (US$40.3 billion). (RBC)
+   - NATO Secretary-General Mark Rutte announces that European countries and Canada will send Ukraine a combined aid package of € 35 billion (US$40.3 billion). (RBC)
+   - Kyiv strikes Russian forces launch a large-scale drone and missile strike on Kyiv , Ukraine , damaging residential areas, hospitals, and sports infrastructure, killing nine people and injuring at least 33 others. (BBC News)
+   - Russian forces launch a large-scale drone and missile strike on Kyiv , Ukraine , damaging residential areas, hospitals, and sports infrastructure, killing nine people and injuring at least 33 others. (BBC News)",Middle East,"Europe, Russia/CIS, Africa, Americas"
+66,2025-09-10,spike,254.81,163.58,17928.99,"• Middle Eastern crisis
+   - Gaza war Israeli invasion of the Gaza Strip 2025 Gaza City offensive Israeli attacks across the Gaza Strip kill at least 72 Palestinians amidst the ongoing offensive to capture Gaza City . (Al Jazeera)
+   - Israeli invasion of the Gaza Strip 2025 Gaza City offensive Israeli attacks across the Gaza Strip kill at least 72 Palestinians amidst the ongoing offensive to capture Gaza City . (Al Jazeera)
+   - 2025 Gaza City offensive Israeli attacks across the Gaza Strip kill at least 72 Palestinians amidst the ongoing offensive to capture Gaza City . (Al Jazeera)
+   - Israeli attacks across the Gaza Strip kill at least 72 Palestinians amidst the ongoing offensive to capture Gaza City . (Al Jazeera)
+   - Red Sea crisis September 2025 Israeli attacks in Yemen Israel carries out a series of airstrikes against alleged Houthi targets and civilian structures in Sanaa and Al Jawf Governorate , Yemen , killing 35 people and wounding 131 others. (Al Jazeera)
+   - September 2025 Israeli attacks in Yemen Israel carries out a series of airstrikes against alleged Houthi targets and civilian structures in Sanaa and Al Jawf Governorate , Yemen , killing 35 people and wounding 131 others. (Al Jazeera)
+   - Israel carries out a series of airstrikes against alleged Houthi targets and civilian structures in Sanaa and Al Jawf Governorate , Yemen , killing 35 people and wounding 131 others. (Al Jazeera)
+
+• Russian invasion of Ukraine
+   - Russia-NATO relations , Poland-Russia relations 2025 Russian drone incursion into Poland , Violations of non-combatant airspaces during the Russian invasion of Ukraine The Polish Air Force and NATO allies scramble fighter jets in response to 19 Russian drones penetrating up to 250 km into Polish airspace during an overnight air attack on Ukraine . (BBC News) The Polish Armed Forces confirms it has shot down four Russian drones over the country, marking the first time Poland has directly engaged Russian military assets since the start of the war. (BBC News) Poland closes multiple airports due to the airspace breach, including Warsaw Modlin Airport , Rzeszów–Jasionka Airport , and Lublin Airport . (CNN) Polish prime minister Donald Tusk invokes Article 4 of the North Atlantic Treaty following the incursion. ( The Guardian )
+   - 2025 Russian drone incursion into Poland , Violations of non-combatant airspaces during the Russian invasion of Ukraine The Polish Air Force and NATO allies scramble fighter jets in response to 19 Russian drones penetrating up to 250 km into Polish airspace during an overnight air attack on Ukraine . (BBC News) The Polish Armed Forces confirms it has shot down four Russian drones over the country, marking the first time Poland has directly engaged Russian military assets since the start of the war. (BBC News) Poland closes multiple airports due to the airspace breach, including Warsaw Modlin Airport , Rzeszów–Jasionka Airport , and Lublin Airport . (CNN) Polish prime minister Donald Tusk invokes Article 4 of the North Atlantic Treaty following the incursion. ( The Guardian )
+   - The Polish Air Force and NATO allies scramble fighter jets in response to 19 Russian drones penetrating up to 250 km into Polish airspace during an overnight air attack on Ukraine . (BBC News)
+   - The Polish Armed Forces confirms it has shot down four Russian drones over the country, marking the first time Poland has directly engaged Russian military assets since the start of the war. (BBC News)
+   - Poland closes multiple airports due to the airspace breach, including Warsaw Modlin Airport , Rzeszów–Jasionka Airport , and Lublin Airport . (CNN)
+   - Polish prime minister Donald Tusk invokes Article 4 of the North Atlantic Treaty following the incursion. ( The Guardian )
+
+• 2025 Nepalese Gen Z protests
+   - Nepal deploys its military to enforce an indefinite curfew in Kathmandu following anti- corruption protests. (Euronews)
+   - Kathmandu's Tribhuvan International Airport reopens nearly a day after the Nepali Army occupied it. (BBC News)",MULTI_REGION,"Middle East, Europe, Russia/CIS"
+67,2025-10-23,spike,206.04,94.56,8482.57,"• Boko Haram insurgency
+   - At least 50 insurgents are killed as the Nigerian Army repel drone-backed attacks on military positions in Borno and Yobe States . (Reuters)
+
+• Israel–Hezbollah conflict
+   - Four people, including an elderly woman, are killed in a series of Israeli airstrikes in eastern and southern Lebanon . (Al Jazeera)
+
+• Syrian conflict
+   - A ceasefire is agreed between the Syrian Armed Forces and Firqat al-Ghuraba , after the latter's camp was sieged yesterday in Harem . (France24)",MULTI_REGION,"Middle East, Africa"

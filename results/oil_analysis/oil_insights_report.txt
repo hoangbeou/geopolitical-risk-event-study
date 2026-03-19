@@ -1,0 +1,84 @@
+================================================================================
+PHÂN TÍCH CHUYÊN SÂU VỀ OIL - INSIGHTS
+================================================================================
+
+Tổng số events: 63
+Date range: 2015-03-27 00:00:00 to 2025-10-23 00:00:00
+
+--------------------------------------------------------------------------------
+1. THỐNG KÊ TỔNG QUAN OIL
+--------------------------------------------------------------------------------
+  Mean OIL CAR: 0.69%
+  Std OIL CAR: 11.92%
+  Min: -18.80%
+  Max: 67.85%
+  Positive rate: 47.6%
+  Mean |OIL CAR|: 7.28%
+
+--------------------------------------------------------------------------------
+2. OIL THEO ACT vs THREAT
+--------------------------------------------------------------------------------
+  ACT Events (22):
+    - Mean OIL CAR: 1.59%
+    - Positive rate: 45.5%
+  THREAT Events (41):
+    - Mean OIL CAR: 0.21%
+    - Positive rate: 48.8%
+  Chênh lệch: 1.38 điểm phần trăm
+  → ACT events gây phản ứng OIL dương MẠNH HƠN THREAT
+  → Sự kiện thực tế (ACT) làm giá dầu tăng mạnh hơn đe dọa (THREAT)
+
+--------------------------------------------------------------------------------
+3. OIL THEO GIAI ĐOẠN
+--------------------------------------------------------------------------------
+  Pre-Ukraine (2015-2021):
+    - Mean OIL CAR: -0.13%
+    - Positive rate: 50.0%
+  Post-Ukraine (2022-2025):
+    - Mean OIL CAR: 1.93%
+    - Positive rate: 44.0%
+  Thay đổi: 2.06 điểm phần trăm
+
+--------------------------------------------------------------------------------
+4. OIL THEO VỊ TRÍ ĐỊA LÝ
+--------------------------------------------------------------------------------
+
+  OIL PRODUCERS (11 locations):
+    - Mean OIL CAR: 3.24%
+    - Positive locations: 6/11
+    - Top: Libya (33.98%)
+
+  Top 5 Locations - OIL Phản ứng Dương:
+    - Libya: 33.98% (2 events)
+    - Germany: 14.73% (1 events)
+    - Dagestan: 11.07% (1 events)
+    - Qatar: 8.69% (1 events)
+    - Afghanistan: 6.51% (11 events)
+
+  Top 5 Locations - OIL Phản ứng Âm:
+    - Austria: -15.23% (1 events)
+    - Turkey: -10.76% (1 events)
+    - Georgia: -9.32% (1 events)
+    - Belgium: -9.32% (1 events)
+    - Damascus: -7.05% (2 events)
+
+--------------------------------------------------------------------------------
+5. MỐI QUAN HỆ VỚI GPR
+--------------------------------------------------------------------------------
+  Correlation OIL CAR vs GPR_Diff: -0.1726
+  → Correlation âm đáng kể
+  → OIL phản ứng mạnh với GPR magnitude
+
+--------------------------------------------------------------------------------
+6. INSIGHTS CHÍNH VỀ OIL
+--------------------------------------------------------------------------------
+  • OIL có phản ứng DƯƠNG trung bình với GPR events
+    → GPR events làm giá dầu TĂNG
+  • ACT events gây phản ứng OIL dương MẠNH HƠN THREAT
+    → Sự kiện thực tế (ACT) làm giá dầu tăng mạnh hơn đe dọa (THREAT)
+    → Thị trường phản ứng mạnh với 'tin tức thực tế' hơn 'tin đồn'
+  • Events tại các nước SẢN XUẤT DẦU gây phản ứng OIL dương mạnh hơn
+    → Supply-side concerns làm giá dầu tăng
+  • OIL có độ biến động CAO
+    → Phản ứng giá không nhất quán
+    → Phụ thuộc mạnh vào vị trí địa lý và bản chất sự kiện

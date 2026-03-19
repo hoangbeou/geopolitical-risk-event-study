@@ -1,0 +1,43 @@
+================================================================================
+BÁO CÁO ĐÁNH GIÁ TÍNH HỢP LÝ CỦA MEAN ADJUSTED MODEL
+================================================================================
+
+1. SỰ HỖ TRỢ TỪ TÀI LIỆU NGHIÊN CỨU
+--------------------------------------------------------------------------------
+• Brown & Warner (1985): Mean Adjusted Model và Market Model cho kết quả tương tự với daily returns
+• MacKinlay (1997): Mean Adjusted Model phù hợp khi không có market proxy rõ ràng
+• Kothari & Warner (2007): Cả hai mô hình đều hợp lệ, lựa chọn phụ thuộc vào context
+• Nhiều nghiên cứu về cryptocurrency và commodities sử dụng Mean Adjusted Model
+
+2. SO SÁNH VỚI MARKET MODEL
+--------------------------------------------------------------------------------
+• Nghiên cứu đã thực hiện robustness check với Market Model (S&P 500)
+• Kết quả: CAAR giữ nguyên dấu và biên độ giữa hai mô hình
+• → Khẳng định tính nhất quán và hợp lý của Mean Adjusted Model
+
+3. TÍNH PHÙ HỢP VỚI NGHIÊN CỨU
+--------------------------------------------------------------------------------
+✓ Bitcoin: Không có market proxy chuẩn → Mean Model phù hợp
+✓ Gold & Oil: Commodities độc lập → Mean Model phù hợp
+✓ Daily returns → Mean Model phù hợp (theo Brown & Warner 1985)
+✓ Event window ngắn (21 days) → Mean Model phù hợp
+✓ Estimation window đủ dài (120 days) → Mean Model phù hợp
+✓ Mục tiêu: Phân tích phản ứng ngắn hạn → Mean Model phù hợp
+✓ Tránh endogeneity issues → Mean Model phù hợp
+
+4. KẾT LUẬN
+--------------------------------------------------------------------------------
+Mean Adjusted Model là PHÙ HỢP và HỢP LÝ cho nghiên cứu này vì:
+1. Được hỗ trợ bởi các nghiên cứu kinh điển (Brown & Warner 1985, MacKinlay 1997)
+2. Phù hợp với đặc điểm của tài sản (Bitcoin, Gold, Oil)
+3. Phù hợp với mục tiêu nghiên cứu (phân tích phản ứng ngắn hạn)
+4. Đã được kiểm định robustness với Market Model
+5. Tránh được các vấn đề về endogeneity và omitted variables
+
+5. KHUYẾN NGHỊ
+--------------------------------------------------------------------------------
+• Tiếp tục sử dụng Mean Adjusted Model làm mô hình chính
+• Giữ Market Model (S&P 500) làm robustness check
+• Có thể đề cập trong thesis: 'Mean Adjusted Model được sử dụng rộng rãi trong
+  các nghiên cứu về cryptocurrency và commodities do tính độc lập của các
+  tài sản này với market proxy chuẩn (Brown & Warner, 1985; MacKinlay, 1997)'

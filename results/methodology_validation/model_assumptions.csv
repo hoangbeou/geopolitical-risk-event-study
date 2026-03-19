@@ -1,0 +1,6 @@
+Assumption,Test_Method,Status
+Returns tuân theo phân phối chuẩn,Shapiro-Wilk test / Q-Q plot,Cần kiểm tra
+Mean return ổn định trong estimation window,Stability test / Rolling mean,Cần kiểm tra
+Không có autocorrelation trong returns,Ljung-Box test,Cần kiểm tra
+Không có heteroskedasticity,Breusch-Pagan test,Cần kiểm tra
+Event không ảnh hưởng đến estimation window,Visual inspection / Gap window,Đã đảm bảo (gap window)

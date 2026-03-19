@@ -1,0 +1,5 @@
+Spillover,Direction,Follow_Rate,Count
+BTC+ -> GOLD,Positive,0.5517241379310345,29
+BTC- -> GOLD,Negative,0.5,28
+GOLD+ -> OIL,Positive,0.4,10
+OIL+ -> BTC,Positive,0.5333333333333333,15
